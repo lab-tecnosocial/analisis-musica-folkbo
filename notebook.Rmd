@@ -1,0 +1,32 @@
+---
+title: "Análisis de sentimiento de música folklorica boliviana"
+author: Laboratorio de Tecnologías Sociale
+output: html_notebook
+---
+
+# Instalar paquetes y configuraciones básicas
+
+```{r}
+library(tidyverse)
+
+```
+
+# Cargar datos
+
+
+# Análisis de las letras
+
+### Análisis de contenido
+
+
+
+### Redes semánticas y correlaciones
+
+### Análisis de sentimiento
+
+### Topic modeling
+
+# Análisis de la música
+
+
+
