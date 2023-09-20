@@ -8,25 +8,145 @@ output: html_notebook
 
 ```{r}
 library(tidyverse)
+library(tidytext)
+library(stopwords)
+library(syuzhet)
+library(wordcloud2)
+library(ggwordcloud)
 
+theme_set(theme_minimal())
 ```
 
+
 # Cargar datos
+
+```{r}
+metadata <- read_csv("data/metadata.csv")
+spotify_features <- read_csv("data/spotify_features.csv")
+archivos_letras <- list.files("data/letras/", full.names = T)
+letras <- map_dfr(archivos_letras, ~tibble(archivo = basename(.x), contenido = read_file(.x)))
+
+letras <- letras %>%
+  mutate(id = parse_number(str_remove(archivo, ".txt"))) %>%
+  relocate(id, .before = everything()) %>%
+  arrange(id)
+data <- metadata %>%
+  left_join(letras, by = join_by(N == id))
+
+```
 
 
 # Análisis de las letras
 
+Posibles comparaciones por:
+- Lugar
+- Ritmo
+- Tal vez occidente, valle, oriente o algo así
+
 ### Análisis de contenido
 
+#### Frecuencias
+```{r}
+palabras_vacias <- bind_rows(
+  tibble(palabra = stopwords("es")),
+  tibble(palabra = c())
+  )
+data_palabras <- data %>%
+  unnest_tokens(palabra, contenido) %>%
+  anti_join(palabras_vacias)
+```
+```{r, fig.height=5}
+palabras_conteo <- data_palabras %>%
+  count(palabra, sort = T)
 
+palabras_conteo %>%
+  slice_head(n = 50) %>%
+  mutate(palabra = reorder(palabra, n)) %>%
+  ggplot(aes(n, palabra)) +
+  geom_col() +
+  labs(y = NULL)
+```
+
+```{r}
+palabras_conteo  %>%
+  slice_head(n = 50) %>%
+  rename(word = palabra, freq = n) %>%
+  wordcloud2()
+```
+
+```{r}
+data_palabras_ritmo <- data_palabras %>%
+  group_by(Ritmo) %>%
+  count(palabra) %>%
+  slice_max(n, n = 10)
+
+data_palabras_ritmo %>%
+  group_by(Ritmo) %>%
+  slice_max(n, n = 3) %>%
+  ungroup %>%
+  mutate(Ritmo = as.factor(Ritmo), palabra = reorder_within(palabra, n, Ritmo)) %>%
+  ggplot(aes(n, palabra)) +
+  geom_col() +
+   scale_y_reordered() +
+  facet_wrap(~Ritmo, scales = "free_y")
+```
+
+
+#### Inversas
 
 ### Redes semánticas y correlaciones
 
 ### Análisis de sentimiento
 
+```{r}
+# sentimientos_contenido <- get_nrc_sentiment(data$contenido, language = "spanish")
+# write_csv(sentimientos_contenido, "output/sentimientos_contenido.csv")
+
+sentimientos_traduccion <- c("Ira" = "anger", "Anticipacion" = "anticipation", "Asco" = "disgust", "Miedo" = "fear", "Alegria" = "joy", "Tristeza" = "sadness", "Sorpresa" = "surprise", "Confianza" = "trust", "Negativo" = "negative", "Positivo" = "positive")
+
+sentimientos_contenido <- sentimientos_contenido %>%
+  rename(sentimientos_traduccion)
+
+sentimientos_contenido <- sentimientos_contenido %>% 
+  rowid_to_column()
+
+data <- data %>%
+  left_join(sentimientos_contenido, by = join_by(N == rowid))
+
+```
+
+
+```{r}
+suma_sentimientos <- data %>%
+  group_by(Ritmo) %>%
+  summarize(across(Ira:Positivo, sum)) %>%
+  pivot_longer(-Ritmo, names_to = "sentimiento", values_to = "valor") 
+  
+```
+
+```{r}
+suma_sentimientos %>%
+  filter(!sentimiento %in% c("Positivo", "Negativo")) %>%
+  ggplot() +
+  geom_col(aes(x = Ritmo, valor, fill = sentimiento), position = position_fill()) +
+  coord_flip()
+```
+```{r}
+suma_sentimientos %>%
+  filter(sentimiento %in% c("Positivo", "Negativo")) %>%
+  ggplot() +
+  geom_col(aes(x = Ritmo, valor, fill = sentimiento), position = position_fill()) +
+  coord_flip()
+```
+
+
 ### Topic modeling
 
 # Análisis de la música
+
+Según las métricas de Spotify
+
+
 
 
 
