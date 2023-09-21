@@ -13,6 +13,7 @@ library(stopwords)
 library(syuzhet)
 library(wordcloud2)
 library(ggwordcloud)
+library(patchwork)
 
 theme_set(theme_minimal())
 ```
@@ -36,12 +37,12 @@ data <- metadata %>%
 ```
 
 
-# Análisis de las letras
+# Análisis de letras
 
 Posibles comparaciones por:
 - Lugar
 - Ritmo
-- Tal vez occidente, valle, oriente o algo así
+- Tal vez región: occidente, valle, oriente
 
 ### Análisis de contenido
 
@@ -74,33 +75,41 @@ palabras_conteo  %>%
   wordcloud2()
 ```
 
-```{r}
+```{r, fig.height=12}
 data_palabras_ritmo <- data_palabras %>%
   group_by(Ritmo) %>%
   count(palabra) %>%
-  slice_max(n, n = 10)
+  slice_head(n = 10)
 
-data_palabras_ritmo %>%
-  group_by(Ritmo) %>%
-  slice_max(n, n = 3) %>%
-  ungroup %>%
-  mutate(Ritmo = as.factor(Ritmo), palabra = reorder_within(palabra, n, Ritmo)) %>%
-  ggplot(aes(n, palabra)) +
-  geom_col() +
-   scale_y_reordered() +
-  facet_wrap(~Ritmo, scales = "free_y")
+
+crear_wordcloud <- function(data, ritmo) {
+  data %>%
+    filter(Ritmo == ritmo) %>%
+    group_by(Ritmo) %>%
+    slice_head(n = 3) %>%
+    ungroup %>%
+    ggplot() +
+    geom_text_wordcloud(aes(label = palabra)) +
+    labs(caption = ritmo)
+}
+
+lista_ritmos <- unique(data$Ritmo)
+lista_plots <- map(lista_ritmos, ~crear_wordcloud(data_palabras_ritmo, .x))
+
+wrap_plots(lista_plots)
+
 ```
 
 
 #### Inversas
 
-### Redes semánticas y correlaciones
+### Redes semánticas
 
 ### Análisis de sentimiento
 
 ```{r}
-# sentimientos_contenido <- get_nrc_sentiment(data$contenido, language = "spanish")
-# write_csv(sentimientos_contenido, "output/sentimientos_contenido.csv")
+sentimientos_contenido <- get_nrc_sentiment(data$contenido, language = "spanish")
+write_csv(sentimientos_contenido, "output/sentimientos_contenido.csv")
 
 sentimientos_traduccion <- c("Ira" = "anger", "Anticipacion" = "anticipation", "Asco" = "disgust", "Miedo" = "fear", "Alegria" = "joy", "Tristeza" = "sadness", "Sorpresa" = "surprise", "Confianza" = "trust", "Negativo" = "negative", "Positivo" = "positive")
 
@@ -115,17 +124,44 @@ data <- data %>%
 
 ```
 
+TODO: general de sentimientos
+```{r}
+suma_general_sentimientos <- data %>%
+  summarize(across(Ira:Positivo, sum)) %>%
+  pivot_longer(everything(), names_to = "sentimiento", values_to = "valor") %>%
+  mutate(porcentaje)
+
+suma_general_sentimientos_6 <- suma_general_sentimientos %>%
+  slice_head(n = 8) %>%
+  mutate(porcentaje = valor / sum(valor) * 100)
+
+suma_general_sentimientos_2 <- suma_general_sentimientos %>%
+  slice_tail(n = 2) %>%
+  mutate(porcentaje = valor / sum(valor) * 100)
+
+```
 
 ```{r}
-suma_sentimientos <- data %>%
+suma_general_sentimientos_6 %>%
+  arrange(desc(porcentaje))
+```
+
+```{r}
+suma_general_sentimientos_2
+```
+
+
+```{r}
+suma_sentimientos_grupos <- data %>%
   group_by(Ritmo) %>%
   summarize(across(Ira:Positivo, sum)) %>%
   pivot_longer(-Ritmo, names_to = "sentimiento", values_to = "valor") 
   
 ```
 
+
 ```{r}
-suma_sentimientos %>%
+suma_sentimientos_grupos %>%
   filter(!sentimiento %in% c("Positivo", "Negativo")) %>%
   ggplot() +
   geom_col(aes(x = Ritmo, valor, fill = sentimiento), position = position_fill()) +
@@ -140,12 +176,49 @@ suma_sentimientos %>%
 ```
 
 
-### Topic modeling
 
-# Análisis de la música
+# Análisis de música
 
 Según las métricas de Spotify
 
+- Energía, danzabilidad x Ritmo
+
+```{r}
+# uniendo los datos
+data <- data %>%
+  left_join(spotify_features, by = join_by(N == index))
+```
+
+```{r}
+danzabilidad_vs_ritmo <- data %>%
+  group_by(Ritmo) %>%
+  summarize(danzabilidad = mean(danceability))
+
+danzabilidad_vs_ritmo %>%
+  ggplot() +
+  geom_col(aes(reorder(Ritmo, danzabilidad), danzabilidad)) +
+  coord_flip()
+```
+
+- Valence, positividad y negatividad -> con la letra
+
+```{r}
+valencia_vs_ritmo <- data %>%
+  group_by(Ritmo) %>%
+  summarize(valencia = mean(valence))
+
+valencia_vs_ritmo %>%
+  ggplot() +
+  geom_col(aes(reorder(Ritmo, valencia), valencia)) +
+  coord_flip()
+
+
+```
+
+- Valencia de musica versus valencia en letra
+```{r}
+
+```
 
 
 
