@@ -32,7 +32,8 @@ letras <- letras %>%
   relocate(id, .before = everything()) %>%
   arrange(id)
 data <- metadata %>%
-  left_join(letras, by = join_by(N == id))
+  left_join(letras, by = join_by(N == id)) %>%
+  filter(N != 18)
 
 ```
 
@@ -80,7 +81,7 @@ palabras_conteo  %>%
 ```{r, fig.height=12}
 data_palabras_ritmo <- data_palabras %>%
   group_by(Ritmo) %>%
-  count(palabra) %>%
+  count(palabra, sort = T) %>%
   slice_head(n = 10)
 
 
@@ -207,7 +208,7 @@ write_csv(data, "output/data_con_todo.csv")
 ```{r}
 danzabilidad_vs_ritmo <- data %>%
   group_by(Ritmo) %>%
-  summarize(danzabilidad = mean(danceability.x, na.rm = T))
+  summarize(danzabilidad = mean(danceability, na.rm = T))
 
 danzabilidad_vs_ritmo %>%
   ggplot() +
@@ -224,7 +225,7 @@ write_csv(danzabilidad_vs_ritmo, "output/danzabilidad_vs_ritmo.csv")
 ```{r}
 valencia_vs_ritmo <- data %>%
   group_by(Ritmo) %>%
-  summarize(valencia = mean(valence.x, na.rm = T))
+  summarize(valencia = mean(valence, na.rm = T))
 
 valencia_vs_ritmo %>%
   ggplot() +
@@ -270,8 +271,15 @@ sentimientoletra_vs_ritmo %>%
 write_csv(sentimientoletra_vs_ritmo, "output/sentimientoletra_vs_ritmo.csv")
   
 ```
+Cruce
 
+```{r}
+valencia_sentimiento_ritmo <- valencia_vs_ritmo %>%
+  left_join(sentimientoletra_vs_ritmo) %>%
+  select(-valencia) %>%
+  pivot_longer(-Ritmo, names_to = "tipo_score", values_to = "valor")
 
+```
 
 
 
