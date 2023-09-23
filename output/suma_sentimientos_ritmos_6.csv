@@ -1,313 +1,313 @@
 Ritmo,sentimiento,valor
 Atico,Ira,1
-Atico,Anticipacion,0
-Atico,Asco,1
-Atico,Miedo,2
-Atico,Alegria,0
-Atico,Tristeza,3
-Atico,Sorpresa,0
-Atico,Confianza,1
-Bailecito,Ira,6
-Bailecito,Anticipacion,6
-Bailecito,Asco,6
-Bailecito,Miedo,10
-Bailecito,Alegria,11
-Bailecito,Tristeza,7
-Bailecito,Sorpresa,4
-Bailecito,Confianza,11
-Brincao,Ira,8
-Brincao,Anticipacion,6
-Brincao,Asco,1
-Brincao,Miedo,7
-Brincao,Alegria,14
-Brincao,Tristeza,4
-Brincao,Sorpresa,6
-Brincao,Confianza,8
-Cancion,Ira,0
-Cancion,Anticipacion,4
-Cancion,Asco,0
-Cancion,Miedo,3
-Cancion,Alegria,4
-Cancion,Tristeza,5
-Cancion,Sorpresa,3
-Cancion,Confianza,4
-Caporal,Ira,20
-Caporal,Anticipacion,17
-Caporal,Asco,18
-Caporal,Miedo,23
-Caporal,Alegria,29
-Caporal,Tristeza,45
-Caporal,Sorpresa,14
-Caporal,Confianza,9
+Atico,Anticipacion,2
+Atico,Asco,0
+Atico,Miedo,1
+Atico,Alegria,5
+Atico,Tristeza,0
+Atico,Sorpresa,1
+Atico,Confianza,2
+Bailecito,Ira,1
+Bailecito,Anticipacion,2
+Bailecito,Asco,4
+Bailecito,Miedo,7
+Bailecito,Alegria,5
+Bailecito,Tristeza,9
+Bailecito,Sorpresa,1
+Bailecito,Confianza,4
+Brincao,Ira,0
+Brincao,Anticipacion,0
+Brincao,Asco,0
+Brincao,Miedo,0
+Brincao,Alegria,0
+Brincao,Tristeza,0
+Brincao,Sorpresa,0
+Brincao,Confianza,0
+Cancion,Ira,4
+Cancion,Anticipacion,1
+Cancion,Asco,2
+Cancion,Miedo,6
+Cancion,Alegria,1
+Cancion,Tristeza,18
+Cancion,Sorpresa,0
+Cancion,Confianza,1
+Caporal,Ira,16
+Caporal,Anticipacion,23
+Caporal,Asco,13
+Caporal,Miedo,21
+Caporal,Alegria,38
+Caporal,Tristeza,33
+Caporal,Sorpresa,13
+Caporal,Confianza,19
 Carnaval,Ira,1
-Carnaval,Anticipacion,2
+Carnaval,Anticipacion,4
 Carnaval,Asco,0
-Carnaval,Miedo,2
-Carnaval,Alegria,1
-Carnaval,Tristeza,3
-Carnaval,Sorpresa,0
-Carnaval,Confianza,1
-Carnavalito,Ira,4
-Carnavalito,Anticipacion,5
-Carnavalito,Asco,3
-Carnavalito,Miedo,5
-Carnavalito,Alegria,13
-Carnavalito,Tristeza,7
-Carnavalito,Sorpresa,2
-Carnavalito,Confianza,9
-Chacarera,Ira,0
-Chacarera,Anticipacion,0
-Chacarera,Asco,0
-Chacarera,Miedo,0
-Chacarera,Alegria,0
-Chacarera,Tristeza,0
-Chacarera,Sorpresa,0
-Chacarera,Confianza,0
-Chovena,Ira,1
+Carnaval,Miedo,1
+Carnaval,Alegria,5
+Carnaval,Tristeza,0
+Carnaval,Sorpresa,1
+Carnaval,Confianza,3
+Carnavalito,Ira,7
+Carnavalito,Anticipacion,2
+Carnavalito,Asco,4
+Carnavalito,Miedo,6
+Carnavalito,Alegria,3
+Carnavalito,Tristeza,11
+Carnavalito,Sorpresa,6
+Carnavalito,Confianza,3
+Chacarera,Ira,4
+Chacarera,Anticipacion,5
+Chacarera,Asco,2
+Chacarera,Miedo,7
+Chacarera,Alegria,7
+Chacarera,Tristeza,3
+Chacarera,Sorpresa,3
+Chacarera,Confianza,6
+Chovena,Ira,0
 Chovena,Anticipacion,0
 Chovena,Asco,0
-Chovena,Miedo,2
-Chovena,Alegria,0
-Chovena,Tristeza,4
+Chovena,Miedo,0
+Chovena,Alegria,3
+Chovena,Tristeza,0
 Chovena,Sorpresa,0
-Chovena,Confianza,0
-Chovena mojeña,Ira,1
+Chovena,Confianza,1
+Chovena mojeña,Ira,0
 Chovena mojeña,Anticipacion,1
-Chovena mojeña,Asco,1
-Chovena mojeña,Miedo,3
-Chovena mojeña,Alegria,2
-Chovena mojeña,Tristeza,9
-Chovena mojeña,Sorpresa,2
-Chovena mojeña,Confianza,3
+Chovena mojeña,Asco,0
+Chovena mojeña,Miedo,0
+Chovena mojeña,Alegria,1
+Chovena mojeña,Tristeza,1
+Chovena mojeña,Sorpresa,0
+Chovena mojeña,Confianza,2
 Chuntunqui,Ira,12
-Chuntunqui,Anticipacion,22
+Chuntunqui,Anticipacion,16
 Chuntunqui,Asco,8
-Chuntunqui,Miedo,18
-Chuntunqui,Alegria,24
-Chuntunqui,Tristeza,37
-Chuntunqui,Sorpresa,10
-Chuntunqui,Confianza,16
-"Contrapunto, Tonada, Cacharpaya",Ira,6
-"Contrapunto, Tonada, Cacharpaya",Anticipacion,3
-"Contrapunto, Tonada, Cacharpaya",Asco,2
-"Contrapunto, Tonada, Cacharpaya",Miedo,6
-"Contrapunto, Tonada, Cacharpaya",Alegria,2
-"Contrapunto, Tonada, Cacharpaya",Tristeza,12
-"Contrapunto, Tonada, Cacharpaya",Sorpresa,3
+Chuntunqui,Miedo,20
+Chuntunqui,Alegria,20
+Chuntunqui,Tristeza,40
+Chuntunqui,Sorpresa,11
+Chuntunqui,Confianza,14
+"Contrapunto, Tonada, Cacharpaya",Ira,2
+"Contrapunto, Tonada, Cacharpaya",Anticipacion,1
+"Contrapunto, Tonada, Cacharpaya",Asco,1
+"Contrapunto, Tonada, Cacharpaya",Miedo,3
+"Contrapunto, Tonada, Cacharpaya",Alegria,1
+"Contrapunto, Tonada, Cacharpaya",Tristeza,1
+"Contrapunto, Tonada, Cacharpaya",Sorpresa,0
 "Contrapunto, Tonada, Cacharpaya",Confianza,1
-Coplas,Ira,2
-Coplas,Anticipacion,1
-Coplas,Asco,1
-Coplas,Miedo,5
-Coplas,Alegria,2
-Coplas,Tristeza,8
-Coplas,Sorpresa,0
-Coplas,Confianza,1
-Cueca,Ira,51
-Cueca,Anticipacion,58
-Cueca,Asco,58
-Cueca,Miedo,77
-Cueca,Alegria,89
-Cueca,Tristeza,139
-Cueca,Sorpresa,28
-Cueca,Confianza,58
-Cullaguada,Ira,5
-Cullaguada,Anticipacion,9
-Cullaguada,Asco,5
-Cullaguada,Miedo,8
-Cullaguada,Alegria,13
-Cullaguada,Tristeza,8
-Cullaguada,Sorpresa,5
-Cullaguada,Confianza,10
-Danza Aymara,Ira,0
-Danza Aymara,Anticipacion,2
-Danza Aymara,Asco,0
-Danza Aymara,Miedo,2
-Danza Aymara,Alegria,3
-Danza Aymara,Tristeza,5
-Danza Aymara,Sorpresa,1
-Danza Aymara,Confianza,1
-Diablada,Ira,1
-Diablada,Anticipacion,1
-Diablada,Asco,1
-Diablada,Miedo,1
-Diablada,Alegria,2
-Diablada,Tristeza,1
+Coplas,Ira,8
+Coplas,Anticipacion,4
+Coplas,Asco,12
+Coplas,Miedo,9
+Coplas,Alegria,8
+Coplas,Tristeza,18
+Coplas,Sorpresa,5
+Coplas,Confianza,9
+Cueca,Ira,68
+Cueca,Anticipacion,70
+Cueca,Asco,65
+Cueca,Miedo,101
+Cueca,Alegria,107
+Cueca,Tristeza,167
+Cueca,Sorpresa,39
+Cueca,Confianza,65
+Cullaguada,Ira,4
+Cullaguada,Anticipacion,12
+Cullaguada,Asco,6
+Cullaguada,Miedo,2
+Cullaguada,Alegria,9
+Cullaguada,Tristeza,12
+Cullaguada,Sorpresa,6
+Cullaguada,Confianza,11
+Danza Aymara,Ira,4
+Danza Aymara,Anticipacion,9
+Danza Aymara,Asco,1
+Danza Aymara,Miedo,6
+Danza Aymara,Alegria,10
+Danza Aymara,Tristeza,9
+Danza Aymara,Sorpresa,4
+Danza Aymara,Confianza,7
+Diablada,Ira,7
+Diablada,Anticipacion,0
+Diablada,Asco,4
+Diablada,Miedo,6
+Diablada,Alegria,3
+Diablada,Tristeza,6
 Diablada,Sorpresa,1
-Diablada,Confianza,0
-Huayño,Ira,NA
-Huayño,Anticipacion,NA
-Huayño,Asco,NA
-Huayño,Miedo,NA
-Huayño,Alegria,NA
-Huayño,Tristeza,NA
-Huayño,Sorpresa,NA
-Huayño,Confianza,NA
-Huayño cacharpaya,Ira,0
+Diablada,Confianza,2
+Huayño,Ira,30
+Huayño,Anticipacion,48
+Huayño,Asco,32
+Huayño,Miedo,44
+Huayño,Alegria,61
+Huayño,Tristeza,67
+Huayño,Sorpresa,23
+Huayño,Confianza,38
+Huayño cacharpaya,Ira,3
 Huayño cacharpaya,Anticipacion,4
-Huayño cacharpaya,Asco,0
-Huayño cacharpaya,Miedo,0
-Huayño cacharpaya,Alegria,1
-Huayño cacharpaya,Tristeza,3
-Huayño cacharpaya,Sorpresa,2
-Huayño cacharpaya,Confianza,2
+Huayño cacharpaya,Asco,3
+Huayño cacharpaya,Miedo,6
+Huayño cacharpaya,Alegria,7
+Huayño cacharpaya,Tristeza,17
+Huayño cacharpaya,Sorpresa,3
+Huayño cacharpaya,Confianza,3
 Huayño kalampeado,Ira,1
-Huayño kalampeado,Anticipacion,6
+Huayño kalampeado,Anticipacion,2
 Huayño kalampeado,Asco,1
-Huayño kalampeado,Miedo,2
-Huayño kalampeado,Alegria,8
+Huayño kalampeado,Miedo,4
+Huayño kalampeado,Alegria,1
 Huayño kalampeado,Tristeza,5
-Huayño kalampeado,Sorpresa,2
-Huayño kalampeado,Confianza,6
-Huayño phuna,Ira,1
-Huayño phuna,Anticipacion,0
+Huayño kalampeado,Sorpresa,1
+Huayño kalampeado,Confianza,1
+Huayño phuna,Ira,0
+Huayño phuna,Anticipacion,5
 Huayño phuna,Asco,0
 Huayño phuna,Miedo,1
-Huayño phuna,Alegria,2
-Huayño phuna,Tristeza,3
-Huayño phuna,Sorpresa,0
-Huayño phuna,Confianza,2
-Kaluyo,Ira,12
+Huayño phuna,Alegria,8
+Huayño phuna,Tristeza,1
+Huayño phuna,Sorpresa,2
+Huayño phuna,Confianza,5
+Kaluyo,Ira,16
 Kaluyo,Anticipacion,11
-Kaluyo,Asco,14
-Kaluyo,Miedo,12
-Kaluyo,Alegria,13
-Kaluyo,Tristeza,25
-Kaluyo,Sorpresa,5
-Kaluyo,Confianza,12
-Llamerada,Ira,4
-Llamerada,Anticipacion,1
+Kaluyo,Asco,11
+Kaluyo,Miedo,18
+Kaluyo,Alegria,12
+Kaluyo,Tristeza,30
+Kaluyo,Sorpresa,6
+Kaluyo,Confianza,9
+Llamerada,Ira,1
+Llamerada,Anticipacion,0
 Llamerada,Asco,2
-Llamerada,Miedo,5
-Llamerada,Alegria,2
+Llamerada,Miedo,2
+Llamerada,Alegria,1
 Llamerada,Tristeza,4
-Llamerada,Sorpresa,2
+Llamerada,Sorpresa,0
 Llamerada,Confianza,0
-Macheteros,Ira,0
-Macheteros,Anticipacion,1
-Macheteros,Asco,0
-Macheteros,Miedo,0
-Macheteros,Alegria,1
-Macheteros,Tristeza,1
-Macheteros,Sorpresa,0
-Macheteros,Confianza,2
-Morenada,Ira,13
-Morenada,Anticipacion,29
-Morenada,Asco,9
-Morenada,Miedo,20
-Morenada,Alegria,40
-Morenada,Tristeza,35
-Morenada,Sorpresa,18
-Morenada,Confianza,32
-Pasacalle,Ira,3
-Pasacalle,Anticipacion,6
-Pasacalle,Asco,3
-Pasacalle,Miedo,6
-Pasacalle,Alegria,10
-Pasacalle,Tristeza,19
-Pasacalle,Sorpresa,6
-Pasacalle,Confianza,4
-Polca,Ira,3
-Polca,Anticipacion,6
-Polca,Asco,4
-Polca,Miedo,9
-Polca,Alegria,10
-Polca,Tristeza,10
-Polca,Sorpresa,3
-Polca,Confianza,6
-Pujllay,Ira,1
-Pujllay,Anticipacion,3
+Macheteros,Ira,8
+Macheteros,Anticipacion,6
+Macheteros,Asco,1
+Macheteros,Miedo,7
+Macheteros,Alegria,14
+Macheteros,Tristeza,4
+Macheteros,Sorpresa,6
+Macheteros,Confianza,8
+Morenada,Ira,11
+Morenada,Anticipacion,20
+Morenada,Asco,12
+Morenada,Miedo,17
+Morenada,Alegria,36
+Morenada,Tristeza,36
+Morenada,Sorpresa,9
+Morenada,Confianza,25
+Pasacalle,Ira,2
+Pasacalle,Anticipacion,4
+Pasacalle,Asco,1
+Pasacalle,Miedo,3
+Pasacalle,Alegria,7
+Pasacalle,Tristeza,4
+Pasacalle,Sorpresa,2
+Pasacalle,Confianza,5
+Polca,Ira,0
+Polca,Anticipacion,4
+Polca,Asco,3
+Polca,Miedo,8
+Polca,Alegria,7
+Polca,Tristeza,22
+Polca,Sorpresa,2
+Polca,Confianza,3
+Pujllay,Ira,0
+Pujllay,Anticipacion,0
 Pujllay,Asco,1
-Pujllay,Miedo,3
-Pujllay,Alegria,7
+Pujllay,Miedo,1
+Pujllay,Alegria,1
 Pujllay,Tristeza,3
-Pujllay,Sorpresa,2
-Pujllay,Confianza,2
+Pujllay,Sorpresa,0
+Pujllay,Confianza,0
 Salaque Jalk´a,Ira,0
-Salaque Jalk´a,Anticipacion,5
+Salaque Jalk´a,Anticipacion,0
 Salaque Jalk´a,Asco,0
 Salaque Jalk´a,Miedo,0
-Salaque Jalk´a,Alegria,4
-Salaque Jalk´a,Tristeza,1
-Salaque Jalk´a,Sorpresa,3
-Salaque Jalk´a,Confianza,4
+Salaque Jalk´a,Alegria,0
+Salaque Jalk´a,Tristeza,0
+Salaque Jalk´a,Sorpresa,0
+Salaque Jalk´a,Confianza,0
 Salay,Ira,2
 Salay,Anticipacion,1
-Salay,Asco,2
-Salay,Miedo,3
-Salay,Alegria,4
-Salay,Tristeza,3
+Salay,Asco,3
+Salay,Miedo,6
+Salay,Alegria,8
+Salay,Tristeza,16
 Salay,Sorpresa,1
 Salay,Confianza,1
-Saya afroboliviana,Ira,1
-Saya afroboliviana,Anticipacion,0
-Saya afroboliviana,Asco,1
-Saya afroboliviana,Miedo,2
-Saya afroboliviana,Alegria,0
-Saya afroboliviana,Tristeza,2
-Saya afroboliviana,Sorpresa,0
-Saya afroboliviana,Confianza,0
+Saya afroboliviana,Ira,0
+Saya afroboliviana,Anticipacion,1
+Saya afroboliviana,Asco,0
+Saya afroboliviana,Miedo,0
+Saya afroboliviana,Alegria,1
+Saya afroboliviana,Tristeza,0
+Saya afroboliviana,Sorpresa,1
+Saya afroboliviana,Confianza,1
 Sicuri,Ira,1
-Sicuri,Anticipacion,1
-Sicuri,Asco,3
-Sicuri,Miedo,5
-Sicuri,Alegria,3
-Sicuri,Tristeza,4
-Sicuri,Sorpresa,0
-Sicuri,Confianza,2
+Sicuri,Anticipacion,2
+Sicuri,Asco,1
+Sicuri,Miedo,1
+Sicuri,Alegria,4
+Sicuri,Tristeza,2
+Sicuri,Sorpresa,1
+Sicuri,Confianza,3
 Taki taki,Ira,0
-Taki taki,Anticipacion,1
+Taki taki,Anticipacion,3
 Taki taki,Asco,0
 Taki taki,Miedo,0
-Taki taki,Alegria,1
-Taki taki,Tristeza,0
+Taki taki,Alegria,5
+Taki taki,Tristeza,2
 Taki taki,Sorpresa,1
-Taki taki,Confianza,1
-Taquirari,Ira,22
-Taquirari,Anticipacion,33
-Taquirari,Asco,16
-Taquirari,Miedo,39
-Taquirari,Alegria,68
-Taquirari,Tristeza,74
-Taquirari,Sorpresa,23
-Taquirari,Confianza,42
-Tinku,Ira,18
-Tinku,Anticipacion,35
-Tinku,Asco,18
-Tinku,Miedo,29
+Taki taki,Confianza,6
+Taquirari,Ira,26
+Taquirari,Anticipacion,44
+Taquirari,Asco,26
+Taquirari,Miedo,42
+Taquirari,Alegria,75
+Taquirari,Tristeza,93
+Taquirari,Sorpresa,28
+Taquirari,Confianza,54
+Tinku,Ira,8
+Tinku,Anticipacion,33
+Tinku,Asco,10
+Tinku,Miedo,19
 Tinku,Alegria,52
-Tinku,Tristeza,61
-Tinku,Sorpresa,16
-Tinku,Confianza,35
-Tobas,Ira,7
-Tobas,Anticipacion,2
-Tobas,Asco,4
-Tobas,Miedo,6
-Tobas,Alegria,8
+Tinku,Tristeza,32
+Tinku,Sorpresa,20
+Tinku,Confianza,37
+Tobas,Ira,2
+Tobas,Anticipacion,3
+Tobas,Asco,3
+Tobas,Miedo,5
+Tobas,Alegria,7
 Tobas,Tristeza,6
-Tobas,Sorpresa,1
-Tobas,Confianza,6
-Tonada,Ira,12
-Tonada,Anticipacion,10
-Tonada,Asco,11
-Tonada,Miedo,18
-Tonada,Alegria,13
-Tonada,Tristeza,21
-Tonada,Sorpresa,6
-Tonada,Confianza,6
-Tonada Huayño,Ira,2
-Tonada Huayño,Anticipacion,0
-Tonada Huayño,Asco,2
+Tobas,Sorpresa,2
+Tobas,Confianza,2
+Tonada,Ira,6
+Tonada,Anticipacion,9
+Tonada,Asco,6
+Tonada,Miedo,3
+Tonada,Alegria,16
+Tonada,Tristeza,5
+Tonada,Sorpresa,5
+Tonada,Confianza,10
+Tonada Huayño,Ira,0
+Tonada Huayño,Anticipacion,4
+Tonada Huayño,Asco,0
 Tonada Huayño,Miedo,3
-Tonada Huayño,Alegria,0
-Tonada Huayño,Tristeza,4
-Tonada Huayño,Sorpresa,0
-Tonada Huayño,Confianza,1
+Tonada Huayño,Alegria,4
+Tonada Huayño,Tristeza,5
+Tonada Huayño,Sorpresa,3
+Tonada Huayño,Confianza,4
 Vals,Ira,0
-Vals,Anticipacion,1
-Vals,Asco,2
-Vals,Miedo,1
-Vals,Alegria,5
-Vals,Tristeza,2
-Vals,Sorpresa,1
-Vals,Confianza,2
+Vals,Anticipacion,2
+Vals,Asco,0
+Vals,Miedo,2
+Vals,Alegria,1
+Vals,Tristeza,3
+Vals,Sorpresa,2
+Vals,Confianza,0

@@ -1,4 +1,4 @@
-N,Tema,Artista,Compositor,Lugar,Año,Ritmo,Fuente,Letra,Realizado por,letra en Spotify,Añadido a Spotify,Observaciones,...14,archivo,contenido,Ira,Anticipacion,Asco,Miedo,Alegria,Tristeza,Sorpresa,Confianza,Negativo,Positivo,id,popularity,name,album,artists,type,uri,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+N,Tema,Artista,Compositor,Lugar,Año,Ritmo,Fuente,Letra,Realizado por,letra en Spotify,Añadido a Spotify,Observaciones,...14,archivo,contenido,Ira,Anticipacion,Asco,Miedo,Alegria,Tristeza,Sorpresa,Confianza,Negativo,Positivo,id,popularity,name,album,artists,type,uri,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,...22,...23,...24,...25,...26,...27,...28,...29,...30,...31,...32,...33,...34,...35,...36
 1,Infierno Verde,Gladys Moreno,Alberto Ruíz Lavadenz,NA,1987,Cueca,Spotify,1.txt,Javi,TRUE,NA,NA,NA,1.txt,"Si aún queda llanto en tus ojos
 Para llorar mi partida
 No llores mientras la vida
@@ -47,7 +47,7 @@ Solo Dios se acordará
 Porque del infierno verde
 Solo Dios se acordará
 
-",3,2,3,6,3,13,1,2,13,6,29auok6OFONhoV62uvfHNX,9,Infierno Verde,El Disco de Oro de Gladys Moreno,Gladys Moreno,track,spotify:track:29auok6OFONhoV62uvfHNX,0.621,0.416,2,-11.368,1,0.063,0.604,1.01e-5,0.369,0.839,119.637,193056,3
+",3,2,3,6,3,13,1,2,13,6,29auok6OFONhoV62uvfHNX,9,Infierno Verde,El Disco de Oro de Gladys Moreno,Gladys Moreno,track,spotify:track:29auok6OFONhoV62uvfHNX,0.621,0.416,2,-11.368,1,0.063,0.604,1.01e-5,0.369,0.839,119.637,193056,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2,Tu Orgullo,Los Pachechos,Humberto Iporre Salinas,Potosí,NA,Cueca,Spotify,2.txt,Javi,TRUE,Si,NA,NA,2.txt,"En el vaivén del alma
 Mi vida hecha tu orgullo
 Porque la vida tiene negrita
@@ -81,7 +81,7 @@ De esta agua no he de beber
 
 Nunca digas paloma 
 De esta agua no he de beber
-",0,1,0,0,4,0,0,1,0,5,3yJStJCOu0nVgrjVe64anP,13,Tu Orgullo,Lo Mejor de los Pachechos (Música Bailable Boliviana),Los Pachechos,track,spotify:track:3yJStJCOu0nVgrjVe64anP,0.648,0.573,0,-6.728,1,0.0459,0.474,2.5e-5,0.0712,0.889,125.088,202989,3
+",0,1,0,0,4,0,0,1,0,5,3yJStJCOu0nVgrjVe64anP,13,Tu Orgullo,Lo Mejor de los Pachechos (Música Bailable Boliviana),Los Pachechos,track,spotify:track:3yJStJCOu0nVgrjVe64anP,0.648,0.573,0,-6.728,1,0.0459,0.474,2.5e-5,0.0712,0.889,125.088,202989,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 3,Triste es ausentarse,Enrique Larrea,-,NA,NA,Cueca,Spotify,3.txt,Javi,TRUE,Si,NA,NA,3.txt,"Triste es ausentarse lejos del suelo querido
 ¡Ay! no me pongas en el olvido cuando me ausente de ti
 ¡Ay! no me pongas en el olvido cuando me ausente de ti
@@ -99,7 +99,7 @@ En el camino serás mi estrella que ilumine mi pena
 Tu imagen bella grabada en mi pecho está
 En el camino serás la estrella que ilumine mi penar
 
-En el camino serás la estrella que ilumine mi penar",3,2,3,5,3,9,0,4,11,4,1SbIbr4HlCqW2GQL7reI7o,2,Triste es ausentarse,Grandes Éxitos de Enrique Larrea,Enrique Larrea,track,spotify:track:1SbIbr4HlCqW2GQL7reI7o,0.767,0.397,4,-11.93,0,0.0416,0.827,8.02e-6,0.177,0.888,121.565,179933,3
+En el camino serás la estrella que ilumine mi penar",3,2,3,5,3,9,0,4,11,4,1SbIbr4HlCqW2GQL7reI7o,2,Triste es ausentarse,Grandes Éxitos de Enrique Larrea,Enrique Larrea,track,spotify:track:1SbIbr4HlCqW2GQL7reI7o,0.767,0.397,4,-11.93,0,0.0416,0.827,8.02e-6,0.177,0.888,121.565,179933,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4,Ay Concepción,Luis Gutierrez,Julio Martinez Arteaga,La Paz,NA,Cueca,Spotify,4.txt,Javi,TRUE,Si,NA,NA,4.txt,"Ay concepción
 Por tu ausencia
 Sufro y lloro palomita
@@ -133,7 +133,7 @@ Seas constante con tu cariño
 
 Solo te pido palomita
 Seas constante con tu cariño
-",1,0,2,5,0,8,0,1,8,4,0jga6vZKQby6J15xDlKXR2,19,Ay Concepción,De Colección,Luis Gutierrez,track,spotify:track:0jga6vZKQby6J15xDlKXR2,0.685,0.323,2,-13.961,0,0.0433,0.609,0,0.0465,0.836,120.632,251427,3
+",1,0,2,5,0,8,0,1,8,4,0jga6vZKQby6J15xDlKXR2,19,Ay Concepción,De Colección,Luis Gutierrez,track,spotify:track:0jga6vZKQby6J15xDlKXR2,0.685,0.323,2,-13.961,0,0.0433,0.609,0,0.0465,0.836,120.632,251427,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5,Sauce Sabes Querer,Enrique Larrea,-,NA,NA,Huayño,Spotify,5.txt,Javi,TRUE,Si,NA,NA,5.txt,"Sauce sabes querer, sauce sabes amar 
 Tan solo sabes querer para verme padecer
 Sauce sabes querer, sauce sabes amar 
@@ -149,7 +149,7 @@ Sauce sauce llorón, toma mi corazón
 Contigo me he de casar, contigo seré feliz
 Dentro de mi pecho tengo una jaulita 
 Donde te he criado malagradecida
-",0,1,0,0,1,1,0,2,2,1,0dIvwF42zst8iTaNCLjz7p,10,Sauce Sabes Querer,Lo Mejor de la Música Criolla (Música Boliviana),Enrique Larrea,track,spotify:track:0dIvwF42zst8iTaNCLjz7p,0.656,0.69,7,-7.482,1,0.0421,0.371,2.94e-5,0.0544,0.96,87.614,143627,4
+",0,1,0,0,1,1,0,2,2,1,0dIvwF42zst8iTaNCLjz7p,10,Sauce Sabes Querer,Lo Mejor de la Música Criolla (Música Boliviana),Enrique Larrea,track,spotify:track:0dIvwF42zst8iTaNCLjz7p,0.656,0.69,7,-7.482,1,0.0421,0.371,2.94e-5,0.0544,0.96,87.614,143627,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6,Mentirosita,Larrea - Villavicencio,Julio Martinez Arteaga,NA,NA,Cueca,Spotify,6.txt,Javi,TRUE,Si,NA,NA,6.txt,"Sin querer me quieres
 yo te quiero lo mismo 
 con gusto me mientes 
@@ -176,7 +176,7 @@ porque eres mujer, mi palomita
 tanto me aborreces sin querer querer, mentirosita
 la laray…
 tanto me aborreces sin querer querer, mentirosita
-",1,0,1,1,2,2,0,1,3,2,44vzF6u4e3BXgy9L7jBvPY,11,Mentirosita,Discolandia 50 Años Vol. 1,"Larrea - Villavicencio, Gladys Moreno, Los Cantores Del Valle, Los Caminantes, Arturo Sobenes, Los Jairas, Los Copleros del Sausal, Trio Oriental, Montoneros de Mendez, Los Taitas, Los de Sama, Los Genios, Luis Gutierrez, Antawara, Hermanas Saldaña, Los Brillantes",track,spotify:track:44vzF6u4e3BXgy9L7jBvPY,0.671,0.446,5,-10.478,1,0.0517,0.601,1.85e-6,0.126,0.763,114.628,191520,3
+",1,0,1,1,2,2,0,1,3,2,44vzF6u4e3BXgy9L7jBvPY,11,Mentirosita,Discolandia 50 Años Vol. 1,"Larrea - Villavicencio, Gladys Moreno, Los Cantores Del Valle, Los Caminantes, Arturo Sobenes, Los Jairas, Los Copleros del Sausal, Trio Oriental, Montoneros de Mendez, Los Taitas, Los de Sama, Los Genios, Luis Gutierrez, Antawara, Hermanas Saldaña, Los Brillantes",track,spotify:track:44vzF6u4e3BXgy9L7jBvPY,0.671,0.446,5,-10.478,1,0.0517,0.601,1.85e-6,0.126,0.763,114.628,191520,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7,La Cuesta de Sama,Los Copleros del Sausal,Nilo Soruco,Tarija,NA,Cueca,Spotify,7.txt,Javi,TRUE,Si,falta sincronizacion y corrección,NA,7.txt,"El corazón de la flor, te traeré
 De la flor enamorada de mi montaña
 De mi montaña que se llama
@@ -210,7 +210,7 @@ Tarija, Tarija, tierra de sol
 Sonrisa de luna, beso de amor
 Sonrisa de luna, beso de amor
 De mi montaña que se llama
-La Cuesta de Sama",0,3,0,0,7,1,4,3,1,9,4UpEGHOJOFqtaCHtc8KRhp,20,La Cuesta de Sama,Discolandia 50 Años Vol. 1,"Los Copleros del Sausal, Gladys Moreno, Los Cantores Del Valle, Los Caminantes, Arturo Sobenes, Los Jairas, Larrea - Villavicencio, Trio Oriental, Montoneros de Mendez, Los Taitas, Los de Sama, Los Genios, Luis Gutierrez, Antawara, Hermanas Saldaña, Los Brillantes",track,spotify:track:4UpEGHOJOFqtaCHtc8KRhp,0.617,0.778,4,-5.152,0,0.0442,0.651,0,0.139,0.844,132.936,196720,3
+La Cuesta de Sama",0,3,0,0,7,1,4,3,1,9,4UpEGHOJOFqtaCHtc8KRhp,20,La Cuesta de Sama,Discolandia 50 Años Vol. 1,"Los Copleros del Sausal, Gladys Moreno, Los Cantores Del Valle, Los Caminantes, Arturo Sobenes, Los Jairas, Larrea - Villavicencio, Trio Oriental, Montoneros de Mendez, Los Taitas, Los de Sama, Los Genios, Luis Gutierrez, Antawara, Hermanas Saldaña, Los Brillantes",track,spotify:track:4UpEGHOJOFqtaCHtc8KRhp,0.617,0.778,4,-5.152,0,0.0442,0.651,0,0.139,0.844,132.936,196720,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 8,Olvidate,Los Genios,Edgar Yayo Joffré,Santa Cruz,NA,Taquirari,Spotify,8.txt,Javi,TRUE,Si,NA,NA,8.txt,"Olvídate de mí
 Como yo te olvidé
 No pretendas volver a insistir otra vez
@@ -249,7 +249,7 @@ Y si recuerdos quedan piensa en los tuyos será mejor
 Te ruego no divulgues
 Que un día fui tu amor
 Y si recuerdos quedan piensa en los tuyos será mejor
-",0,1,0,0,2,0,0,1,0,2,3bBHrerSrttYCAS1Mo91mi,16,Olvidate,Discolandia 50 Años Vol. 1,"Los Genios, Gladys Moreno, Los Cantores Del Valle, Los Caminantes, Arturo Sobenes, Los Jairas, Larrea - Villavicencio, Los Copleros del Sausal, Trio Oriental, Montoneros de Mendez, Los Taitas, Los de Sama, Luis Gutierrez, Antawara, Hermanas Saldaña, Los Brillantes",track,spotify:track:3bBHrerSrttYCAS1Mo91mi,0.771,0.746,0,-8.027,1,0.0487,0.65,0,0.0457,0.948,87.444,153187,4
+",0,1,0,0,2,0,0,1,0,2,3bBHrerSrttYCAS1Mo91mi,16,Olvidate,Discolandia 50 Años Vol. 1,"Los Genios, Gladys Moreno, Los Cantores Del Valle, Los Caminantes, Arturo Sobenes, Los Jairas, Larrea - Villavicencio, Los Copleros del Sausal, Trio Oriental, Montoneros de Mendez, Los Taitas, Los de Sama, Luis Gutierrez, Antawara, Hermanas Saldaña, Los Brillantes",track,spotify:track:3bBHrerSrttYCAS1Mo91mi,0.771,0.746,0,-8.027,1,0.0487,0.65,0,0.0457,0.948,87.444,153187,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 9,Recuerdo,Los Jairas,Edgar Yayo Joffré,NA,NA,Huayño,Spotify,9.txt,Javi,TRUE,Si,falta corrección,NA,9.txt,"Mucho tiempo te dediqué,
 mi vida entera yo te la di
 hoy sólo queda de aquel ayer
@@ -288,7 +288,7 @@ Quieres alejarte de mí,
 cuanto más lejos recordarás
 a cada instante repetirás
 las cinco letras de mi nombre.
-",0,1,0,0,1,0,0,0,0,1,0J9xMIkqyH0t8J3ujyEEBc,25,Recuerdo,Edgar Yayo Joffre y Los Jairas,Los Jairas,track,spotify:track:0J9xMIkqyH0t8J3ujyEEBc,0.638,0.623,7,-9.645,1,0.13,0.554,0,0.368,0.86,91.331,186068,4
+",0,1,0,0,1,0,0,0,0,1,0J9xMIkqyH0t8J3ujyEEBc,25,Recuerdo,Edgar Yayo Joffre y Los Jairas,Los Jairas,track,spotify:track:0J9xMIkqyH0t8J3ujyEEBc,0.638,0.623,7,-9.645,1,0.13,0.554,0,0.368,0.86,91.331,186068,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10,Memorias,Los Jairas,Edgar Yayo Joffré,Santa Cruz,1981,Taquirari,Spotify,10.txt,Javi,TRUE,Si,NA,NA,10.txt,"En la corteza de un tierno arbusto
 grave tu nombre cuando partí,
 pasaron días, pasaron meses,
@@ -319,7 +319,7 @@ Bellos instantes que aún los conservo
 como reliquia de un gran amor,
 Bellos momentos que aún los conservo
 como reliquia de un lindo amor.
-",4,0,2,6,2,9,0,1,11,4,4G7Wb2x5sXxcd06kvlnysj,0,Memorias - 1981 Remastered,Dialogues,Los Jairas,track,spotify:track:4G7Wb2x5sXxcd06kvlnysj,0.606,0.31,11,-14.94,0,0.173,0.879,2.87e-4,0.139,0.751,79.399,150047,4
+",4,0,2,6,2,9,0,1,11,4,4G7Wb2x5sXxcd06kvlnysj,0,Memorias - 1981 Remastered,Dialogues,Los Jairas,track,spotify:track:4G7Wb2x5sXxcd06kvlnysj,0.606,0.31,11,-14.94,0,0.173,0.879,2.87e-4,0.139,0.751,79.399,150047,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 11,Sombrero de Sao,Trio Oriental,Pedro Shimose Kawamura,Santa Cruz,1968,Taquirari,Spotify,11.txt,Javi,TRUE,NA,NA,NA,11.txt,"A esa pelada yo le regalaré
 Para su santo un sombrero de saó
 Pa' que se tape y me tape a mí también
@@ -382,7 +382,7 @@ A su hija, Doña esta, ¿a quién más ha de ser?
 ¿Acaso con canciones la vas a mantener?
 ¿Con canciones?, ¡no señora!
 ¡Con este corazón!
-",0,2,0,0,3,1,2,2,2,4,6P92oMJAwdJwN99WCECZ5j,26,Sombrero de Sao,Discolandia 50 Años Vol. 1,"Trio Oriental, Gladys Moreno, Los Cantores Del Valle, Los Caminantes, Arturo Sobenes, Los Jairas, Larrea - Villavicencio, Los Copleros del Sausal, Montoneros de Mendez, Los Taitas, Los de Sama, Los Genios, Luis Gutierrez, Antawara, Hermanas Saldaña, Los Brillantes",track,spotify:track:6P92oMJAwdJwN99WCECZ5j,0.689,0.843,5,-1.941,0,0.0354,0.807,0,0.329,0.968,93.879,160493,4
+",0,2,0,0,3,1,2,2,2,4,6P92oMJAwdJwN99WCECZ5j,26,Sombrero de Sao,Discolandia 50 Años Vol. 1,"Trio Oriental, Gladys Moreno, Los Cantores Del Valle, Los Caminantes, Arturo Sobenes, Los Jairas, Larrea - Villavicencio, Los Copleros del Sausal, Montoneros de Mendez, Los Taitas, Los de Sama, Los Genios, Luis Gutierrez, Antawara, Hermanas Saldaña, Los Brillantes",track,spotify:track:6P92oMJAwdJwN99WCECZ5j,0.689,0.843,5,-1.941,0,0.0354,0.807,0,0.329,0.968,93.879,160493,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 12,Virginia,Enriqueta Ulloa,Heriberto Luján,Tarija,NA,Cueca,Spotify,12.txt,Javi,TRUE,Si,NA,NA,12.txt,"Con mi vida llena de penas 
 Yo vagaba por el mundo 
 Sin consuelo ni esperanza 
@@ -428,7 +428,7 @@ Te suplico negrita linda
 Que me quieras con delirio
 Yo te quiero prenda querida 
 Y te juro no olvidarte
-",1,1,3,1,4,2,2,3,3,5,4EDuxTN3P1x4vivIxC3Xhf,8,Virginia,Enriqueta Ulloa,Enriqueta Ulloa,track,spotify:track:4EDuxTN3P1x4vivIxC3Xhf,0.757,0.349,11,-11.754,0,0.0529,0.732,0,0.105,0.742,125.671,182600,3
+",1,1,3,1,4,2,2,3,3,5,4EDuxTN3P1x4vivIxC3Xhf,8,Virginia,Enriqueta Ulloa,Enriqueta Ulloa,track,spotify:track:4EDuxTN3P1x4vivIxC3Xhf,0.757,0.349,11,-11.754,0,0.0529,0.732,0,0.105,0.742,125.671,182600,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 13,Tranquilízate,Arturo Sobenes,Gilberto Rojas,Santa Cruz,NA,Taquirari,Spotify,13.txt,Javi,TRUE,Si,NA,NA,13.txt,"Cuando no te mire no has de llorar
 pensando en mi querer
 ahora que te has dado cuenta de mi
@@ -461,7 +461,7 @@ Quisiera morir contemplando tu dulce mirar
 Para calmar todo el dolor de mi pobre amor
 Quisiera morir contemplando tu dulce mirar
 Para calmar todo el dolor de mi pobre amor
-",0,1,1,3,2,12,1,2,12,5,5v7W8bktenKbYttJ66pAhG,9,Tranquilízate,"Homenaje Al ""Gran Compositor Gilberto Rojas""",Arturo Sobenes,track,spotify:track:5v7W8bktenKbYttJ66pAhG,0.435,0.617,2,-4.008,0,0.0316,0.728,0,0.271,0.68,76.7,180387,4
+",0,1,1,3,2,12,1,2,12,5,5v7W8bktenKbYttJ66pAhG,9,Tranquilízate,"Homenaje Al ""Gran Compositor Gilberto Rojas""",Arturo Sobenes,track,spotify:track:5v7W8bktenKbYttJ66pAhG,0.435,0.617,2,-4.008,0,0.0316,0.728,0,0.271,0.68,76.7,180387,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 14,Amancay amancayita,Los Cantores del Valle,-,Tarija,NA,Cueca,Spotify,14.txt,Javi,TRUE,Si,NA,NA,14.txt,"Es el corazón que llora su amor
 Que sufre una pena inmensa
 Al perder una ilusión
@@ -506,7 +506,7 @@ Del jardín de mis amores
 Eres la rosa hermosa
 Del jardín de mis amores
 
-",4,0,2,3,3,7,1,0,8,3,1W1ckbGYH1PEkSrFKglrYg,11,Amancay amancayita,Tarija y Su Música,Los Cantores Del Valle,track,spotify:track:1W1ckbGYH1PEkSrFKglrYg,0.782,0.396,3,-14.232,1,0.038,0.563,0.0126,0.311,0.474,123.938,200067,3
+",4,0,2,3,3,7,1,0,8,3,1W1ckbGYH1PEkSrFKglrYg,11,Amancay amancayita,Tarija y Su Música,Los Cantores Del Valle,track,spotify:track:1W1ckbGYH1PEkSrFKglrYg,0.782,0.396,3,-14.232,1,0.038,0.563,0.0126,0.311,0.474,123.938,200067,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 15,Moto Mendez,Los Cantores del Valle,"Oscar Alfaro, Nilo Soruco, Misael Laguna",Tarija,NA,Cueca,Spotify,15.txt,Javi,TRUE,NA,NA,NA,15.txt,"Soy de aquel pueblo de las flores
 Del valle andaluz, bañado de luz
 Ebrio de colores
@@ -554,7 +554,7 @@ Viva San Lorenzo
 
 Canto con el alma la cueca chapaca
 Viva San Lorenzo
-",1,1,1,0,4,0,1,2,1,8,4G89yx4Zty5JVbWIBMxwC0,28,Moto Mendez,Discolandia 50 Años Vol. 1,"Los Cantores Del Valle, Gladys Moreno, Los Caminantes, Arturo Sobenes, Los Jairas, Larrea - Villavicencio, Los Copleros del Sausal, Trio Oriental, Montoneros de Mendez, Los Taitas, Los de Sama, Los Genios, Luis Gutierrez, Antawara, Hermanas Saldaña, Los Brillantes",track,spotify:track:4G89yx4Zty5JVbWIBMxwC0,0.718,0.871,11,-2.701,1,0.0372,0.738,2.42e-6,0.295,0.961,132.092,178053,3
+",1,1,1,0,4,0,1,2,1,8,4G89yx4Zty5JVbWIBMxwC0,28,Moto Mendez,Discolandia 50 Años Vol. 1,"Los Cantores Del Valle, Gladys Moreno, Los Caminantes, Arturo Sobenes, Los Jairas, Larrea - Villavicencio, Los Copleros del Sausal, Trio Oriental, Montoneros de Mendez, Los Taitas, Los de Sama, Los Genios, Luis Gutierrez, Antawara, Hermanas Saldaña, Los Brillantes",track,spotify:track:4G89yx4Zty5JVbWIBMxwC0,0.718,0.871,11,-2.701,1,0.0372,0.738,2.42e-6,0.295,0.961,132.092,178053,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16,Amor Prohibido,Grupo Norte Potosi,Abraham Pacifico Choque,Potosí,2001,Huayño,Spotify,16.txt,Javi,TRUE,NA,NA,NA,16.txt,"Para tu amor prohibido
 Abramcito
 
@@ -626,7 +626,7 @@ Si tu destino no es conmigo
 
 Lástima, qué lástima
 Eres amor prohibido
-Lástima, qué lástima",4,3,3,5,7,6,3,2,10,13,1Uf6oCrDwzv0UmRmK7Z7dG,21,Amor Prohibido,La Esencia de Lo Nuestro,Grupo Norte Potosi,track,spotify:track:1Uf6oCrDwzv0UmRmK7Z7dG,0.628,0.302,5,-11.136,1,0.0505,0.516,0,0.261,0.794,122.717,282816,4
+Lástima, qué lástima",4,3,3,5,7,6,3,2,10,13,1Uf6oCrDwzv0UmRmK7Z7dG,21,Amor Prohibido,La Esencia de Lo Nuestro,Grupo Norte Potosi,track,spotify:track:1Uf6oCrDwzv0UmRmK7Z7dG,0.628,0.302,5,-11.136,1,0.0505,0.516,0,0.261,0.794,122.717,282816,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 17,Chayanteñita,Semilla,Alejandro Camara Medrano,Potosí,1992,Huayño,Spotify,17.txt,Javi,TRUE,NA,NA,NA,17.txt,"Chayanteñita querida
 No me niegues tu cariño
 Chayanteñita querida
@@ -668,7 +668,67 @@ Chiquita bonita
 A mis brazos caerás
 Chiquita bonita
 Conmigo florecerás
-",2,3,5,0,4,4,2,3,9,4,6Lo3hvdf9JmxZR4Lw0eYPH,17,Chayanteñita,Paceñita,Semilla,track,spotify:track:6Lo3hvdf9JmxZR4Lw0eYPH,0.537,0.569,5,-9.492,1,0.0824,0.518,0,0.151,0.509,144.439,206986,1
+",2,3,5,0,4,4,2,3,9,4,6Lo3hvdf9JmxZR4Lw0eYPH,17,Chayanteñita,Paceñita,Semilla,track,spotify:track:6Lo3hvdf9JmxZR4Lw0eYPH,0.537,0.569,5,-9.492,1,0.0824,0.518,0,0.151,0.509,144.439,206986,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,Cholita Marina,Duo Takiytinku,Betty Veizaga Siles,Potosí,NA,Huayño,Spotify,18.txt,Javi,TRUE,Si,NA,NA,18.txt,"A ti mi negrita, te doy flores bellas, cholita Marina 
+Y a tu hermanita, le hago ver estrellas, cholita Marina
+A ti mi negrita, te doy flores bellas, cholita Marina 
+Y a tu hermanita, le hago ver estrellas, cholita Marina
+
+Eres tonto y sonso caminas pelado, cholita Marina
+También yo te pongo cuernos de venado, cholita Marina
+Eres tonto y sonso caminas pelado, cholita Marina
+También yo te pongo cuernos de venado, cholita Marina
+
+A mí sí me gustan las chicas muy tiernas, cholita Marina
+Me duermo y me tapo con sus lindas piernas, cholita Marina
+A mí sí me gustan las chicas muy tiernas, cholita Marina
+Me duermo y me tapo con sus lindas piernas, cholita Marina
+
+Este llogallito de metro y medio, cholita Marina
+Pero entre sus piernas no tiene remedio, cholita Marina
+Este llogallito de metro y medio, cholita Marina
+Pero entre sus piernas no tiene remedio, cholita Marina
+
+Ahora las cholitas van por los balcones, cholita Marina
+Pidiendo limosna para sus calzones, cholita Marina
+Ahora las cholitas van por los balcones, cholita Marina
+Pidiendo limosna para sus calzones, cholita Marina
+
+Ayer yo te he visto montado en un burro, cholita Marina
+Mirando de frente el burro es más churro, cholita Marina
+Ayer yo te he visto montado en un burro, cholita Marina
+Mirando de frente el burro es más churro, cholita Marina
+
+La mujer es bella por naturaleza, cholita Marina
+Siempre pone cuernos, la muy sinvergüenza, cholita Marina
+La mujer es bella por naturaleza, cholita Marina
+Siempre pone cuernos, la muy sinvergüenza, cholita Marina
+
+Los hombres lo tienen largo y tendido, cholita Marina
+Cuando necesitas lo tienen dormido, cholita Marina
+Los hombres lo tienen largo y tendido, cholita Marina
+Cuando necesitas lo tienen dormido, cholita Marina
+
+Andas muy perdida en el firmamento, cholita Marina
+Por eso te metes con un regimiento, cholita Marina
+Andas muy perdida en el firmamento, cholita Marina
+Por eso te metes con un regimiento, cholita Marina
+
+Cholero cochino, eso es de farsante, cholita Marina
+Flaco, desnutrido, hecho al cantante, cholita Marina 
+Cholero cochino, eso es de farsante, cholita Marina
+Flaco, desnutrido, hecho al cantante, cholita Marina 
+
+Tú siempre te crees que eres la gran cosa, cholita Marina
+Chola refinada, fea y tramposa, cholita Marina
+Tú siempre te crees que eres la gran cosa, cholita Marina
+Chola refinada, fea y tramposa, cholita Marina
+
+Llogalla bandido, nariz de fuslero, cholita Marina
+Tú que te has creído, indio malagüero, cholita Marina
+Llogalla bandido, nariz de fuslero, cholita Marina
+Tú que te has creído, indio malagüero, cholita Marina
+",0,4,2,2,3,1,0,4,6,2,21rJDeXDFQ4uU4F49DlRnI,21,Cholita Marina,"""Un Encuentro de Canto Tradicional""",Duo Takiytinku,track,spotify:track:21rJDeXDFQ4uU4F49DlRnI,0.762,0.651,6,-6.292,0,0.0397,0.657,0,0.041,0.972,130.201,395220,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 19,Pascua Uno,Grupo Norte Potosi,A.A.D.D. SOBODAYCOM,Potosí,1999,Huayño,Spotify,19.txt,Javi,TRUE,Si,NA,NA,19.txt,"Toro negro, toro blanco, ay viditay,
 Torito de ambos colores así es viditay, así ha de ser
 Toro negro, toro blanco ay viditay,
@@ -712,7 +772,7 @@ Así ha de ser o no ha de ser
 ¿Con qué consuelo te he de querer?
 Así ha de ser o no ha de ser
 ¿Con qué consuelo te he de querer?
-",1,3,2,3,5,2,2,3,2,9,1IAFV0mQV1NpGCvAjULiab,10,Pascua Uno,Tras la Huella Musical de los Pueblos Quechuas,Grupo Norte Potosi,track,spotify:track:1IAFV0mQV1NpGCvAjULiab,0.735,0.681,8,-8.525,1,0.0498,0.814,0.00195,0.345,0.884,131.613,256160,3
+",1,1,1,1,1,4,0,2,6,3,1IAFV0mQV1NpGCvAjULiab,10,Pascua Uno,Tras la Huella Musical de los Pueblos Quechuas,Grupo Norte Potosi,track,spotify:track:1IAFV0mQV1NpGCvAjULiab,0.735,0.681,8,-8.525,1,0.0498,0.814,0.00195,0.345,0.884,131.613,256160,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 20,Te Amaré,Amaru,Claudio Peñaranda y José Lavadenz,Chuquisaca,NA,Cueca,Spotify,20.txt,Javi,TRUE,Si,NA,NA,20.txt,"Te amaré
 hasta en el cielo
 olvidarte ni aún allí
@@ -762,7 +822,7 @@ en la tumba yo he de amarte
 
 si hay amores en la tumba
 en la tumba yo he de amarte  
-",0,0,0,0,1,1,0,0,1,6,6MUPG0EcU1DjApadRJnizM,0,Te Amaré,El Embrujo de la Saya,Amaru,track,spotify:track:6MUPG0EcU1DjApadRJnizM,0.674,0.705,6,-8.4,0,0.0324,0.666,3.61e-5,0.418,0.837,124.89,195825,3
+",1,3,2,3,5,2,2,3,2,9,6MUPG0EcU1DjApadRJnizM,0,Te Amaré,El Embrujo de la Saya,Amaru,track,spotify:track:6MUPG0EcU1DjApadRJnizM,0.674,0.705,6,-8.4,0,0.0324,0.666,3.61e-5,0.418,0.837,124.89,195825,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 21,Bolivia Querida,Amaru,Dexter Perez Mejia,NA,NA,Cueca,Spotify,21.txt,Javi,TRUE,Si,NA,NA,21.txt,"Hermosa tierra de mis ensueños
 donde yo he nacido
 Hoy te recuerdo en la lejanía
@@ -806,7 +866,7 @@ te lo juro patria mía
 
 Quiero volver
 te lo juro patria mía
-",0,1,0,0,3,1,0,2,1,5,4YelUHolWubFCCB9AhtOIr,0,Bolivia Querida,"""Compañera...""",Amaru,track,spotify:track:4YelUHolWubFCCB9AhtOIr,0.609,0.67,9,-9.283,0,0.0893,0.745,0,0.186,0.622,124.526,189836,3
+",0,0,0,0,1,1,0,0,1,6,4YelUHolWubFCCB9AhtOIr,0,Bolivia Querida,"""Compañera...""",Amaru,track,spotify:track:4YelUHolWubFCCB9AhtOIr,0.609,0.67,9,-9.283,0,0.0893,0.745,0,0.186,0.622,124.526,189836,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 22,Aguas Claras,Kala Marka,"Hugo Gutiérrez, Rodolfo Choque",Potosí,NA,Tinku,Spotify,22.txt,Javi,TRUE,NA,NA,NA,22.txt,"Ajinata lloqalla
 ¡Muyurispa, muyurispa!
 ¡Aju!
@@ -854,7 +914,7 @@ Aguas claras serán los niños
 Tú serás madre dichosa
 
 ¡Oh!
-",1,0,2,2,0,3,0,0,4,1,41YuaN6pSyGL56eQHzO6Lv,0,Aguas Claras,Llamerada,Kala Marka,track,spotify:track:41YuaN6pSyGL56eQHzO6Lv,0.695,0.363,0,-14.051,1,0.117,0.0355,0,0.185,0.451,150.142,259575,4
+",0,1,0,0,3,1,0,2,1,5,41YuaN6pSyGL56eQHzO6Lv,0,Aguas Claras,Llamerada,Kala Marka,track,spotify:track:41YuaN6pSyGL56eQHzO6Lv,0.695,0.363,0,-14.051,1,0.117,0.0355,0,0.185,0.451,150.142,259575,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 23,Cuando Florezca el Chuño,Kala Marka,Hugo Gutiérrez,NA,NA,Tobas,Spotify,23.txt,Javi,TRUE,Si,NA,NA,23.txt,"Si tus padres ya me odian
 Es por mi mala culpa
 Si las citoyas no silban
@@ -911,7 +971,7 @@ Cuando florezca el chuño
 Qanwan ñuqanwan (tú conmigo)
 Cuando florezca el chuño
 
-",0,2,0,0,5,0,0,4,0,6,4M0yLBgZhLWvgVZd6cOBGo,0,Cuando Florezca El Chuño,Llamerada,Kala Marka,track,spotify:track:4M0yLBgZhLWvgVZd6cOBGo,0.811,0.465,10,-13.487,0,0.113,0.0863,0,0.0656,0.284,109.822,272847,4
+",1,0,2,2,0,3,0,0,4,1,4M0yLBgZhLWvgVZd6cOBGo,0,Cuando Florezca El Chuño,Llamerada,Kala Marka,track,spotify:track:4M0yLBgZhLWvgVZd6cOBGo,0.811,0.465,10,-13.487,0,0.113,0.0863,0,0.0656,0.284,109.822,272847,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 24,Chapaco Soy,Enriqueta Ulloa,Orlando Rojas,Tarija,NA,Cueca,Spotify,24.txt,Javi,TRUE,NA,NA,NA,24.txt,"Chapaco soy,
 Chapaco de pura cepa
 Bohemio, cantor,
@@ -958,7 +1018,7 @@ Donosa prenda hechizada
 
 Bohemio, cantor,
 Enamorao sin remedio
-",2,2,0,2,3,6,0,1,6,6,1j9ANbRDPc1YBIwilzy0MJ,18,Chapaco Soy,Lo Mejor de la Música Boliviana,Enriqueta Ulloa,track,spotify:track:1j9ANbRDPc1YBIwilzy0MJ,0.805,0.219,11,-15.535,0,0.0675,0.422,0,0.326,0.678,118.469,184733,3
+",0,2,0,0,5,0,0,4,0,6,1j9ANbRDPc1YBIwilzy0MJ,18,Chapaco Soy,Lo Mejor de la Música Boliviana,Enriqueta Ulloa,track,spotify:track:1j9ANbRDPc1YBIwilzy0MJ,0.805,0.219,11,-15.535,0,0.0675,0.422,0,0.326,0.678,118.469,184733,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 25,Rosa Carmín,Música de Maestros,"Juan Manuel Thorrez, Nestor Olmos Molina",NA,NA,Cueca,Spotify,25.txt,Javi,TRUE,Si,NA,NA,25.txt,"En una noche clara,
 un caminante vio
 que en un rosal florido
@@ -986,7 +1046,7 @@ y es un tormento mío
 que necesito vencer,
 tan fuerte es mi cariño
 que me parte el corazón.
-",0,3,0,0,3,0,1,4,0,10,1MA19FzApiFEmXAdMKeGFk,8,Rosa Carmín,Música de Maestros Volumen 2,Música de Maestros,track,spotify:track:1MA19FzApiFEmXAdMKeGFk,0.528,0.303,2,-9.43,0,0.0321,0.67,1.85e-5,0.232,0.478,111.938,188533,3
+",2,2,0,2,3,6,0,1,6,6,1MA19FzApiFEmXAdMKeGFk,8,Rosa Carmín,Música de Maestros Volumen 2,Música de Maestros,track,spotify:track:1MA19FzApiFEmXAdMKeGFk,0.528,0.303,2,-9.43,0,0.0321,0.67,1.85e-5,0.232,0.478,111.938,188533,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 26,De Regreso,Luis Rico,Matilde Casazola,NA,NA,Cueca,Spotify,26.txt,Javi,TRUE,NA,NA,NA,26.txt,"Desde lejos yo regreso
 Ya te tengo en mi mirada
 Ya contemplo en tu infinito mis montañas recordadas
@@ -1017,7 +1077,7 @@ Con que hierba me cautivas dulce tierra boliviana
 Con que hierba me cautivas dulce tierra boliviana
 
 Con que hierba me cautivas dulce tierra boliviana
-",3,4,1,2,6,4,1,5,6,8,3lNiNvHJqisqAOTIB3CUv5,24,De Regreso,Cuando Tenga la Tierra (Alto Folklore Boliviano),Luis Rico,track,spotify:track:3lNiNvHJqisqAOTIB3CUv5,0.677,0.798,11,-8.985,0,0.0783,0.217,1.55e-5,0.348,0.74,130.157,167567,3
+",0,3,0,0,3,0,1,4,0,10,3lNiNvHJqisqAOTIB3CUv5,24,De Regreso,Cuando Tenga la Tierra (Alto Folklore Boliviano),Luis Rico,track,spotify:track:3lNiNvHJqisqAOTIB3CUv5,0.677,0.798,11,-8.985,0,0.0783,0.217,1.55e-5,0.348,0.74,130.157,167567,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 27,La Caraqueña,Enriqueta Ulloa,Nilo Soruco,Tarija,NA,Cueca,Spotify,27.txt,Javi,TRUE,NA,NA,NA,27.txt,"Qué lejos estoy, qué lejos estoy
 de mi ansiedad,
 mi río, mi sol,
@@ -1064,7 +1124,7 @@ ya la pagarán, no llores prenda
 pronto volveré
 
 Ya la pagarán, no llores prenda
-pronto volveré",0,0,1,1,0,1,0,1,1,2,4ISertUG7XgAf9ahk5ZlPv,12,La Caraqueña,Sus Exitos,Enriqueta Ulloa,track,spotify:track:4ISertUG7XgAf9ahk5ZlPv,0.806,0.268,2,-13.646,1,0.093,0.698,0,0.289,0.798,120.808,187333,3
+pronto volveré",3,4,1,2,6,4,1,5,6,8,4ISertUG7XgAf9ahk5ZlPv,12,La Caraqueña,Sus Exitos,Enriqueta Ulloa,track,spotify:track:4ISertUG7XgAf9ahk5ZlPv,0.806,0.268,2,-13.646,1,0.093,0.698,0,0.289,0.798,120.808,187333,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 28,Adiós Oruro del Alma,Dúo Sentimiento,"Jaime Medinaceli, Daniel Sosa",Oruro,NA,Cueca,Spotify,28.txt,Javi,TRUE,Si,falta corregir y sincronizar,NA,28.txt,"Adiós Oruro del alma
 Linda ciudad de mis sueños
 ya no volveré a tus calles
@@ -1112,7 +1172,7 @@ te ofrezco mi corazón
 
 Ya no volveré a tus calles
 ni pisaré tus arenas
-",0,0,0,0,1,0,0,0,0,3,1kFRzBh5SVlbDNrFu0oiGF,20,Adiós Oruro del Alma,Diez Años... Con Más Sentimiento,Dúo Sentimiento,track,spotify:track:1kFRzBh5SVlbDNrFu0oiGF,0.759,0.311,4,-12.766,0,0.0525,0.803,5.51e-4,0.223,0.659,120.27,193427,3
+",0,0,1,1,0,1,0,1,1,2,1kFRzBh5SVlbDNrFu0oiGF,20,Adiós Oruro del Alma,Diez Años... Con Más Sentimiento,Dúo Sentimiento,track,spotify:track:1kFRzBh5SVlbDNrFu0oiGF,0.759,0.311,4,-12.766,0,0.0525,0.803,5.51e-4,0.223,0.659,120.27,193427,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 29,Mi Gran Potosí,Maria Luisa Tirado,Hernan Martinez Rojas,Potosí,NA,Cueca,Spotify,29.txt,Javi,TRUE,Si,NA,NA,29.txt,"Gloriosa estirpe
 Mole de plata
 Ese es mi Potosí
@@ -1151,7 +1211,7 @@ Y en nuestros pechos
 La rebeldía de Ibañez inmortal
 
 Y en nuestros pechos
-La rebeldia de Ibañez inmortal",1,0,1,1,1,2,0,0,3,1,5Ox7ePcaCC50yNtCMDjsy0,0,Mi Gran Potosí,Grandes Éxitos,Maria Luisa Tirado,track,spotify:track:5Ox7ePcaCC50yNtCMDjsy0,0.719,0.862,7,-3.969,0,0.0645,0.629,2.73e-6,0.0893,0.706,126.213,196413,3
+La rebeldia de Ibañez inmortal",0,0,0,0,1,0,0,0,0,3,5Ox7ePcaCC50yNtCMDjsy0,0,Mi Gran Potosí,Grandes Éxitos,Maria Luisa Tirado,track,spotify:track:5Ox7ePcaCC50yNtCMDjsy0,0.719,0.862,7,-3.969,0,0.0645,0.629,2.73e-6,0.0893,0.706,126.213,196413,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 30,Cholita Paceña,Tupay,Manuel Elías Coronel Ponce,La Paz,NA,Cueca,Spotify,30.txt,Javi,TRUE,NA,NA,NA,30.txt,"Quisiera tener cholita paceña
 ¡Ay! porque sabe querer
 Y es una buena mujer
@@ -1194,7 +1254,7 @@ Tenga otro dueño
 Tenga otro dueño
 
 ¡Ay! al pensar que mi amor
-Tenga otro dueño",6,1,5,4,2,6,1,2,14,5,2pRKJEdarrE8ynOVKmaWQF,20,Cholita Paceña,"Antología de La Cueca, Vol.1",Tupay,track,spotify:track:2pRKJEdarrE8ynOVKmaWQF,0.712,0.71,5,-4.651,1,0.037,0.743,0,0.0322,0.734,120.012,182629,3
+Tenga otro dueño",1,0,1,1,1,2,0,0,3,1,2pRKJEdarrE8ynOVKmaWQF,20,Cholita Paceña,"Antología de La Cueca, Vol.1",Tupay,track,spotify:track:2pRKJEdarrE8ynOVKmaWQF,0.712,0.71,5,-4.651,1,0.037,0.743,0,0.0322,0.734,120.012,182629,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 31,Infierno,Proyección,-,NA,1989,Kaluyo,Spotify,31.txt,Javi,TRUE,NA,NA,NA,31.txt,"Infierno abre tus puertas
 ábrelas de par en par
 Que quiero acabar mi vida al final
@@ -1235,7 +1295,7 @@ Déjenla llorar se ha de consolar
 Ella sabrá por quien llora, si es por mí o es por aquel
 
 Déjenla llorar se ha de consolar
-Déjenla llorar se ha de consolar",0,2,1,3,2,10,0,1,10,3,0q9oFnXVo327tgVh4VzJLj,29,Infierno,Secreto Amor (Bolivia y Su Folklore),Proyección,track,spotify:track:0q9oFnXVo327tgVh4VzJLj,0.557,0.545,0,-9.713,1,0.114,0.618,0,0.169,0.626,72.663,238880,4
+Déjenla llorar se ha de consolar",6,1,5,4,2,6,1,2,14,5,0q9oFnXVo327tgVh4VzJLj,29,Infierno,Secreto Amor (Bolivia y Su Folklore),Proyección,track,spotify:track:0q9oFnXVo327tgVh4VzJLj,0.557,0.545,0,-9.713,1,0.114,0.618,0,0.169,0.626,72.663,238880,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 32,Luz de Mi Camino,Proyección,Fernando Torrico,NA,1987,Chuntunqui,Spotify,32.txt,Javi,TRUE,NA,NA,NA,32.txt,"Dormido en un silencio muy profundo
 Mi vida pasa lenta sin tu amor
 Mi voz y mis recuerdos te reclaman
@@ -1262,7 +1322,7 @@ Eres alegría en mi penar
 Eres sabia luz, eres la vida
 Mi vida es nada sin tu amor
 Eres sabia luz, eres la vida
-Mi vida es nada sin tu amor",6,6,3,8,3,10,2,2,15,3,1DInbWIOq0bf8A8P6pcmuz,39,Luz de Mi Camino,Sólo por Tu Amor,Proyección,track,spotify:track:1DInbWIOq0bf8A8P6pcmuz,0.618,0.521,0,-6.485,1,0.029,0.428,0,0.102,0.505,128.37,230905,3
+Mi vida es nada sin tu amor",0,2,1,3,2,10,0,1,10,3,1DInbWIOq0bf8A8P6pcmuz,39,Luz de Mi Camino,Sólo por Tu Amor,Proyección,track,spotify:track:1DInbWIOq0bf8A8P6pcmuz,0.618,0.521,0,-6.485,1,0.029,0.428,0,0.102,0.505,128.37,230905,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 33,Cruel Destino,Proyección,-,NA,1987,Kaluyo,Spotify,33.txt,Abi,TRUE,Si,NA,NA,33.txt,"Por el camino de abrojos
 Ya no me verán tus ojos
 Si vivo, vivo, viviré
@@ -1308,7 +1368,7 @@ Si vivo, vivo, viviré
 Si muero, muero, moriré y en tus brazos
 Hay cruel destino suerte fatal
 La que yo quise me pago mal
-",0,3,0,0,5,2,1,6,1,6,7txqGtHWf8qwj1IiU7VjJ2,37,Cruel Destino,Sólo por Tu Amor,Proyección,track,spotify:track:7txqGtHWf8qwj1IiU7VjJ2,0.619,0.47,0,-6.764,1,0.0507,0.157,0,0.538,0.605,73.931,214544,4
+",6,6,3,8,3,10,2,2,15,3,7txqGtHWf8qwj1IiU7VjJ2,37,Cruel Destino,Sólo por Tu Amor,Proyección,track,spotify:track:7txqGtHWf8qwj1IiU7VjJ2,0.619,0.47,0,-6.764,1,0.0507,0.157,0,0.538,0.605,73.931,214544,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 34,Amigo,Los Payas,René Careaga,NA,1971,Taki taki,Spotify,34.txt,Abi,TRUE,NA,http://musicaandina2011.blogspot.com/2020/03/los-payas.html,NA,34.txt,"Larara lararay lara oiga
 Larara lararay lara amigo
 Larara lararaylara laylaray lararalarara
@@ -1362,7 +1422,7 @@ Larara lararay lara amigo
 Larara lararaylara laylaray lararalarara
 Larara lararay lara oiga!!
 Larara lararay lara amigo
-Larara lararaylara laylaray",0,1,0,0,1,0,1,1,0,3,5xIr33p9HIFuIoWVGT12R1,0,Amigo,Amigo,Los Payas,track,spotify:track:5xIr33p9HIFuIoWVGT12R1,0.691,0.719,3,-8.588,0,0.0984,0.774,0,0.0783,0.971,93.996,169729,4
+Larara lararaylara laylaray",0,3,0,0,5,2,1,6,1,6,5xIr33p9HIFuIoWVGT12R1,0,Amigo,Amigo,Los Payas,track,spotify:track:5xIr33p9HIFuIoWVGT12R1,0.691,0.719,3,-8.588,0,0.0984,0.774,0,0.0783,0.971,93.996,169729,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35,Bailando Saya,Sayanta,Juan Carlos Llave Flores,Yungas,2001,Saya afroboliviana,Spotify,35.txt,Abi,TRUE,NA,NA,NA,35.txt,"Ey-ey
 Saya
 Ey-ey
@@ -1424,7 +1484,7 @@ Eh-ah eh-ah eh-ah eh-ah
 Bailando la saya
 Eh-ah eh-ah eh-ah eh-ah
 Bailando la saya
-",1,0,1,2,0,2,0,0,4,1,1SGQ2VPpPeqzct61PTQ4CB,31,Bailando Saya,Surcos Bolivianos Vol. 1,Sayanta,track,spotify:track:1SGQ2VPpPeqzct61PTQ4CB,0.828,0.647,9,-9.196,0,0.249,0.317,0,0.343,0.958,130.639,293760,4
+",0,1,0,0,1,0,1,1,0,3,1SGQ2VPpPeqzct61PTQ4CB,31,Bailando Saya,Surcos Bolivianos Vol. 1,Sayanta,track,spotify:track:1SGQ2VPpPeqzct61PTQ4CB,0.828,0.647,9,-9.196,0,0.249,0.317,0,0.343,0.958,130.639,293760,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 36,Abierto Mi Corazón,Los Kory Huayras,Bonny Alberto Teran,NA,NA,Huayño,Spotify,36.txt,Abi,TRUE,NA,https://www.discogs.com/es/release/13411599-Los-Kory-Huayras-Los-Kory-Huayras,https://www.youtube.com/watch?v=TQOEdkPCljg,36.txt,"Abierto mi corazón
 Abierto de par en par
 Dueña y absoluta dueña nadie ocupa tu lugar
@@ -1460,7 +1520,7 @@ Si a vos te han pagado mal a mí me han pagado primero
 
 Si a vos te han pagado mal a mí me han pagado primero
 
-",0,0,1,1,2,2,0,0,2,3,50QbVQkv0DwaXfAckoLQ8U,27,Abierto Mi Corazón,Por Siempre,Los Kory Huayras,track,spotify:track:50QbVQkv0DwaXfAckoLQ8U,0.652,0.362,9,-11.458,0,0.223,0.71,6.3e-5,0.142,0.486,114.29,209373,3
+",1,0,1,2,0,2,0,0,4,1,50QbVQkv0DwaXfAckoLQ8U,27,Abierto Mi Corazón,Por Siempre,Los Kory Huayras,track,spotify:track:50QbVQkv0DwaXfAckoLQ8U,0.652,0.362,9,-11.458,0,0.223,0.71,6.3e-5,0.142,0.486,114.29,209373,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 37,Paceñita,Yara,Ramiro Alcocer Lopez,La Paz,2003,Cullaguada,Spotify,37.txt,Abi,TRUE,NA,NA,NA,37.txt,"¡Yara!
 Cullawita
 Para tí paceñita
@@ -1498,7 +1558,7 @@ La media vueltita
 ¡Cullawa paceña!
 
 ¡Yara!
-",0,1,1,0,1,0,1,3,1,3,30hpiUHIfa4XPdQusWOd79,51,Paceñita,...Música en Proyección,Yara,track,spotify:track:30hpiUHIfa4XPdQusWOd79,0.713,0.767,0,-6.778,1,0.0612,0.158,0,0.0566,0.792,120.065,184599,3
+",0,0,1,1,2,2,0,0,2,3,30hpiUHIfa4XPdQusWOd79,51,Paceñita,...Música en Proyección,Yara,track,spotify:track:30hpiUHIfa4XPdQusWOd79,0.713,0.767,0,-6.778,1,0.0612,0.158,0,0.0566,0.792,120.065,184599,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 38,Lágrimas,Carlos Palenque,Carlos Palenque,La Paz,1997,Cullaguada,Spotify,38.txt,Abi,TRUE,NA,https://music.apple.com/bo/album/lo-mejor-de-carlos-palenque-bolivia-y-su-folklore/955148931,NA,38.txt,"Miles de lágrimas yo broté por ti
 Cuando tú te fuiste de mí
 Miles de lágrimas yo broté por ti
@@ -1545,7 +1605,7 @@ Porque a ti te perdí
 Porque a ti te perdí
 Porque a ti te perdí
 Porque a ti te perdí
-",4,4,1,3,6,3,2,5,4,12,3hPIItHOOd2cLCQgg7dZnK,27,Lágrimas,Lo Mejor de Carlos Palenque (Bolivia y Su Folklore),Carlos Palenque,track,spotify:track:3hPIItHOOd2cLCQgg7dZnK,0.512,0.825,2,-6.466,1,0.0939,0.232,1.25e-6,0.0514,0.89,84.241,154493,4
+",0,1,1,0,1,0,1,3,1,3,3hPIItHOOd2cLCQgg7dZnK,27,Lágrimas,Lo Mejor de Carlos Palenque (Bolivia y Su Folklore),Carlos Palenque,track,spotify:track:3hPIItHOOd2cLCQgg7dZnK,0.512,0.825,2,-6.466,1,0.0939,0.232,1.25e-6,0.0514,0.89,84.241,154493,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 39,Sangre Andina,Savia Andina,Gerardo Arias Paz,NA,1996,Caporal,Spotify,39.txt,Abi,TRUE,NA,NA,NA,39.txt,"Soy caminante de las alturas hasta tu pueblo llegando estoy
 Yo vivo cerca de las montañas, cerca del cielo, cerca del sol
 Yo vivo cerca de las montañas, cerca del cielo, cerca del sol
@@ -1586,7 +1646,7 @@ Raza de bronce, fuerza y amor
 Raza de bronce, fuerza y amor
 Raza de bronce, fuerza y amor
 Raza de bronce, fuerza y amor
-Raza de bronce, fuerza y amor",2,0,2,0,0,2,0,0,5,1,7IGySyPYtIHjciPTBgmGpS,36,Sangre Andina,Sangre Andina,Savia Andina,track,spotify:track:7IGySyPYtIHjciPTBgmGpS,0.667,0.793,2,-9.001,1,0.0432,0.702,0,0.0791,0.97,135.619,189478,3
+Raza de bronce, fuerza y amor",4,4,1,3,6,3,2,5,4,12,7IGySyPYtIHjciPTBgmGpS,36,Sangre Andina,Sangre Andina,Savia Andina,track,spotify:track:7IGySyPYtIHjciPTBgmGpS,0.667,0.793,2,-9.001,1,0.0432,0.702,0,0.0791,0.97,135.619,189478,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 40,Por Qué Me Enamoré de Tí,Los Kory Huayras,Carlos Ballón,La Paz,1990,Huayño,Spotify,40.txt,Abi,TRUE,NA,NA,NA,40.txt,"Por qué me enamore de ti
 Por qué me enamore de ti
 Por qué enamore de ti, si
@@ -1624,7 +1684,7 @@ No me hubiera enamorado
 Y mucho menos de ti
 No me hubiera enamorado
 Y mucho menos de ti
-",0,0,0,0,0,1,0,0,1,0,4zta039zGHKQ00IMeYdjUY,34,Por Qué Me Enamoré de Tí,Por Siempre,Los Kory Huayras,track,spotify:track:4zta039zGHKQ00IMeYdjUY,0.625,0.437,1,-12.987,0,0.0808,0.375,1.02e-6,0.139,0.792,82.264,134827,4
+",2,0,2,0,0,2,0,0,5,1,4zta039zGHKQ00IMeYdjUY,34,Por Qué Me Enamoré de Tí,Por Siempre,Los Kory Huayras,track,spotify:track:4zta039zGHKQ00IMeYdjUY,0.625,0.437,1,-12.987,0,0.0808,0.375,1.02e-6,0.139,0.792,82.264,134827,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 41,Bailando Caporales,Yara,Ramiro Alcocer Lopez,NA,2003,Caporal,Spotify,41.txt,Abi,TRUE,NA,NA,NA,41.txt,"Bailando en los carnavales
 Morenita caporales yo bailo por ti
 Bailando en los carnavales
@@ -1670,7 +1730,7 @@ Con trajes multicolores, negra
 Cascabeles y silbatos, samba
 Siempre muy alegres, negra
 Bailamos el caporal
-",4,1,1,3,1,3,0,0,8,2,69rfvMF17OnpHJ6zmxEHkI,47,Bailando Caporales,...Música en Proyección,Yara,track,spotify:track:69rfvMF17OnpHJ6zmxEHkI,0.77,0.82,7,-4.256,0,0.0321,0.512,0,0.172,0.967,131.939,257463,3
+",0,0,0,0,0,1,0,0,1,0,69rfvMF17OnpHJ6zmxEHkI,47,Bailando Caporales,...Música en Proyección,Yara,track,spotify:track:69rfvMF17OnpHJ6zmxEHkI,0.77,0.82,7,-4.256,0,0.0321,0.512,0,0.172,0.967,131.939,257463,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42,La Vida Es Linda,Los Canarios del Chaco,Nilo Soruco,NA,NA,Cueca,Spotify,42.txt,Abi,TRUE,Si,NA,NA,42.txt,"
 Si el río del tiempo quisiera marcharse
 Para no volver
@@ -1720,7 +1780,7 @@ No llores volverá el amor
 
 La vida es linda muchacha
 No llores volverá el amor
-",2,2,1,2,4,5,1,2,6,9,74vPJWItcPkVyVY89vfvuH,15,La Vida Es Linda,Todos Somos Bolivianos,"Los Canarios del Chaco, Miguel Ángel Torrez",track,spotify:track:74vPJWItcPkVyVY89vfvuH,0.662,0.491,9,-6.149,1,0.0356,0.806,0,0.0851,0.657,127.821,207627,3
+",4,1,1,3,1,3,0,0,8,2,74vPJWItcPkVyVY89vfvuH,15,La Vida Es Linda,Todos Somos Bolivianos,"Los Canarios del Chaco, Miguel Ángel Torrez",track,spotify:track:74vPJWItcPkVyVY89vfvuH,0.662,0.491,9,-6.149,1,0.0356,0.806,0,0.0851,0.657,127.821,207627,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43,No Te Olvides de Mi,Esther Marisol,Teodoro Barrientos,NA,1996,Chuntunqui,Spotify,43.txt,Abi,TRUE,NA,NA,NA,43.txt,"Triste, voy caminando
 Por las calles pensando
 Lo que fue nuestro
@@ -1768,7 +1828,7 @@ Que pronto tú regreses
 No te olvides de mi
 No te olvides de mi
 De mi
-",1,7,0,0,7,2,4,6,3,12,4Mg7IP04jN8HC1b0yby9wu,5,No Te Olvides de Mi,Discolandia 50 Años Vol. 3,"Esther Marisol, Arminda Alba, Zulma Yugar, Los Canarios del Chaco, Grupo Khanata, Wara, Enriqueta Ulloa, Los Taitas, Familia Valdivia, Grupo Bolivia, Los Cambitas, Los Kjarkas, Rumillajta, Savia Andina, Luis Rico, Kollamarka, Manuel Monroy Ch.",track,spotify:track:4Mg7IP04jN8HC1b0yby9wu,0.525,0.671,0,-5.034,1,0.0296,0.6,1.47e-5,0.11,0.287,120.058,287973,3
+",2,2,1,2,4,5,1,2,6,9,4Mg7IP04jN8HC1b0yby9wu,5,No Te Olvides de Mi,Discolandia 50 Años Vol. 3,"Esther Marisol, Arminda Alba, Zulma Yugar, Los Canarios del Chaco, Grupo Khanata, Wara, Enriqueta Ulloa, Los Taitas, Familia Valdivia, Grupo Bolivia, Los Cambitas, Los Kjarkas, Rumillajta, Savia Andina, Luis Rico, Kollamarka, Manuel Monroy Ch.",track,spotify:track:4Mg7IP04jN8HC1b0yby9wu,0.525,0.671,0,-5.034,1,0.0296,0.6,1.47e-5,0.11,0.287,120.058,287973,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 44,Bien Le Cascaremos,Manuel Monroy,Manuel Monroy,NA,2003,Huayño,Spotify,44.txt,Abi,TRUE,NA,NA,NA,44.txt,"Igual no me alcanza
 Ni pa' la esperanza
 Me rasco los muslos, ¡ajay!
@@ -1854,7 +1914,7 @@ Bien le cascaremos
 Ahora que tenemos
 Ahora que tenemos
 Bien le cascaremos
-",0,2,1,1,4,2,1,3,1,7,1saiVweGTaegI4mHZxjttI,6,Bien Le Cascaremos,Discolandia 50 Años Vol. 3,"Manuel Monroy Ch., Arminda Alba, Zulma Yugar, Los Canarios del Chaco, Grupo Khanata, Wara, Enriqueta Ulloa, Los Taitas, Familia Valdivia, Grupo Bolivia, Los Cambitas, Los Kjarkas, Rumillajta, Savia Andina, Luis Rico, Kollamarka, Esther Marisol",track,spotify:track:1saiVweGTaegI4mHZxjttI,0.634,0.588,10,-8.011,1,0.0475,0.894,0,0.118,0.761,137.38,228080,3
+",1,7,0,0,7,2,4,6,3,12,1saiVweGTaegI4mHZxjttI,6,Bien Le Cascaremos,Discolandia 50 Años Vol. 3,"Manuel Monroy Ch., Arminda Alba, Zulma Yugar, Los Canarios del Chaco, Grupo Khanata, Wara, Enriqueta Ulloa, Los Taitas, Familia Valdivia, Grupo Bolivia, Los Cambitas, Los Kjarkas, Rumillajta, Savia Andina, Luis Rico, Kollamarka, Esther Marisol",track,spotify:track:1saiVweGTaegI4mHZxjttI,0.634,0.588,10,-8.011,1,0.0475,0.894,0,0.118,0.761,137.38,228080,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 45,Viva Santa Cruz,Gilberto Rojas Enríquez,Gilberto Rojas Enríquez,Santa Cruz,1954,Taquirari,Spotify,45.txt,Abi,TRUE,NA,"https://www.youtube.com/watch?app=desktop&v=OmgexswtPJc#:~:text=VIVA%20SANTA%20CRUZ%20%E2%80%93%20Cantan%20en,Los%20Cambas%20en%201958%20%2D%20YouTube",NA,45.txt,"Viva Santa Cruz
 Bella tierra de mi corazón
 Tienes la virtud y el perfume
@@ -1907,7 +1967,7 @@ Cuando me vaya
 Ay, amorcito
 He de partir llorando
 Viva Santa Cruz
-Viva Santa Cruz",2,2,0,1,3,0,2,4,2,6,6Yj5QNOoVjUofLwk6zZGfK,10,Viva Santa Cruz,"Homenaje Al ""Gran Compositor Gilberto Rojas""",Gladys Moreno,track,spotify:track:6Yj5QNOoVjUofLwk6zZGfK,0.484,0.243,7,-14.271,0,0.0478,0.308,7.52e-5,0.097,0.397,78.28,155800,4
+Viva Santa Cruz",0,2,1,1,4,2,1,3,1,7,6Yj5QNOoVjUofLwk6zZGfK,10,Viva Santa Cruz,"Homenaje Al ""Gran Compositor Gilberto Rojas""",Gladys Moreno,track,spotify:track:6Yj5QNOoVjUofLwk6zZGfK,0.484,0.243,7,-14.271,0,0.0478,0.308,7.52e-5,0.097,0.397,78.28,155800,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46,Mi Escuelita,"Zulma Yugar, Gerardo Arias",Willy Alfaro,NA,1999,Tonada,Spotify,46.txt,Abi,TRUE,NA,http://musicaandina2011.blogspot.com/2011/12/zulma-yugar.html,NA,46.txt,"Cuando me voy a mi escuelita
 Lunes a viernes mandilito blanco
 Primeros años de mi vida
@@ -1964,7 +2024,7 @@ Inolvidable sonrisa de niño
 Ella me dice está conmigo
 Inolvidable sonrisa de niño
 Ella me dice está conmigo
-Inolvidable sonrisa de niño",3,3,3,3,4,3,2,1,6,5,7ojIfzZpEhdUWHOtHI2uIb,20,Mi Escuelita,Por Siempre Nosotros,"Zulma Yugar, Gerardo Arias",track,spotify:track:7ojIfzZpEhdUWHOtHI2uIb,0.711,0.354,9,-11.414,1,0.055,0.799,0,0.0816,0.625,83.963,252600,4
+Inolvidable sonrisa de niño",2,2,0,1,3,0,2,4,2,6,7ojIfzZpEhdUWHOtHI2uIb,20,Mi Escuelita,Por Siempre Nosotros,"Zulma Yugar, Gerardo Arias",track,spotify:track:7ojIfzZpEhdUWHOtHI2uIb,0.711,0.354,9,-11.414,1,0.055,0.799,0,0.0816,0.625,83.963,252600,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 47,Lloré por Ti,Pepe Murillo,Walter Gonzales,NA,1999,Cueca,Spotify,47.txt,Abi,TRUE,Si,NA,NA,47.txt,"Lloré por ti
 Al pensar que no me amabas
 Te reprocho, te odio y desprecio
@@ -2009,7 +2069,7 @@ Me da risa que digas que lloro
 Soy feliz sin tu amor
 
 Me da risa que digas que lloro
-Soy feliz sin tu amor",1,3,1,2,1,1,1,0,1,1,5Ii4mw1iXgZe2sLoKjZgry,2,Lloré por Ti,Lo Mejor,"Pepe Murillo, Los Bolivianos",track,spotify:track:5Ii4mw1iXgZe2sLoKjZgry,0.684,0.454,4,-12.743,0,0.0313,0.548,0,0.049,0.93,125.153,188000,3
+Soy feliz sin tu amor",3,3,3,3,4,3,2,1,6,5,5Ii4mw1iXgZe2sLoKjZgry,2,Lloré por Ti,Lo Mejor,"Pepe Murillo, Los Bolivianos",track,spotify:track:5Ii4mw1iXgZe2sLoKjZgry,0.684,0.454,4,-12.743,0,0.0313,0.548,0,0.049,0.93,125.153,188000,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 48,Amarguras y congojas,Enrique Larrea,Enrique Larrea,NA,1993,Huayño,Spotify,48.txt,Abi,TRUE,Si,NA,NA,48.txt,"Quién no ha tenido en la vida
 Amarguras y congojas
 Al ver marchitas las hojas
@@ -2044,7 +2104,7 @@ Ahí lo tienes mi corazón
 Si quieres matarlo puedes
 Pero como tú estas dentro
 Si lo matas también mueres
-",4,9,1,6,10,9,4,7,11,11,20AcFUfDQGqO0BMDiCgxhS,9,Amarguras y congojas,Grandes Éxitos de Enrique Larrea,Enrique Larrea,track,spotify:track:20AcFUfDQGqO0BMDiCgxhS,0.553,0.292,5,-13.25,1,0.275,0.325,0.00349,0.068,0.701,172.018,159173,5
+",1,3,1,2,1,1,1,0,1,1,20AcFUfDQGqO0BMDiCgxhS,9,Amarguras y congojas,Grandes Éxitos de Enrique Larrea,Enrique Larrea,track,spotify:track:20AcFUfDQGqO0BMDiCgxhS,0.553,0.292,5,-13.25,1,0.275,0.325,0.00349,0.068,0.701,172.018,159173,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 49,Boquerón,Música de Maestros,"Humberto Palza, Antonio Montes",NA,1999,Danza Aymara,Spotify,49.txt,Abi,TRUE,NA,"https://www.facebook.com/BoliviaEterna/videos/musica-de-maestros-boqueron/497223147765721/#:~:text=TEMA%20%3A%20Boqueron,-%E2%96%A0&text=AUTOR%20%3A%20Humberto%20Palza%20%2F%20Antonio%20Montes,-%E2%96%A0&text=RITMO%20%3A%20Danza%20Aymara,-%E2%96%A0",NA,49.txt,"No me llores si la muerte
 Cava un abismo entre los dos
 Yo no sé si por quererte
@@ -2075,7 +2135,7 @@ No me pagarás en vida que me des la muerte que me doy
 Abandonado de tu amor, lejos de ti yo moriré
 Lejos de ti yo moriré
 Bolivia ha de cantar, después morir
-Bolivia ha de ganar, después morir, morir",0,2,0,2,3,5,1,1,5,5,4eANbq3kq6VoOR89aZxBAe,10,Boquerón,Selecciones,Música de Maestros,track,spotify:track:4eANbq3kq6VoOR89aZxBAe,0.581,0.354,2,-10.247,0,0.0343,0.771,0,0.102,0.67,84.935,277667,4
+Bolivia ha de ganar, después morir, morir",4,9,1,6,10,9,4,7,11,11,4eANbq3kq6VoOR89aZxBAe,10,Boquerón,Selecciones,Música de Maestros,track,spotify:track:4eANbq3kq6VoOR89aZxBAe,0.581,0.354,2,-10.247,0,0.0343,0.771,0,0.102,0.67,84.935,277667,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 50,Tu Recuerdo,Arturo Sobenes,Irma Arteaga,NA,2005,Polca,Spotify,50.txt,Abi,TRUE,NA,Javi,NA,50.txt,"Recuerdo las dulces horas que pasamos
 Compartiendo nuestra dicha y nuestro amor
 Recuerdo los dulces besos que me dabas
@@ -2105,7 +2165,7 @@ Ven pronto mi vida ven a mi
 
 Tu recuerdo me persigue por siempre querida
 Y no pierdo la esperanza de tener tu amor
-",1,4,0,1,5,0,1,3,0,6,6bd0rEscAd79fH9ygY2JmV,1,Tu Recuerdo,Época de Oro de la Música Boliviana,Arturo Sobenes,track,spotify:track:6bd0rEscAd79fH9ygY2JmV,0.424,0.34,0,-11.379,0,0.0331,0.794,1.05e-6,0.327,0.713,131.797,180960,3
+",0,2,0,2,3,5,1,1,5,5,6bd0rEscAd79fH9ygY2JmV,1,Tu Recuerdo,Época de Oro de la Música Boliviana,Arturo Sobenes,track,spotify:track:6bd0rEscAd79fH9ygY2JmV,0.424,0.34,0,-11.379,0,0.0331,0.794,1.05e-6,0.327,0.713,131.797,180960,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 51,El Aguilillo,Enriqueta Ulloa,"José René Moreno, Arturo Pinckert",NA,2004,Carnaval,Spotify,51.txt,Abi,TRUE,NA,"https://www.facebook.com/BoliviaEterna/videos/enriqueta-ulloa-el-aguilillo/431653584438368/?locale=es_LA#:~:text=TEMA%20%3A%20El%20Aguilillo,-%E2%96%A0&text=AUTOR%20%3A%20Jos%C3%A9%20Ren%C3%A9%20Moreno%20%2F%20Arturo%20Pinckert,-%E2%96%A0&text=RITMO%20%3A%20Carnaval,-%E2%96%A0",NA,51.txt,"Te amaré, te amaré,
 Te amaré con todo el corazón
 Te querré, te querré
@@ -2169,7 +2229,7 @@ Sos aguilillo, te gusta el amor
 Y a las mujeres robas el corazón
 Sos aguilillo, te gusta el amor
 Y a las mujeres les gusta como sos
-",1,2,0,2,1,3,0,1,3,4,10bsIbn1QjtkQH0GPXDnxC,26,El Aguilillo,Lo Mejor del Oriente Boliviano,Enriqueta Ulloa,track,spotify:track:10bsIbn1QjtkQH0GPXDnxC,0.614,0.488,11,-9.814,0,0.0409,0.269,1.94e-4,0.344,0.79,84.385,173827,3
+",1,4,0,1,5,0,1,3,0,6,10bsIbn1QjtkQH0GPXDnxC,26,El Aguilillo,Lo Mejor del Oriente Boliviano,Enriqueta Ulloa,track,spotify:track:10bsIbn1QjtkQH0GPXDnxC,0.614,0.488,11,-9.814,0,0.0409,0.269,1.94e-4,0.344,0.79,84.385,173827,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 52,Guajojo,Gladys Moreno,Percy Ávila,NA,1979,Taquirari,Spotify,52.txt,Abi,TRUE,NA,NA,NA,52.txt,"Cuando la lluvia canta un taquirari
 Entre las hojas de un gran motacú
 Aquí muy dentro rebalsa mi tari
@@ -2203,7 +2263,7 @@ Ya no soy buena la ausencia me cambió
 El guajojó caminante en pena como yo
 Lleva mi voz de guapomó en guapomó
 El guajojó caminante en pena como yo
-Lleva mi voz de guapomó en guapomó",2,3,0,0,9,0,2,3,2,12,4pL6WsXSqoA2ZOiwnjz14i,24,Guajojo,El Disco de Oro de Gladys Moreno,Gladys Moreno,track,spotify:track:4pL6WsXSqoA2ZOiwnjz14i,0.717,0.452,7,-10.587,0,0.0872,0.762,3.57e-5,0.277,0.648,77.08,167519,4
+Lleva mi voz de guapomó en guapomó",1,2,0,2,1,3,0,1,3,4,4pL6WsXSqoA2ZOiwnjz14i,24,Guajojo,El Disco de Oro de Gladys Moreno,Gladys Moreno,track,spotify:track:4pL6WsXSqoA2ZOiwnjz14i,0.717,0.452,7,-10.587,0,0.0872,0.762,3.57e-5,0.277,0.648,77.08,167519,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 53,Niña Camba,Los Cambitas,César Espada Morales,NA,1990,Taquirari,Spotify,53.txt,Abi,TRUE,Si,falta corrección,NA,53.txt,"Niña al recordar
 Hoy tus ojos tan fijos en mi
 Veo el mar la playa y el sol
@@ -2252,7 +2312,7 @@ Donde te pueda olvidar
 Niña me llevo todos mis versos
 Me voy esta noche lejos
 Donde te pueda olvidar
-",1,2,2,3,5,9,1,1,9,4,6vG0PEP1rw0HA7KUoQnqYW,13,Niña Camba,De Colección,Los Cambitas,track,spotify:track:6vG0PEP1rw0HA7KUoQnqYW,0.56,0.244,6,-16.517,0,0.0566,0.973,1.15e-4,0.105,0.727,156.282,166600,4
+",2,3,0,0,9,0,2,3,2,12,6vG0PEP1rw0HA7KUoQnqYW,13,Niña Camba,De Colección,Los Cambitas,track,spotify:track:6vG0PEP1rw0HA7KUoQnqYW,0.56,0.244,6,-16.517,0,0.0566,0.973,1.15e-4,0.105,0.727,156.282,166600,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 54,Pena Camba,Gladys Moreno,"José Luna, Raúl Otero",NA,1993,Taquirari,Spotify,54.txt,Abi,TRUE,NA,NA,NA,54.txt,"Todo el corazón
 Negra te ofrecí
 Esa noche triste
@@ -2318,7 +2378,7 @@ Por el beso que te di
 
 Recuerda mi negra
 Por el beso que te di
-",1,1,2,3,7,6,1,1,6,10,4c9KIEm7zVZBFyVFrWxcZf,15,Pena Camba,El Disco de Oro de Gladys Moreno,Gladys Moreno,track,spotify:track:4c9KIEm7zVZBFyVFrWxcZf,0.505,0.416,7,-9.386,0,0.0494,0.854,0,0.132,0.756,158.398,174428,3
+",1,2,2,3,5,9,1,1,9,4,4c9KIEm7zVZBFyVFrWxcZf,15,Pena Camba,El Disco de Oro de Gladys Moreno,Gladys Moreno,track,spotify:track:4c9KIEm7zVZBFyVFrWxcZf,0.505,0.416,7,-9.386,0,0.0494,0.854,0,0.132,0.756,158.398,174428,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 55,Charanguito de Quirquincho,"Betty Veizaga, Grupo Pukaj Wayra",Betty Veizaga Siles,NA,1998,Salay,Spotify,55.txt,Abi,TRUE,Si,NA,NA,55.txt,"Con que derecho te quitan la vida
 Y te arrancan el corazón
 Pierdes tu vida por la cultura
@@ -2377,7 +2437,7 @@ Te llevare cerquita a mi corazón
 
 Mi charanguito mi quirquinchito
 Te llevare cerquita a mi corazón
-",2,0,1,2,0,2,0,0,2,1,20WV9lbEtFHnP90V2KB41f,0,Charanguito de Q'irquincho,Con Sentimiento a Mi Tierra,"Betty Veizaga, Grupo Pukaj Wayra",track,spotify:track:20WV9lbEtFHnP90V2KB41f,0.489,0.661,9,-9.533,0,0.196,0.33,1e-5,0.29,0.767,98.554,258392,4
+",1,1,2,3,7,6,1,1,6,10,20WV9lbEtFHnP90V2KB41f,0,Charanguito de Q'irquincho,Con Sentimiento a Mi Tierra,"Betty Veizaga, Grupo Pukaj Wayra",track,spotify:track:20WV9lbEtFHnP90V2KB41f,0.489,0.661,9,-9.533,0,0.196,0.33,1e-5,0.29,0.767,98.554,258392,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 56,Granadita,Tupay,A.A.D.D. SOBODAYCOM,NA,1998,Huayño,Spotify,56.txt,Abi,TRUE,NA,NA,NA,56.txt,"Ajinata granaditay (Así granadita mía)
 
 
@@ -2410,7 +2470,7 @@ Oloy loy loy, loy lo lo lo
 Oloy loy loy, loy lo lo lo
 
 
-Robar quisiera tú corazón",2,5,0,0,9,2,2,5,1,9,7KU47DKSR3mZVPCHYoQnQw,35,Granadita,Folklore,Tupay,track,spotify:track:7KU47DKSR3mZVPCHYoQnQw,0.744,0.45,7,-8.552,1,0.0521,0.387,0,0.0957,0.855,116.806,228800,3
+Robar quisiera tú corazón",2,0,1,2,0,2,0,0,2,1,7KU47DKSR3mZVPCHYoQnQw,35,Granadita,Folklore,Tupay,track,spotify:track:7KU47DKSR3mZVPCHYoQnQw,0.744,0.45,7,-8.552,1,0.0521,0.387,0,0.0957,0.855,116.806,228800,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 57,Tonada Para Remedios,Zulma Yugar,Willy Alfaro,NA,1996,Tonada,Spotify,57.txt,Abi,TRUE,NA,NA,NA,57.txt,"Desde la banda he venido
 Pisando sobre las flores.
 Desde la banda he venido
@@ -2456,7 +2516,7 @@ Banda a banda había crecido.
 Marcelina dame alcohol,
 Cigarrito pa' fumar,
 La fiesta va a comenzar,
-Machadita y terminar.",2,1,2,3,1,2,0,1,3,1,0t7gFVZZQ1WRXxaOTKfioF,14,Tonada Para Remedios,Tierra Sin Mar,Zulma Yugar,track,spotify:track:0t7gFVZZQ1WRXxaOTKfioF,0.441,0.296,7,-13.164,1,0.0499,0.801,0,0.151,0.347,76.845,185640,4
+Machadita y terminar.",2,5,0,0,9,2,2,5,1,9,0t7gFVZZQ1WRXxaOTKfioF,14,Tonada Para Remedios,Tierra Sin Mar,Zulma Yugar,track,spotify:track:0t7gFVZZQ1WRXxaOTKfioF,0.441,0.296,7,-13.164,1,0.0499,0.801,0,0.151,0.347,76.845,185640,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 58,Wist'u Vida,Semilla,Pastor Cámara,NA,1996,Tinku,Spotify,58.txt,Abi,TRUE,NA,NA,NA,58.txt,"Que viva la vida 
 
 Con mi wistu vida
@@ -2516,7 +2576,7 @@ Ay caray soy feliz que viva la vida
 Que viva la vida 
 
 
-Con mi wistu vida",0,1,1,2,2,1,0,1,1,2,3663qnvlFGRPEUySNOD7I2,44,Wist'u Vida,Pensando en Ti,Semilla,track,spotify:track:3663qnvlFGRPEUySNOD7I2,0.693,0.704,0,-8.815,1,0.136,0.0425,0,0.254,0.848,145.061,269200,4
+Con mi wistu vida",2,1,2,3,1,2,0,1,3,1,3663qnvlFGRPEUySNOD7I2,44,Wist'u Vida,Pensando en Ti,Semilla,track,spotify:track:3663qnvlFGRPEUySNOD7I2,0.693,0.704,0,-8.815,1,0.136,0.0425,0,0.254,0.848,145.061,269200,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59,Arbolito Arbolito,Tupay,-,NA,2018,Cueca,Spotify,59.txt,Abi,TRUE,NA,NA,NA,59.txt,"Arbolito y arbolito, ay, ay, ay
 De verdes hojas
 Qué bonita te pones
@@ -2551,7 +2611,7 @@ Sabe Dios si volveré a cumplir lo que te juré
 Sabe Dios si volveré a cumplir lo que te juré
 
 Ellos quieren mirarme, negrita
-Tú no los dejas",1,1,5,1,2,2,0,1,5,3,3mvU86Rk4H4SWmb8X1FykE,20,Arbolito Arbolito,Cuecas con Bandoneón,Tupay,track,spotify:track:3mvU86Rk4H4SWmb8X1FykE,0.768,0.748,7,-5.907,1,0.0416,0.712,0,0.209,0.649,114.019,210443,3
+Tú no los dejas",0,1,1,2,2,1,0,1,1,2,3mvU86Rk4H4SWmb8X1FykE,20,Arbolito Arbolito,Cuecas con Bandoneón,Tupay,track,spotify:track:3mvU86Rk4H4SWmb8X1FykE,0.768,0.748,7,-5.907,1,0.0416,0.712,0,0.209,0.649,114.019,210443,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 60,Rompe cantarito,Willy Alfaro,Willy Alfaro,NA,1969,Tonada,Spotify,60.txt,Abi,TRUE,Si,falta sincronización,https://www.facebook.com/BoliviaEterna/videos/humberto-leyton-rompe-cantarito/410299593362657/,60.txt,"Palquiceñito he nacido rompe cantarito
 Me llamaba mi vecina vieja miserable
 Me llamaba mi vecina vieja miserable
@@ -2578,7 +2638,7 @@ Pudo haber sido mi suegra, novia de mandinga
 Lindo palquiceño  rompe cantarito
 Las flores quieren besarme y el río me envidia
 Las flores quieren besarme y el río me envidia
-",5,6,4,9,7,11,4,3,13,8,0DVvhlLuZhZYSlVvFkf2nc,2,Rompe cantarito,"Canciones inolvidables, Vol. 1",Willy Alfaro,track,spotify:track:0DVvhlLuZhZYSlVvFkf2nc,0.741,0.488,8,-8.404,1,0.0728,0.689,0,0.151,0.567,82.055,203827,4
+",1,1,5,1,2,2,0,1,5,3,0DVvhlLuZhZYSlVvFkf2nc,2,Rompe cantarito,"Canciones inolvidables, Vol. 1",Willy Alfaro,track,spotify:track:0DVvhlLuZhZYSlVvFkf2nc,0.741,0.488,8,-8.404,1,0.0728,0.689,0,0.151,0.567,82.055,203827,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 61,Mi desventura,Willy Alfaro,Willy Alfaro,NA,1989,Cueca,Spotify,61.txt,Abi,TRUE,Si,falta sincronización,"https://www.facebook.com/BoliviaEterna/videos/willy-alfaro-mi-desventura/921888878660485/#:~:text=TEMA%3A%20Mi%20Desventura,-%E2%96%A0&text=AUTOR%3A%20Willy%20Alfaro,-%E2%96%A0&text=RITMO%3A%20Cueca,-%E2%96%A0&text=ALBUM%3A%20El%20Trovador%20Tupice%C3%B1o%20%E2%93%851989,-%E2%96%A0",61.txt,"Un día la caja se casó con la copla
 El erque beso su melodía
 Y en un abrazo bombo y guitarra
@@ -2634,7 +2694,7 @@ Ayayay que me muero
 
 Tanta fue mi desventura
 Ayayay que me muero
-",7,2,10,8,1,8,1,2,14,5,7x0DAiUEX4GBgL1QjpcIrB,2,Mi desventura,"Canciones inolvidables, Vol. 1",Willy Alfaro,track,spotify:track:7x0DAiUEX4GBgL1QjpcIrB,0.714,0.482,2,-9.398,1,0.0435,0.874,1.34e-6,0.312,0.575,125.674,249520,3
+",5,6,4,9,7,11,4,3,13,8,7x0DAiUEX4GBgL1QjpcIrB,2,Mi desventura,"Canciones inolvidables, Vol. 1",Willy Alfaro,track,spotify:track:7x0DAiUEX4GBgL1QjpcIrB,0.714,0.482,2,-9.398,1,0.0435,0.874,1.34e-6,0.312,0.575,125.674,249520,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 62,La culpable,Los Cantores del Valle,Luis Achá Martínez,NA,1993,Cueca,Spotify,62.txt,Abi,TRUE,NA,NA,NA,62.txt,"La culpa de mi locura
 La culpa tienes tú
 Me trataste con dulzura
@@ -2681,7 +2741,7 @@ Han hechizado mi alma
 Y no hago más que llorar
 
 Han hechizado mi alma
-Y no hago más que llorar",0,1,0,0,1,1,1,1,1,4,6ytLnvwoHIY7hp4uF6ulz7,20,La culpable,Tarija y Su Música,Los Cantores Del Valle,track,spotify:track:6ytLnvwoHIY7hp4uF6ulz7,0.761,0.438,11,-10.914,0,0.0664,0.67,0,0.331,0.425,122.121,181067,3
+Y no hago más que llorar",7,2,10,8,1,8,1,2,14,5,6ytLnvwoHIY7hp4uF6ulz7,20,La culpable,Tarija y Su Música,Los Cantores Del Valle,track,spotify:track:6ytLnvwoHIY7hp4uF6ulz7,0.761,0.438,11,-10.914,0,0.0664,0.67,0,0.331,0.425,122.121,181067,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 63,Huérfana Virginia,Tupay,Simeón Roncal Gallardo,NA,NA,Cueca,Spotify,63.txt,Javi,TRUE,NA,NA,NA,63.txt,"Llora, llora el alma mía penas del ayer
 Nubes negras pasan por mi mente, sangra el corazón
 Es Virginia, niña mía, que muy lejos se nos fue
@@ -2714,7 +2774,7 @@ Es Virginia, la niña mía, que fue tan lejos pa' no volver
 
 Layra-layra, laralayla; lara-layalala
 Lara-lara-layla, lara-layla; lara-layalala
-Es Virginia, la niña mía, que fue tan lejos pa' no volver",0,0,0,1,0,2,0,0,2,2,3VSoPR2vVsk66AlrI28FKY,6,Huérfana Virginia,"Antología de La Cueca, Vol.1",Tupay,track,spotify:track:3VSoPR2vVsk66AlrI28FKY,0.813,0.648,9,-5.32,0,0.0347,0.716,0,0.134,0.794,115.988,177366,3
+Es Virginia, la niña mía, que fue tan lejos pa' no volver",0,1,0,0,1,1,1,1,1,4,3VSoPR2vVsk66AlrI28FKY,6,Huérfana Virginia,"Antología de La Cueca, Vol.1",Tupay,track,spotify:track:3VSoPR2vVsk66AlrI28FKY,0.813,0.648,9,-5.32,0,0.0347,0.716,0,0.134,0.794,115.988,177366,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 64,No Pretendas Consolarme,Los Pachechos,-,NA,2015,Bailecito,Spotify,64-No pretendas consolarme,Patricia delgadillo,TRUE,Si,NA,NA,64.txt,"(Bailecito de mi tierra, se va la primerita)
 
 No pretendas consolarme porque más me has de afligir 
@@ -2750,7 +2810,7 @@ Otra de tu mismo nombre
 Ha de ocupar tu lugar 
 
 Otra de tu mismo tu nombre 
-Ha de ocupar tu lugar",4,4,3,7,6,2,2,7,5,17,2ZolV96iPtF4maa5eLX3jd,2,No Pretendas Consolarme,Tu Orgullo (Cuecas y Bailecitos de Bolivia),Los Pachechos,track,spotify:track:2ZolV96iPtF4maa5eLX3jd,0.463,0.554,0,-6.345,1,0.219,0.591,0,0.0888,0.839,168.31,193332,3
+Ha de ocupar tu lugar",0,0,0,1,0,2,0,0,2,2,2ZolV96iPtF4maa5eLX3jd,2,No Pretendas Consolarme,Tu Orgullo (Cuecas y Bailecitos de Bolivia),Los Pachechos,track,spotify:track:2ZolV96iPtF4maa5eLX3jd,0.463,0.554,0,-6.345,1,0.219,0.591,0,0.0888,0.839,168.31,193332,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 65,Rojo Amarillo y Verde,Juan Enrique Jurado,Juan Enrique Jurado,Tarija,2003,Cueca,Spotify,65-rojo amarillo y verde,Patricia delgadillo,TRUE,NA,NA,NA,65.txt,"Esta cueca quiero cantarla para mi querida Sudamérica
 y para mi amada Bolivia, 
 Ahí se va la primera
@@ -2809,7 +2869,7 @@ Yo vivo y canto a mi patria, porque la llevo en mi ser.
 Rojo, amarillo y verde es el tono de mi voz, 
 Rojo, amarillo y verde es el tono de mi voz
 
-Rojo, amarillo y verde es el tono de mi voz",1,4,0,1,3,7,1,2,10,5,4ALGXOolKXcE2JEHRIEDIy,35,Rojo Amarillo y Verde,Lo Mejor,Juan Enrique Jurado,track,spotify:track:4ALGXOolKXcE2JEHRIEDIy,0.529,0.49,10,-7.588,0,0.0579,0.739,0,0.102,0.92,128.358,266813,3
+Rojo, amarillo y verde es el tono de mi voz",4,4,3,7,6,2,2,7,5,17,4ALGXOolKXcE2JEHRIEDIy,35,Rojo Amarillo y Verde,Lo Mejor,Juan Enrique Jurado,track,spotify:track:4ALGXOolKXcE2JEHRIEDIy,0.529,0.49,10,-7.588,0,0.0579,0.739,0,0.102,0.92,128.358,266813,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 66,Pretenciosa,Bonanza,Francisco Cuellar,NA,1997,Cueca,Spotify,66-pretenciosa,Patricia delgadillo,TRUE,NA,NA,NA,66.txt,"Pretenciosa que huyas de mí, 
 si mi anhelo es quererte, 
 cuando me vaya recién comprenderás y por mí llorarás
@@ -2838,7 +2898,7 @@ Se han esfumado cual el humo sutil del vivir
 
 
 
-",1,0,2,2,1,4,2,1,5,2,15VShIrRvxwEKOC2Iux51L,7,Pretenciosa,Vivencias,Bonanza,track,spotify:track:15VShIrRvxwEKOC2Iux51L,0.697,0.629,2,-9.496,0,0.0354,0.772,1.32e-5,0.149,0.787,123.896,194011,3
+",1,4,0,1,3,7,1,2,10,5,15VShIrRvxwEKOC2Iux51L,7,Pretenciosa,Vivencias,Bonanza,track,spotify:track:15VShIrRvxwEKOC2Iux51L,0.697,0.629,2,-9.496,0,0.0354,0.772,1.32e-5,0.149,0.787,123.896,194011,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 67,Flor De Cardón,Tupay,Adolfo Albino,NA,2018,Cueca,Spotify,67-flor de cardón,Patricia delgadillo,TRUE,NA,NA,NA,67.txt,"Tus ojos no quieren verme, 
 Tu boca no quiere hablarme, 
 Me está matando la pena, 
@@ -2885,7 +2945,7 @@ Ah-lai-lara-lara-lai-ra
 Lara-lara-lai-rarai-ra
 Ay, lalala-lai-ra-la
 ¿Por qué no puedo vivir sin ti
-Si puedes vivir sin mí?",0,2,0,0,1,0,0,1,1,2,3GqkZsLjCxYbDM1QqFrTnW,11,Flor De Cardon,Cuecas con Bandoneón,Tupay,track,spotify:track:3GqkZsLjCxYbDM1QqFrTnW,0.747,0.674,2,-6.868,0,0.0447,0.593,0,0.468,0.519,110.063,199083,3
+Si puedes vivir sin mí?",1,0,2,2,1,4,2,1,5,2,3GqkZsLjCxYbDM1QqFrTnW,11,Flor De Cardon,Cuecas con Bandoneón,Tupay,track,spotify:track:3GqkZsLjCxYbDM1QqFrTnW,0.747,0.674,2,-6.868,0,0.0447,0.593,0,0.468,0.519,110.063,199083,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 68,Desde Que Te Ví,Enriqueta Ulloa,Uriel Vásquez,NA,NA,Cueca,Spotify,68-desde que te ví,Patricia delgadillo,TRUE,Si,NA,NA,68.txt,"Desde que te vi paloma mía
 No encuentro calma
 Ni los jilgueros cantan sus trinos 
@@ -2931,7 +2991,7 @@ Por acariciar los rizos bellos de tu cabellos
 
 
 
-",0,2,1,1,0,3,0,0,3,2,5SDtwnFmvsPnN2qLWAHN5g,11,Desde Que Te Vi,Costumbres de Mi Tierra,Enriqueta Ulloa,track,spotify:track:5SDtwnFmvsPnN2qLWAHN5g,0.655,0.514,9,-4.884,1,0.0363,0.807,0,0.0852,0.818,130.497,171399,3
+",0,2,0,0,1,0,0,1,1,2,5SDtwnFmvsPnN2qLWAHN5g,11,Desde Que Te Vi,Costumbres de Mi Tierra,Enriqueta Ulloa,track,spotify:track:5SDtwnFmvsPnN2qLWAHN5g,0.655,0.514,9,-4.884,1,0.0363,0.807,0,0.0852,0.818,130.497,171399,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 69,Claveles Rojos,Dúo Sentimiento,"Alberto Ruiz, Gilberto Rojas",NA,NA,Cueca,Spotify,69-claveles rojos,Patricia delgadillo,TRUE,NA,NA,NA,69.txt,"Ay, me duele el alma
 Si te vas de mi
 Mi corazón se desgarra
@@ -2962,7 +3022,7 @@ Tuyo es mi corazón
 
 Es por eso que te pido 
 No me hagas padecer
-",0,2,2,4,3,10,1,2,10,5,2RU6wH1IR14RM0DOI8gvmi,29,Claveles Rojos,Diez Años... Con Más Sentimiento,Dúo Sentimiento,track,spotify:track:2RU6wH1IR14RM0DOI8gvmi,0.713,0.261,2,-15.71,0,0.0419,0.853,0.00176,0.168,0.388,119.109,197600,3
+",0,2,1,1,0,3,0,0,3,2,2RU6wH1IR14RM0DOI8gvmi,29,Claveles Rojos,Diez Años... Con Más Sentimiento,Dúo Sentimiento,track,spotify:track:2RU6wH1IR14RM0DOI8gvmi,0.713,0.261,2,-15.71,0,0.0419,0.853,0.00176,0.168,0.388,119.109,197600,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 70,Palmeras,Raul Shaw Moreno,Gilberto Rojas,NA,NA,Polca,Spotify,70-palmeras,Patricia delgadillo,TRUE,NA,NA,NA,70.txt,"Ay, mi corazón está empezando a padecer
 Desde que yo, te conocí, mi dulce bien.
 
@@ -2995,7 +3055,7 @@ Ven, ven, ven, ven que las palmeras salen de mi amor
 Ven, que mi alma ya no puede de dolor.
 
 
-",0,1,0,0,4,3,2,2,2,4,4846DTrgWFLx2udm9S5OAX,5,Palmeras,"Homenaje Al ""Gran Compositor Gilberto Rojas""",Raul Shaw Moreno,track,spotify:track:4846DTrgWFLx2udm9S5OAX,0.639,0.529,8,-6.298,0,0.0316,0.603,9.56e-5,0.121,0.882,85.581,203560,1
+",0,2,2,4,3,10,1,2,10,5,4846DTrgWFLx2udm9S5OAX,5,Palmeras,"Homenaje Al ""Gran Compositor Gilberto Rojas""",Raul Shaw Moreno,track,spotify:track:4846DTrgWFLx2udm9S5OAX,0.639,0.529,8,-6.298,0,0.0316,0.603,9.56e-5,0.121,0.882,85.581,203560,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 71,Flor de Santa Cruz,Trio Oriental,Gilberto Rojas,Santa Cruz,1969,Taquirari,Spotify,71-Flor de Santa Cruz,Patricia delgadillo,TRUE,NA,NA,NA,71.txt,"
 Perfumada brisa que llego del arenal
 trayendo sonrisa en una boquita oriental
@@ -3026,7 +3086,7 @@ Flor de Santa Cruz que me brindas luz
 en los carnavales de perfume azul 
 Flor de Santa Cruz que me brindas luz
 en los carnavales de perfume azul 
-",2,2,2,5,2,11,3,1,12,4,0A4kdhhq7wpvIwN6lSz5m9,11,Flor de Santa Cruz,"Homenaje Al ""Gran Compositor Gilberto Rojas""",Trio Oriental,track,spotify:track:0A4kdhhq7wpvIwN6lSz5m9,0.64,0.668,4,-2.888,1,0.0348,0.412,0,0.196,0.966,101.526,119573,1
+",0,1,0,0,4,3,2,2,2,4,0A4kdhhq7wpvIwN6lSz5m9,11,Flor de Santa Cruz,"Homenaje Al ""Gran Compositor Gilberto Rojas""",Trio Oriental,track,spotify:track:0A4kdhhq7wpvIwN6lSz5m9,0.64,0.668,4,-2.888,1,0.0348,0.412,0,0.196,0.966,101.526,119573,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 72,Cunumicita,Guisela Santa Cruz,Gilberto Rojas,Santa Cruz,2021,Taquirari,Spotify,72-Cunumicita,Patricia delgadillo,TRUE,NA,NA,NA,72.txt,"Cunumicita linda
 Que tienes ojos de guapurú
 Dame el encanto de tu boquita
@@ -3090,7 +3150,7 @@ Que lleva mi canción
 Escuchame
 Mi voz de amor
 Que es el dolor
-Que lleva mi canción.",0,2,0,2,1,3,2,0,6,3,7y6zC7hG8Pv5pl6lJ1x5XE,18,Cunumicita,De Colección,Guisela Santa Cruz,track,spotify:track:7y6zC7hG8Pv5pl6lJ1x5XE,0.686,0.791,2,-4.711,0,0.0319,0.662,0,0.216,0.796,87.476,163893,4
+Que lleva mi canción.",2,2,2,5,2,11,3,1,12,4,7y6zC7hG8Pv5pl6lJ1x5XE,18,Cunumicita,De Colección,Guisela Santa Cruz,track,spotify:track:7y6zC7hG8Pv5pl6lJ1x5XE,0.686,0.791,2,-4.711,0,0.0319,0.662,0,0.216,0.796,87.476,163893,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 73,En las Playas Desiertas del Beni,Los Taitas,"José Aguirre Achá, Lola Sierra Chávez de Méndez",Beni,NA,Vals,Spotify,73-En las playas desiertas del Beni-Los taitas.txt,Patricia delgadillo,TRUE,NA,NA,NA,73.txt,"En las playas desiertas del Beni,
 Un viajero de pálida faz
 
@@ -3122,7 +3182,7 @@ Contestaba
 Ya no volverás.
 Y el rumor misterioso del bosque
 Contestaba
-Ya no volverás.",0,1,2,1,5,2,1,2,3,7,44uOs91EgPx5aT8jNAxg7u,18,En las Playas del Beni,Lo Mejor,Los Taitas,track,spotify:track:44uOs91EgPx5aT8jNAxg7u,0.596,0.238,4,-12.963,0,0.0427,0.565,4.09e-6,0.0843,0.527,129.217,156200,4
+Ya no volverás.",0,2,0,2,1,3,2,0,6,3,44uOs91EgPx5aT8jNAxg7u,18,En las Playas del Beni,Lo Mejor,Los Taitas,track,spotify:track:44uOs91EgPx5aT8jNAxg7u,0.596,0.238,4,-12.963,0,0.0427,0.565,4.09e-6,0.0843,0.527,129.217,156200,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 74,Pandinita,Trio Oriental,José Torrico,NA,1996,Taquirari,Spotify,74-Pandinita -trio oriental.txt,Patricia delgadillo,TRUE,NA,NA,NA,74.txt,"Pandinita hermosa, tú eres mi único querer
 Por eso no te puedo olvidar
 Muchachita de mi alma oriental
@@ -3164,7 +3224,7 @@ Ay, pandinita de mi corazón
 Brindo esta canción (pandinita de mi amor)
 A mi suelo natal (pandinita de mi amor)
 Y con mucha alegría ayudarme a decir:
-""Viva Pando, mi amor""",0,0,1,2,1,7,0,0,8,3,0eiazBQN3ZHlERV3w4VrgV,19,Pandinita,Lo Mejor de la Música Boliviana,Trio Oriental,track,spotify:track:0eiazBQN3ZHlERV3w4VrgV,0.64,0.401,1,-15.939,0,0.0466,0.523,0,0.348,0.948,97.332,149893,4
+""Viva Pando, mi amor""",0,1,2,1,5,2,1,2,3,7,0eiazBQN3ZHlERV3w4VrgV,19,Pandinita,Lo Mejor de la Música Boliviana,Trio Oriental,track,spotify:track:0eiazBQN3ZHlERV3w4VrgV,0.64,0.401,1,-15.939,0,0.0466,0.523,0,0.348,0.948,97.332,149893,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 75,Siringuero,Luis Rico,Pedro Shimose Kawamura,NA,1976,Polca,Spotify,75-Siringuero.txt,Patricia delgadillo,TRUE,Si,falta corregir y sincronizar,NA,75.txt,"Siringuero
 Coje tu cuchillo y tu tichela
 Llévate a la espalda tu morral
@@ -3216,7 +3276,7 @@ Quienes siembran el dolor
 
 Quítale al gomal lo que te quita
 Grita como a ti te gritan 
-Quienes siembran el dolor",2,1,4,8,1,7,0,1,9,2,2qL7DZGJ3ShI2ZbLZlf5Vv,1,Siringuero,Moto Méndez (Alto Folklore Boliviano),Luis Rico,track,spotify:track:2qL7DZGJ3ShI2ZbLZlf5Vv,0.538,0.742,9,-9.651,1,0.0516,0.343,0,0.165,0.761,126.677,204312,4
+Quienes siembran el dolor",0,0,1,2,1,7,0,0,8,3,2qL7DZGJ3ShI2ZbLZlf5Vv,1,Siringuero,Moto Méndez (Alto Folklore Boliviano),Luis Rico,track,spotify:track:2qL7DZGJ3ShI2ZbLZlf5Vv,0.538,0.742,9,-9.651,1,0.0516,0.343,0,0.165,0.761,126.677,204312,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 76,Martirio,Bonanza,"Jose Lavadenz, Nicolas Ortiz.",NA,1997,Cueca,Spotify,76-Martirio.txt,Patricia delgadillo,TRUE,Si,NA,NA,76.txt,"He vivido tolerando martirio 
 Pero jamás me he mostrado cobarde
 Arrastraré las cadenas más fuertes
@@ -3256,7 +3316,7 @@ Olvidar lo que tanto yo he querido
 
 
 
-",2,1,2,5,1,13,0,1,13,3,1W1RSq0jMgssi7c7pNz1N8,9,Martirio,Vivencias,Bonanza,track,spotify:track:1W1RSq0jMgssi7c7pNz1N8,0.676,0.632,2,-9.142,1,0.049,0.777,0,0.202,0.964,126.664,254015,3
+",2,1,4,8,1,7,0,1,9,2,1W1RSq0jMgssi7c7pNz1N8,9,Martirio,Vivencias,Bonanza,track,spotify:track:1W1RSq0jMgssi7c7pNz1N8,0.676,0.632,2,-9.142,1,0.049,0.777,0,0.202,0.964,126.664,254015,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 77,Soledad,Amaru,Simeón Roncal / Pedro Butrón,NA,1995,Cueca,Spotify,77-Soledad.txt,Patricia delgadillo,TRUE,Si,NA,NA,77.txt,"
 Soledad, soledad
 Esta noche estoy muy triste
@@ -3311,7 +3371,7 @@ Si algún día tu volvieras
 A devolverme la calma
 
 
-",0,3,1,2,1,3,0,0,3,2,1AhIi6UI07iWgBKFIUiSrz,16,Soledad,Nuestros 20 Años,Amaru,track,spotify:track:1AhIi6UI07iWgBKFIUiSrz,0.621,0.579,6,-13.817,0,0.0413,0.513,1.21e-4,0.177,0.725,116.399,214025,4
+",2,1,2,5,1,13,0,1,13,3,1AhIi6UI07iWgBKFIUiSrz,16,Soledad,Nuestros 20 Años,Amaru,track,spotify:track:1AhIi6UI07iWgBKFIUiSrz,0.621,0.579,6,-13.817,0,0.0413,0.513,1.21e-4,0.177,0.725,116.399,214025,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 78,Amor Ausente,Amaru,Dexter Perez Mejia,NA,2005,Tinku,Spotify,77-amor ausente.txt,Patricia delgadillo,TRUE,NA,NA,NA,78.txt,"De que me sirve hoy, para qué, todo el amor que siento
 De que me sirve hoy, para qué, todo el amor que siento
 Si no te puedo ver viditay, desde hace mucho tiempo
@@ -3349,7 +3409,7 @@ Ah-lai-lara-lara-lai-ra
 Lara-lara-lai-rarai-ra
 Ay amor ausente
 
-",0,1,0,0,4,1,0,1,1,5,2ps2FzAPfWeKsJU7063kmZ,33,Amor Ausente,Hoy Es el Tiempo...,Amaru,track,spotify:track:2ps2FzAPfWeKsJU7063kmZ,0.675,0.824,2,-4.074,1,0.0564,0.41,0,0.315,0.951,154.207,211760,4
+",0,3,1,2,1,3,0,0,3,2,2ps2FzAPfWeKsJU7063kmZ,33,Amor Ausente,Hoy Es el Tiempo...,Amaru,track,spotify:track:2ps2FzAPfWeKsJU7063kmZ,0.675,0.824,2,-4.074,1,0.0564,0.41,0,0.315,0.951,154.207,211760,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 79,Para Que La Vida,Llajtaymanta,Benjamin Edson Carvallo Contreras,NA,2007,Tinku,Spotify,79-para que la vida.txt,Patricia delgadillo,TRUE,NA,NA,NA,79.txt,"Para qué la vida, si no hay cariño, si no hay felicidad
 Imilla bandida, por amor te pido, vámonos a la ciudad
 
@@ -3385,7 +3445,7 @@ Pero mañana, ¡muy lejos nos iremos!
 Si nos encuentran, ¡abuelos los haremos¡
 
 Lololoi lololo lololoi lololo
-",0,1,0,0,1,2,0,3,1,2,3gf2X4sfioEMJXkYWKZwrP,41,Para Que la Vida,Sentimientos,Llajtaymanta,track,spotify:track:3gf2X4sfioEMJXkYWKZwrP,0.665,0.888,9,-4.849,0,0.0483,0.465,0,0.124,0.925,150.022,197640,4
+",0,1,0,0,4,1,0,1,1,5,3gf2X4sfioEMJXkYWKZwrP,41,Para Que la Vida,Sentimientos,Llajtaymanta,track,spotify:track:3gf2X4sfioEMJXkYWKZwrP,0.665,0.888,9,-4.849,0,0.0483,0.465,0,0.124,0.925,150.022,197640,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 80,Dices Que No Importa,Waliki,Humberto Rodriguez Guillen,NA,2018,Tinku,Spotify,80-dices que no importa.txt,Patricia delgadillo,TRUE,NA,NA,NA,80.txt,"Qué paso contigo corazón
 Te has vuelto a enamorar
 Es que ya no entiendes de razón
@@ -3438,7 +3498,7 @@ Lo importante es vivir
 Lo importante es sentir
 Como yo te estoy sintiendo
 
-",1,1,1,2,2,8,0,2,8,3,5MyhaiTavviWL5hPGNXzBF,33,Dices Que No Importa,Mas Bolivianos Que Nunca,Waliki,track,spotify:track:5MyhaiTavviWL5hPGNXzBF,0.718,0.828,9,-5.373,1,0.0416,0.68,3.55e-6,0.224,0.764,149.975,201984,4
+",0,1,0,0,1,2,0,3,1,2,5MyhaiTavviWL5hPGNXzBF,33,Dices Que No Importa,Mas Bolivianos Que Nunca,Waliki,track,spotify:track:5MyhaiTavviWL5hPGNXzBF,0.718,0.828,9,-5.373,1,0.0416,0.68,3.55e-6,0.224,0.764,149.975,201984,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 81,En la Puerta de un Jardin,Amaru,José Lavadenz,NA,NA,Cueca,Spotify,81-en la puerta de un jardin.txt,Patricia delgadillo,TRUE,NA,NA,NA,81.txt,"En la puerta de un jardín
 Triste me puse a llorar
 Como si las flores fueran
@@ -3500,7 +3560,7 @@ Eso yo no quiero aprender
 
 
 
-",0,0,1,1,1,3,0,0,3,2,0Kvp9mtD4EOdX50WlipgBS,12,En la Puerta de un Jardin,"""Compañera...""",Amaru,track,spotify:track:0Kvp9mtD4EOdX50WlipgBS,0.64,0.651,6,-10.828,0,0.0455,0.84,0,0.344,0.791,124.275,186407,4
+",1,1,1,2,2,8,0,2,8,3,0Kvp9mtD4EOdX50WlipgBS,12,En la Puerta de un Jardin,"""Compañera...""",Amaru,track,spotify:track:0Kvp9mtD4EOdX50WlipgBS,0.64,0.651,6,-10.828,0,0.0455,0.84,0,0.344,0.791,124.275,186407,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 82,Bailando Pujllay,Llajtaymanta,-,NA,1999,Pujllay,Spotify,82-Bailando pujllay.txt,Patricia delgadillo,TRUE,NA,NA,NA,82.txt,"
 Amorcito no te vayas, quédate siempre aquí a mi lado
 Amorcito no te vayas, quédate siempre aquí a mi lado
@@ -3523,7 +3583,7 @@ Agitando los pañuelos wipalas al viento por tu amor me muero
 Agitando los pañuelos wipalas al viento por tu amor me muero
 
 Agitando los pañuelos wipalas al viento por tu amor me muero
-Agitando los pañuelos wipalas al viento por tu amor me muero",1,3,1,3,7,3,2,2,4,9,6dhEaDAZiQ5APtqo8nGzNb,25,Bailando Pujllay,Nada Nos Separará,Llajtaymanta,track,spotify:track:6dhEaDAZiQ5APtqo8nGzNb,0.824,0.545,7,-9.404,1,0.0447,0.539,2.03e-5,0.25,0.455,120.08,290800,4
+Agitando los pañuelos wipalas al viento por tu amor me muero",0,0,1,1,1,3,0,0,3,2,6dhEaDAZiQ5APtqo8nGzNb,25,Bailando Pujllay,Nada Nos Separará,Llajtaymanta,track,spotify:track:6dhEaDAZiQ5APtqo8nGzNb,0.824,0.545,7,-9.404,1,0.0447,0.539,2.03e-5,0.25,0.455,120.08,290800,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 83,Ama Amazonas,Kala Marka,"Hugo Gutiérrez, Rodolfo Choque",NA,1992,Tobas,Spotify,83-ama amazonas,Patricia delgadillo,TRUE,NA,NA,NA,83.txt,"Tengo mi tobita en la selva
 Vale más que el diamante y el oro
 Es guapa como una rosa
@@ -3560,7 +3620,7 @@ Tierra hermosa Amazonas
 Si es güay, si es güay
 Tierra hermosa Amazonas
 
-oh, oh, ouh.",7,0,4,6,3,6,1,2,9,7,2P1uqiNMxEtMhTL7HyMMxb,37,Ama Amazonas,De los Andes al Amazonas,Kala Marka,track,spotify:track:2P1uqiNMxEtMhTL7HyMMxb,0.699,0.572,2,-10.737,0,0.0303,0.0278,1.35e-5,0.318,0.64,108.029,175640,4
+oh, oh, ouh.",1,3,1,3,7,3,2,2,4,9,2P1uqiNMxEtMhTL7HyMMxb,37,Ama Amazonas,De los Andes al Amazonas,Kala Marka,track,spotify:track:2P1uqiNMxEtMhTL7HyMMxb,0.699,0.572,2,-10.737,0,0.0303,0.0278,1.35e-5,0.318,0.64,108.029,175640,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 84,Chiru Chiru I el Ferroviario,Llajtaymanta,"Alvaro Alvarez Silvera, Jose Felix Flores Orosco, Primo Antonio Uzquiano Claros",NA,2009,Diablada,Spotify,84-El chiru chiru.txt,Patricia delgadillo,TRUE,NA,NA,NA,84.txt,"El chiru chiru me llaman a mí, por robar tu corazón
 Bailando con la ferroviaria mí alma
 Le entrego a la virgen del socavón
@@ -3640,7 +3700,7 @@ Vámonos a la playa a orillas del mar
 Se va
 En ese tren se va
 Se va
-En ese tren mi amor",1,1,1,1,2,1,1,0,1,3,2MxIsMClFpDhSUpqElIloV,38,Chiru Chiru | el Ferroviario,Sentimientos,Llajtaymanta,track,spotify:track:2MxIsMClFpDhSUpqElIloV,0.456,0.908,7,-4.893,1,0.0781,0.58,1.55e-6,0.334,0.882,138.162,376200,4
+En ese tren mi amor",7,0,4,6,3,6,1,2,9,7,2MxIsMClFpDhSUpqElIloV,38,Chiru Chiru | el Ferroviario,Sentimientos,Llajtaymanta,track,spotify:track:2MxIsMClFpDhSUpqElIloV,0.456,0.908,7,-4.893,1,0.0781,0.58,1.55e-6,0.334,0.882,138.162,376200,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 85,Soñar No Es Pecado,Siempre Mayas,Rolando Guzman Olmos,NA,1998,Tonada,Spotify,85-soñar no es pecado,Patricia delgadillo,TRUE,NA,NA,NA,85.txt,"Llévatela al campo, cumpa
 Yeah, je-je-je-je
 Tan bonita es,
@@ -3686,7 +3746,7 @@ Quisiera creer que todo esto no es un sueño
 Dijo un hombre enamorado
 ""Soñar no es pecado""
 Dijo un hombre enamorado
-Yeah, je-je-je-je",2,0,2,3,1,5,0,1,7,2,7vNNVIb2Gq6whYVRHSWVCF,14,Soñar No Es Pecado,Soñar No Es Pecado,Siempre Mayas,track,spotify:track:7vNNVIb2Gq6whYVRHSWVCF,0.537,0.624,0,-6.585,1,0.0508,0.666,0,0.0989,0.949,136.911,237296,3
+Yeah, je-je-je-je",1,1,1,1,2,1,1,0,1,3,7vNNVIb2Gq6whYVRHSWVCF,14,Soñar No Es Pecado,Soñar No Es Pecado,Siempre Mayas,track,spotify:track:7vNNVIb2Gq6whYVRHSWVCF,0.537,0.624,0,-6.585,1,0.0508,0.666,0,0.0989,0.949,136.911,237296,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 86,Mantilla de vicuña,Savia Andina,José Flores,NA,NA,Morenada,Spotify,86-mantilla de vicuña.txt,Patricia delgadillo,TRUE,Si,NA,NA,86.txt,"China morenita linda
 Mantilla flor de vicuña
 China morenita linda
@@ -3747,7 +3807,7 @@ Cuando yo me vaya
 Te acordarás
 De este negro bandido
 Al año que viene te robará
-A los Yungas a Chulumani",1,6,0,1,10,0,5,7,1,13,2z5Dl3OjfT0huuaLws9or3,14,Mantilla De Vicuña,Sangre Andina,Savia Andina,track,spotify:track:2z5Dl3OjfT0huuaLws9or3,0.854,0.473,2,-14.078,0,0.0643,0.749,2.41e-5,0.3,0.926,106.878,172649,4
+A los Yungas a Chulumani",2,0,2,3,1,5,0,1,7,2,2z5Dl3OjfT0huuaLws9or3,14,Mantilla De Vicuña,Sangre Andina,Savia Andina,track,spotify:track:2z5Dl3OjfT0huuaLws9or3,0.854,0.473,2,-14.078,0,0.0643,0.749,2.41e-5,0.3,0.926,106.878,172649,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 87,Chili Gabrielito,K'achas,Humberto Rodriguez Guillen,NA,2001,Tinku,Spotify,87-chili gabrielito.txt,Patricia delgadillo,TRUE,NA,NA,NA,87.txt,"En la fiesta de Ch'utillos,
 ahí fue la cosa,
 entre colores y espejos,
@@ -3818,7 +3878,7 @@ Tome, tome, tome, tome.
 Chupe, chupe, chupe, chupe,
 Seco, seco, seco, seco
 K'acha salud
-",0,0,1,1,1,3,0,0,3,3,19oUoWYkoPeJeYWQMcoOXX,33,Chili Gabrielito,Simplemente K'achas,K'achas,track,spotify:track:19oUoWYkoPeJeYWQMcoOXX,0.694,0.793,7,-5.158,1,0.187,0.0573,1.26e-4,0.383,0.838,160.212,270591,4
+",1,6,0,1,10,0,5,7,1,13,19oUoWYkoPeJeYWQMcoOXX,33,Chili Gabrielito,Simplemente K'achas,K'achas,track,spotify:track:19oUoWYkoPeJeYWQMcoOXX,0.694,0.793,7,-5.158,1,0.187,0.0573,1.26e-4,0.383,0.838,160.212,270591,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 88,Ay Rosita,Jach'a Mallku,Fernando Román Saavedra,NA,2003,Caporal,Spotify,88-ay rosita.txt,Patricia delgadillo,TRUE,Si,NA,NA,88.txt,"Rosa de mi tierra
 Rosa de mis sueños
 
@@ -3850,7 +3910,7 @@ Que nunca olvidaré
 Sin ti no viviré
 Sin ti yo lloraré
 Eres razón de mi vida
-Que nunca olvidaré",1,1,1,1,1,1,1,0,1,1,3boxeFxOBBE2Mp57ooBIjv,36,Ay Rosita,Soberano por Siempre,Jach'a Mallku,track,spotify:track:3boxeFxOBBE2Mp57ooBIjv,0.467,0.7,2,-6.003,0,0.0621,0.189,2.34e-6,0.339,0.782,138.032,274373,3
+Que nunca olvidaré",0,0,1,1,1,3,0,0,3,3,3boxeFxOBBE2Mp57ooBIjv,36,Ay Rosita,Soberano por Siempre,Jach'a Mallku,track,spotify:track:3boxeFxOBBE2Mp57ooBIjv,0.467,0.7,2,-6.003,0,0.0621,0.189,2.34e-6,0.339,0.782,138.032,274373,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 89,Amorosa Palomita,Jach'a Mallku,A.A.D.D. SOBODAYCOM,NA,1992,Caporal,Spotify,89-Amorosa palomita.txt,Patricia delgadillo,TRUE,NA,NA,NA,89.txt,"
 Amorosa palomita
 Amorosa palomita
@@ -3890,7 +3950,7 @@ Ay, para mi compañerita
 Amorosa palomita
 Amorosa palomita
 Quién te parió tan bonita
-Ay, para mi compañerita",0,1,1,1,2,3,1,2,3,2,0FrKyhoDi3Z6fo1cQyk5aC,39,Amorosa Palomita,Primero Es Bolivia,Jach'a Mallku,track,spotify:track:0FrKyhoDi3Z6fo1cQyk5aC,0.72,0.589,7,-9.51,1,0.105,0.177,2.72e-5,0.146,0.607,141.426,225333,3
+Ay, para mi compañerita",1,1,1,1,1,1,1,0,1,1,0FrKyhoDi3Z6fo1cQyk5aC,39,Amorosa Palomita,Primero Es Bolivia,Jach'a Mallku,track,spotify:track:0FrKyhoDi3Z6fo1cQyk5aC,0.72,0.589,7,-9.51,1,0.105,0.177,2.72e-5,0.146,0.607,141.426,225333,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 90,Amorosa Palomita,Savia Andina,Gonzalo Hermosa,NA,1980,Bailecito,Spotify,90-amorosa palomita savia andina,Patricia delgadillo,TRUE,NA,NA,NA,90.txt,"Qué bonito me cantaba, ay, ay, ay
 La amorosa palomita 
 Arrullándome en sus besos
@@ -3925,7 +3985,7 @@ Un amor tan extremado
 En nada se convertido 
 
 Un amor tan extremado
-En nada se convertido ",2,1,2,2,1,4,1,0,5,2,0kVQqXvwikDnZsHE4ZatKL,30,Amorosa Palomita,Lo Mejor de Savia Andina (Música Boliviana),Savia Andina,track,spotify:track:0kVQqXvwikDnZsHE4ZatKL,0.654,0.359,2,-15.607,0,0.056,0.809,0.00718,0.217,0.518,80.907,237707,4
+En nada se convertido ",0,1,1,1,2,3,1,2,3,2,0kVQqXvwikDnZsHE4ZatKL,30,Amorosa Palomita,Lo Mejor de Savia Andina (Música Boliviana),Savia Andina,track,spotify:track:0kVQqXvwikDnZsHE4ZatKL,0.654,0.359,2,-15.607,0,0.056,0.809,0.00718,0.217,0.518,80.907,237707,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 91,Puñal envenenado,Dúo Sentimiento,Alberto Ruíz Lavadenz,NA,1998,Cueca,Spotify,91-puñal envenenado.txt,Patricia delgadillo,TRUE,Si,falta sincronizar,NA,91.txt,"Con puñal envenenado 
 Atravesaste mi pecho 
 Hondas huellas has dejado 
@@ -3960,7 +4020,7 @@ El amor también, ya puede caber
 Donde caben voluntades
 El amor también, ya puede caber
 
- ",1,3,3,4,2,4,1,1,10,2,2uVkJkgqhDNdng5qmeWy7d,26,Puñal Envenenado,Joyas Vol. 1,Dúo Sentimiento,track,spotify:track:2uVkJkgqhDNdng5qmeWy7d,0.742,0.574,9,-4.95,0,0.0314,0.781,8.65e-6,0.281,0.792,119.775,217307,3
+ ",2,1,2,2,1,4,1,0,5,2,2uVkJkgqhDNdng5qmeWy7d,26,Puñal Envenenado,Joyas Vol. 1,Dúo Sentimiento,track,spotify:track:2uVkJkgqhDNdng5qmeWy7d,0.742,0.574,9,-4.95,0,0.0314,0.781,8.65e-6,0.281,0.792,119.775,217307,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 92,Jilguero Flores,Los Kjarkas,"Fernando Torrico, Gonzalo Hermosa",NA,NA,Huayño,Spotify,92-jilguero flores.txt,Patricia delgadillo,TRUE,NA,NA,NA,92.txt,"Porque me paso cantando
 Me llaman Jilguero Flores, palomitay
 El dulce de las mujeres
@@ -3988,7 +4048,7 @@ El viejo tronco de un árbol, palomitay
 La mano al avispero, la mano al avispero
 Puedes meter, puede picar
 No juegues nunca con el amor
-",0,0,0,0,0,0,0,1,0,2,3RP67gBzV94poiH4WWaZ8p,48,Jilguero Flores,Los Andes...Descubrió Su Rostro Milenario,Los Kjarkas,track,spotify:track:3RP67gBzV94poiH4WWaZ8p,0.686,0.778,0,-3.966,1,0.0408,0.55,4.2e-6,0.156,0.781,88.139,192914,4
+",1,3,3,4,2,4,1,1,10,2,3RP67gBzV94poiH4WWaZ8p,48,Jilguero Flores,Los Andes...Descubrió Su Rostro Milenario,Los Kjarkas,track,spotify:track:3RP67gBzV94poiH4WWaZ8p,0.686,0.778,0,-3.966,1,0.0408,0.55,4.2e-6,0.156,0.781,88.139,192914,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 93,Negrita,Pacha,"Fernando Torrico, Edwin Castellanos",NA,NA,Caporal,Spotify,93-negrita,Patricia delgadillo,TRUE,NA,NA,NA,93.txt,"he, he, he, he
 Saya negra (allá va mi negra)
 Saya negra (allá va mi samba)
@@ -4085,7 +4145,7 @@ Negrita si has sido mía
 Negrita
 
 Si amarme juraste negrita
-",1,1,0,1,1,0,0,0,2,3,2NDWfJTaKA3v5LsL2o5CpR,40,Negrita,Por un Mundo Nuevo,Pacha,track,spotify:track:2NDWfJTaKA3v5LsL2o5CpR,0.499,0.543,7,-11.042,0,0.217,0.261,0,0.171,0.882,179.71,277627,3
+",0,0,0,0,0,0,0,1,0,2,2NDWfJTaKA3v5LsL2o5CpR,40,Negrita,Por un Mundo Nuevo,Pacha,track,spotify:track:2NDWfJTaKA3v5LsL2o5CpR,0.499,0.543,7,-11.042,0,0.217,0.261,0,0.171,0.882,179.71,277627,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 94,Lllorando se fue,Los Kjarkas,"Ulises Hermosa, Gonzalo Hermosa",NA,1981,Caporal,Spotify,94-llorando se fue,Patricia delgadillo,TRUE,NA,NA,NA,94.txt,"Llorando se fue
 Y me dejó solo sin su amor
 Llorando se fue
@@ -4114,7 +4174,7 @@ Sola estará, recordando el amor
 Que el tiempo no puede borrar)
 
 
-",6,4,4,6,5,9,5,3,9,10,2rQtFaRbRd8pAKkVngZ96Y,44,Llorando Se Fue,Reclamando Tu Cariño,Los Kjarkas,track,spotify:track:2rQtFaRbRd8pAKkVngZ96Y,0.311,0.94,8,-4.088,1,0.397,0.0698,0,0.172,0.741,199.789,250462,4
+",1,1,0,1,1,0,0,0,2,3,2rQtFaRbRd8pAKkVngZ96Y,44,Llorando Se Fue,Reclamando Tu Cariño,Los Kjarkas,track,spotify:track:2rQtFaRbRd8pAKkVngZ96Y,0.311,0.94,8,-4.088,1,0.397,0.0698,0,0.172,0.741,199.789,250462,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 95,Ave de Cristal,Los Kjarkas,Gonzalo Hermosa,NA,NA,Chuntunqui,Spotify,95.txt,Edu,TRUE,NA,NA,NA,95.txt,"No se acaba el mundo
 Cuando un amor se va
 No se acaba el mundo
@@ -4173,7 +4233,7 @@ Y es el corazón
 Como el destino tan cruel
 Tan difícil de torcer
 Y tan fácil de perder
-Es el amor, es el amor",1,5,1,4,3,9,1,2,9,5,3S2QBH0FwWom7tTIwV8Rnf,51,Ave de Cristal,Chuntunquis,Los Kjarkas,track,spotify:track:3S2QBH0FwWom7tTIwV8Rnf,0.596,0.622,2,-10.703,0,0.0464,0.736,9.66e-5,0.193,0.24,119.999,340543,3
+Es el amor, es el amor",6,4,4,6,5,9,5,3,9,10,3S2QBH0FwWom7tTIwV8Rnf,51,Ave de Cristal,Chuntunquis,Los Kjarkas,track,spotify:track:3S2QBH0FwWom7tTIwV8Rnf,0.596,0.622,2,-10.703,0,0.0464,0.736,9.66e-5,0.193,0.24,119.999,340543,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 96,El Árbol de Mi Destino,Los Kjarkas,Ulises Hermosa,NA,1992,Chuntunqui,Spotify,96.txt,Edu,TRUE,NA,NA,NA,96.txt,"Ayer planté un arbolito
 Al borde de mi destino
 Con el tiempo luminoso
@@ -4205,7 +4265,7 @@ El árbol se me moría
 Ese arbolito querido
 El que guardaba mis sueños
 Ahora refleja mi vida
-Son extraños los misterios",3,0,1,1,3,2,0,1,6,5,7caXKnhsKlpqxvrqucHF5s,50,El Árbol de Mi Destino,Chuntunquis,Los Kjarkas,track,spotify:track:7caXKnhsKlpqxvrqucHF5s,0.701,0.862,7,-3.707,1,0.0453,0.549,1.14e-5,0.166,0.702,126.042,190048,3
+Son extraños los misterios",1,5,1,4,3,9,1,2,9,5,7caXKnhsKlpqxvrqucHF5s,50,El Árbol de Mi Destino,Chuntunquis,Los Kjarkas,track,spotify:track:7caXKnhsKlpqxvrqucHF5s,0.701,0.862,7,-3.707,1,0.0453,0.549,1.14e-5,0.166,0.702,126.042,190048,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 97,Lunareja,Los Kjarkas,Gonzalo Hermosa,NA,1993,Huayño,Spotify,97.txt,Edu,TRUE,NA,NA,NA,97.txt,"No puedo vivir así
 Enamorado de ti linda lunareja
 Culpable es tu belleza
@@ -4238,7 +4298,7 @@ Se muere de celos y envidia, la flor de azucena
 
 Sambita y canela linda lunareja
 Se muere de celos y envidia, la flor de azucena
-Que por ti se muere de celos, la flor de azucena",0,5,0,2,4,1,1,2,1,6,0vI6L3kYDGJ1GAZIxMD4SJ,12,Lunareja,Hermanos,Los Kjarkas,track,spotify:track:0vI6L3kYDGJ1GAZIxMD4SJ,0.497,0.549,10,-8.798,1,0.0354,0.136,0,0.246,0.808,137.729,230542,3
+Que por ti se muere de celos, la flor de azucena",3,0,1,1,3,2,0,1,6,5,0vI6L3kYDGJ1GAZIxMD4SJ,12,Lunareja,Hermanos,Los Kjarkas,track,spotify:track:0vI6L3kYDGJ1GAZIxMD4SJ,0.497,0.549,10,-8.798,1,0.0354,0.136,0,0.246,0.808,137.729,230542,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 98,Más Bella Tu,Los Kjarkas,Gonzalo Hermosa,NA,1997,Huayño,Spotify,98.txt,Edu,TRUE,NA,NA,NA,98.txt,"Más bella tu
 Como las flor que robe del verano
 Llegaste tú
@@ -4278,7 +4338,7 @@ Regresaré, en alas de tu pensamiento
 Más bella tú como nadie
 Y nuestro amor, que fue el regalo del cielo
 No ha de morir para siempre
-No ha de morir para siempre",5,3,9,6,5,12,4,6,21,11,5BpyM02NjXoBgRc42Lri0w,17,Más Bella Tu,Por Siempre...,Los Kjarkas,track,spotify:track:5BpyM02NjXoBgRc42Lri0w,0.683,0.535,9,-10.882,0,0.0683,0.702,1.07e-5,0.0871,0.589,73.088,253343,4
+No ha de morir para siempre",0,5,0,2,4,1,1,2,1,6,5BpyM02NjXoBgRc42Lri0w,17,Más Bella Tu,Por Siempre...,Los Kjarkas,track,spotify:track:5BpyM02NjXoBgRc42Lri0w,0.683,0.535,9,-10.882,0,0.0683,0.702,1.07e-5,0.0871,0.589,73.088,253343,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 99,Carnestolendas de Coplas Picantes,Los Kjarkas,-,NA,1998,Coplas,Spotify,99.txt,Edu,TRUE,Si,NA,NA,99.txt,"Mi cholita linda, color piel canela
 Mi cholita linda, color piel canela
 Bajo de tu pollera, guardas tu escarcela
@@ -4420,7 +4480,7 @@ Los mata pasiones y los agua fiestas
 Carnaval te vas y te quieres ir
 Ojalá nos veamos el año dos mil
 
-",2,1,1,5,1,8,0,1,8,5,1AyyBZZbi87hGygfd980nj,5,Carnestolendas de Coplas Picantes,¡Que No Mueran las Costumbres! | al Carnaval Vol. 2,Los Kjarkas,track,spotify:track:1AyyBZZbi87hGygfd980nj,0.428,0.688,6,-10.008,0,0.482,0.306,0,0.112,0.885,161.346,572960,3
+",5,3,9,6,5,12,4,6,21,11,1AyyBZZbi87hGygfd980nj,5,Carnestolendas de Coplas Picantes,¡Que No Mueran las Costumbres! | al Carnaval Vol. 2,Los Kjarkas,track,spotify:track:1AyyBZZbi87hGygfd980nj,0.428,0.688,6,-10.008,0,0.482,0.306,0,0.112,0.885,161.346,572960,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 100,Wayayay,Los Kjarkas,Ulises Hermosa,NA,1982,Huayño,Spotify,100.txt,Edu,TRUE,NA,NA,NA,100.txt,"Voy a contarte hoy mi triste pena
 La soledad que hoy llevo en mi alma
 Voy a contarte de tristes desengaños
@@ -4455,7 +4515,7 @@ Wayayayay, waya, wayayay
 
 Wayayay, wa, yayay
 Wayay, waya, wayayay
-Wayayayay, waya, wayayay",0,1,0,0,0,1,0,0,1,3,7JbqNEAcfVPQt2TEkUsrVz,9,Wayayay - 2001 Remastered,30 Años Solo Se Vive una Vez (2001 Remastered),Los Kjarkas,track,spotify:track:7JbqNEAcfVPQt2TEkUsrVz,0.54,0.926,4,-2.88,0,0.0665,0.241,0,0.322,0.518,105.058,296542,4
+Wayayayay, waya, wayayay",2,1,1,5,1,8,0,1,8,5,7JbqNEAcfVPQt2TEkUsrVz,9,Wayayay - 2001 Remastered,30 Años Solo Se Vive una Vez (2001 Remastered),Los Kjarkas,track,spotify:track:7JbqNEAcfVPQt2TEkUsrVz,0.54,0.926,4,-2.88,0,0.0665,0.241,0,0.322,0.518,105.058,296542,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 101,Lección de Vida,Los Kjarkas,Gonzalo Hermosa,NA,NA,Huayño,Spotify,101.txt,Edu,TRUE,NA,NA,NA,101.txt,"La vida me enseñó su lección de vida
 Y con el tiempo aprenderé
 A controlar mis sentimientos, mis emociones
@@ -4487,7 +4547,7 @@ Aunque grité y di unos golpes sobre la mesa
 Y protesté, no me escuchó
 
 Si no me amaba lo entendería
-Solo jugaba, no me quería",0,0,2,2,1,11,0,0,11,3,7AVU8Ld35GehGG1JpcPX2e,12,Lección de Vida,Lección de Vida,Los Kjarkas,track,spotify:track:7AVU8Ld35GehGG1JpcPX2e,0.514,0.664,2,-5.411,1,0.0357,0.802,0,0.341,0.649,89.117,225886,4
+Solo jugaba, no me quería",0,1,0,0,0,1,0,0,1,3,7AVU8Ld35GehGG1JpcPX2e,12,Lección de Vida,Lección de Vida,Los Kjarkas,track,spotify:track:7AVU8Ld35GehGG1JpcPX2e,0.514,0.664,2,-5.411,1,0.0357,0.802,0,0.341,0.649,89.117,225886,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 102,Fría,Los Kjarkas,"Elmer Hermosa, Gonzalo Hermosa",NA,NA,Taquirari,Spotify,102.txt,Edu,TRUE,NA,NA,NA,102.txt,"Ahora que, te conozco bien
 Comprenderás que ya no quiero más saber de ti
 
@@ -4525,7 +4585,7 @@ Que es incapaz de amar
 Dudo que cambies algún día
 Porque una vida vacía llenaste de vanidad
 Dudo que cambies algún día
-Porque una vida vacía llenaste de vanidad",3,3,2,4,4,3,2,4,3,9,3QLEuckVSpAy8O2CrB3IJM,49,Fría,35 Años,Los Kjarkas,track,spotify:track:3QLEuckVSpAy8O2CrB3IJM,0.666,0.79,2,-4.806,0,0.0656,0.677,0,0.312,0.772,149.915,218138,4
+Porque una vida vacía llenaste de vanidad",0,0,2,2,1,11,0,0,11,3,3QLEuckVSpAy8O2CrB3IJM,49,Fría,35 Años,Los Kjarkas,track,spotify:track:3QLEuckVSpAy8O2CrB3IJM,0.666,0.79,2,-4.806,0,0.0656,0.677,0,0.312,0.772,149.915,218138,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 103,La Saya,Tupay,"Fernando Torrico, Edwin Castellanos",NA,NA,Caporal,Spotify,103.txt,Edu,TRUE,NA,NA,NA,103.txt,"El amor de las morenas es fuego
 (Quema, quema, quema)
 El amor de las morenas es fuego
@@ -4599,7 +4659,7 @@ Como el sol en el desierto, morena
 
 Ey, ey, ey
 Ye-eh-eh-eh-eh-eh-eh
-",0,3,1,0,5,1,1,2,1,6,2n3wEJDs91LEibaSY7DkE5,53,La Saya,America Latina,Tupay,track,spotify:track:2n3wEJDs91LEibaSY7DkE5,0.843,0.781,0,-5.208,1,0.245,0.161,0,0.218,0.914,134.954,224067,3
+",3,3,2,4,4,3,2,4,3,9,2n3wEJDs91LEibaSY7DkE5,53,La Saya,America Latina,Tupay,track,spotify:track:2n3wEJDs91LEibaSY7DkE5,0.843,0.781,0,-5.208,1,0.245,0.161,0,0.218,0.914,134.954,224067,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 104,Soy Caporal,Tupay,"Fernando Torrico, Edwin Castellanos",NA,NA,Caporal,Spotify,104.txt,Edu,TRUE,NA,NA,NA,104.txt,"Negra, samba
 Negra, samba
 
@@ -4644,7 +4704,7 @@ Siente tu corazón (samba)
 Bailando caporales
 Yo te entregué mi amor
 Bailando caporales
-Yo te entregué mi amor",0,1,1,1,3,1,1,1,1,3,4WcSOqT7dLid2RDK3rIUHb,53,Soy Caporal,Folklore,Tupay,track,spotify:track:4WcSOqT7dLid2RDK3rIUHb,0.879,0.625,5,-7.579,0,0.113,0.416,0,0.0615,0.868,135.089,218133,3
+Yo te entregué mi amor",0,3,1,0,5,1,1,2,1,6,4WcSOqT7dLid2RDK3rIUHb,53,Soy Caporal,Folklore,Tupay,track,spotify:track:4WcSOqT7dLid2RDK3rIUHb,0.879,0.625,5,-7.579,0,0.113,0.416,0,0.0615,0.868,135.089,218133,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 105,Nunca Tuve Suerte en el Amor,Tupay,"Fernando Torrico, Edwin Castellanos",NA,2003,Tinku,Spotify,105.txt,Edu,TRUE,NA,NA,NA,105.txt,"Nunca tuve suerte en el amor
 Siempre han lastimado mi corazón
 Pero sigo siendo aquel soñador
@@ -4681,7 +4741,7 @@ Las heridas de mi corazón
 Ay-ya-ya, ya-ya-ya, ya
 Nunca tuve suerte en el amor
 Ay-ya-ya, ya-ya-ya, ya
-Nunca tuve suerte en el amor",2,5,3,3,8,2,3,3,4,10,2oYCkmMIX6I4wOtTeDz7Rd,45,Nunca Tuve Suerte en el Amor,Folklore,Tupay,track,spotify:track:2oYCkmMIX6I4wOtTeDz7Rd,0.711,0.595,9,-9.302,0,0.0524,0.261,0,0.294,0.782,149.835,197400,4
+Nunca tuve suerte en el amor",0,1,1,1,3,1,1,1,1,3,2oYCkmMIX6I4wOtTeDz7Rd,45,Nunca Tuve Suerte en el Amor,Folklore,Tupay,track,spotify:track:2oYCkmMIX6I4wOtTeDz7Rd,0.711,0.595,9,-9.302,0,0.0524,0.261,0,0.294,0.782,149.835,197400,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 106,Viernes de Soltero,Tupay,"Fernando Torrico, Edwin Castellanos",NA,NA,Tinku,Spotify,106.txt,Edu,TRUE,NA,NA,NA,106.txt,"¡Woh-woh!
 
 Viernes de soltero, cómo te esperamos
@@ -4724,7 +4784,7 @@ Vamos a festejar
 Ni-ni-ni-ni-ni-ni
 Ni-ni-ni-ni-ni-ni
 Oh-lo-lo-loi-lo-loi-lo
-Oh-lo-lo-loi-lo-lo, ¡uh!",4,1,2,6,1,18,0,1,20,2,4DaQQuEXtOhGBhxlQ0U2Hf,19,Viernes de Soltero,Viernes de Soltero,Tupay,track,spotify:track:4DaQQuEXtOhGBhxlQ0U2Hf,0.878,0.75,10,-4.887,1,0.053,0.243,0,0.0801,0.935,147.89,174385,4
+Oh-lo-lo-loi-lo-lo, ¡uh!",2,5,3,3,8,2,3,3,4,10,4DaQQuEXtOhGBhxlQ0U2Hf,19,Viernes de Soltero,Viernes de Soltero,Tupay,track,spotify:track:4DaQQuEXtOhGBhxlQ0U2Hf,0.878,0.75,10,-4.887,1,0.053,0.243,0,0.0801,0.935,147.89,174385,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 107,Porque Estás Triste,Savia Andina,Gerardo Arias Paz,NA,1982,Cancion,Spotify,107.txt,Edu,TRUE,NA,NA,NA,107.txt,"¿Por qué estás triste?, Dime ¿por qué?
 Veo en tus ojos pena y dolor
 ¿Qué negras nubes te hacen sufrir?
@@ -4750,7 +4810,7 @@ Una mirada llena de amor
 
 Pero no llores, me harás llorar
 Pero no llores, me harás llorar
-Pero no llores, me harás llorar",0,4,0,3,4,5,3,4,7,10,7pzAhJU7fL9HFoOeRn16up,16,Porque Estás Triste,El Sicuri (Música de Bolivia),Savia Andina,track,spotify:track:7pzAhJU7fL9HFoOeRn16up,0.518,0.403,2,-11.316,1,0.0476,0.924,0.674,0.102,0.419,73.474,213647,4
+Pero no llores, me harás llorar",4,1,2,6,1,18,0,1,20,2,7pzAhJU7fL9HFoOeRn16up,16,Porque Estás Triste,El Sicuri (Música de Bolivia),Savia Andina,track,spotify:track:7pzAhJU7fL9HFoOeRn16up,0.518,0.403,2,-11.316,1,0.0476,0.924,0.674,0.102,0.419,73.474,213647,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 108,El Minero,Savia Andina,Jaime Medinacelli,NA,1980,Tonada Huayño,Spotify,108.txt,Edu,TRUE,NA,NA,NA,108.txt,"Sombríos días de socavón
 Noches de tragedia
 Desesperanza y desilusión
@@ -4809,7 +4869,7 @@ Sunqitullayta saqisqayki (solo te dejaré mi corazoncito)
 Mineromanta yuyakunki (Del minero te acordarás)
 Minero jina kawsakusaq (como minero viviré)
 Niwanqachari kawsaspari (Me dirá quizás si está vivo)
-Waqharikuspa ripushkani (Me estoy yendo en pedazos)",2,0,2,3,0,4,0,1,6,1,6T7VJSKPA6UDd8YOLMuKuE,14,El Minero,El Minero (Bolivia y Su Folklore),Savia Andina,track,spotify:track:6T7VJSKPA6UDd8YOLMuKuE,0.41,0.45,2,-11.035,1,0.0627,0.764,0.00376,0.117,0.339,79.017,266635,4
+Waqharikuspa ripushkani (Me estoy yendo en pedazos)",0,4,0,3,4,5,3,4,7,10,6T7VJSKPA6UDd8YOLMuKuE,14,El Minero,El Minero (Bolivia y Su Folklore),Savia Andina,track,spotify:track:6T7VJSKPA6UDd8YOLMuKuE,0.41,0.45,2,-11.035,1,0.0627,0.764,0.00376,0.117,0.339,79.017,266635,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 109,A los Bosques,Savia Andina,Alberto Ruiz Lavadenz,NA,1980,Huayño,Spotify,109.txt,Edu,TRUE,NA,NA,NA,109.txt,"A los bosques yo me interno
 A echar mis penas llorando
 
@@ -4863,7 +4923,7 @@ Pero olvidarte jamás, jamás
 
 Perdonaría cualquier ofensa
 Pero olvidarte jamás, jamás
-Pero olvidarte jamás, jamás",0,0,0,0,2,0,0,1,0,3,6BuuhNLjQWQukuThdLv88U,44,A los Bosques,Lo Mejor de Savia Andina (Música Boliviana),Savia Andina,track,spotify:track:6BuuhNLjQWQukuThdLv88U,0.683,0.318,2,-14.753,0,0.286,0.797,5.61e-5,0.173,0.653,78.261,220893,4
+Pero olvidarte jamás, jamás",2,0,2,3,0,4,0,1,6,1,6BuuhNLjQWQukuThdLv88U,44,A los Bosques,Lo Mejor de Savia Andina (Música Boliviana),Savia Andina,track,spotify:track:6BuuhNLjQWQukuThdLv88U,0.683,0.318,2,-14.753,0,0.286,0.797,5.61e-5,0.173,0.653,78.261,220893,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 110,Charanguito,Savia Andina,"Ana Cristina Céspedes, Javier Angulo",NA,1996,Huayño,Spotify,110.txt,Edu,TRUE,NA,NA,NA,110.txt,"Charanguito, nuevamente
 Quiero en mis brazos tenerte
 Y en tu cajita guardar
@@ -4905,7 +4965,7 @@ Por esa ingrata, por su cariño
 Me estoy muriendo
 
 Por esa ingrata, por su cariño
-Me estoy muriendo",2,3,1,4,4,4,4,4,5,6,1VPdr4SgjdLCyqaEjCDwEv,15,Charanguito,Sangre Andina,Savia Andina,track,spotify:track:1VPdr4SgjdLCyqaEjCDwEv,0.597,0.509,7,-15.647,1,0.0404,0.556,9.01e-4,0.0823,0.876,98.711,191391,4
+Me estoy muriendo",0,0,0,0,2,0,0,1,0,3,1VPdr4SgjdLCyqaEjCDwEv,15,Charanguito,Sangre Andina,Savia Andina,track,spotify:track:1VPdr4SgjdLCyqaEjCDwEv,0.597,0.509,7,-15.647,1,0.0404,0.556,9.01e-4,0.0823,0.876,98.711,191391,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 111,Secreto Amor,Proyección,Yuri Ortuño León,NA,1989,Chuntunqui,Spotify,111.txt,Edu,TRUE,NA,NA,NA,111.txt,"Desde un tiempo a esta parte sin que lo sepas
 Mi mente ya no piensa si no es en ti
 Caminamos tu y yo mundos diferentes
@@ -4926,7 +4986,7 @@ Juntar dos almas como las nuestras en un amor
 Es querer que un día la luna llena se acerque al sol
 Las ilusiones que hay en mi mente me hacen soñar
 Que te tengo a veces entre mis brazos y tú no estás
-Y tu no estás, secreto amor",0,2,0,1,3,2,1,1,4,4,2TsbW0HGLVx9jtJLIGtuUw,50,Secreto Amor,Secreto Amor (Bolivia y Su Folklore),Proyección,track,spotify:track:2TsbW0HGLVx9jtJLIGtuUw,0.733,0.469,3,-12.253,1,0.0441,0.526,0,0.157,0.787,128.923,227227,3
+Y tu no estás, secreto amor",2,3,1,4,4,4,4,4,5,6,2TsbW0HGLVx9jtJLIGtuUw,50,Secreto Amor,Secreto Amor (Bolivia y Su Folklore),Proyección,track,spotify:track:2TsbW0HGLVx9jtJLIGtuUw,0.733,0.469,3,-12.253,1,0.0441,0.526,0,0.157,0.787,128.923,227227,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 112,No Vuelvo a Amar,Proyección,Ramiro de la Zerda,NA,1984,Huayño,Spotify,112.txt,Edu,TRUE,NA,NA,NA,112.txt,"Me vi perdido y sin saber
 Que yo moría sin querer
 Ya no confiaba en otro ser
@@ -4962,7 +5022,7 @@ Tu inmenso amor, tu dulce mirar
 Quiero olvidar
 No puedo más
 No vuelvo amar
-",0,4,0,1,6,2,2,5,3,8,26CxcYvJSIfmcmOylk50b9,43,No Vuelvo a Amar,"No Vuelvo a Amar (feat. Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel) [Bolivia y Su Folklore]","Proyección, Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel",track,spotify:track:26CxcYvJSIfmcmOylk50b9,0.441,0.356,7,-9.256,1,0.0286,0.287,0.0162,0.133,0.184,80.838,222726,4
+",0,2,0,1,3,2,1,1,4,4,26CxcYvJSIfmcmOylk50b9,43,No Vuelvo a Amar,"No Vuelvo a Amar (feat. Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel) [Bolivia y Su Folklore]","Proyección, Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel",track,spotify:track:26CxcYvJSIfmcmOylk50b9,0.441,0.356,7,-9.256,1,0.0286,0.287,0.0162,0.133,0.184,80.838,222726,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 113,Paloma del Alma,Proyección,Ana Cristina Céspedes,NA,1986,Pasacalle,Spotify,113.txt,Edu,TRUE,NA,NA,NA,113.txt,"No había podido olvidarte
 Paloma del alma mía
 No había podido olvidarte
@@ -5013,7 +5073,7 @@ Creí ser tu amor perdido
 Cuando no estabas conmigo
 
 Viditay, paloma del alma mía
-Viditay, paloma del alma mía",0,2,0,0,3,2,3,1,1,6,0zDiHptG1Dja0re4vHWXbb,43,Paloma del Alma Mía,Ámame (Folklore Andino),Proyección,track,spotify:track:0zDiHptG1Dja0re4vHWXbb,0.494,0.574,0,-6.902,0,0.0365,0.524,0,0.1,0.574,157.029,268934,4
+Viditay, paloma del alma mía",0,4,0,1,6,2,2,5,3,8,0zDiHptG1Dja0re4vHWXbb,43,Paloma del Alma Mía,Ámame (Folklore Andino),Proyección,track,spotify:track:0zDiHptG1Dja0re4vHWXbb,0.494,0.574,0,-6.902,0,0.0365,0.524,0,0.1,0.574,157.029,268934,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 114,Amor Joven,Kory Huayras,Edgardo Otero de la Vega,NA,1973,Huayño,Spotify,114.txt,Edu,TRUE,NA,NA,NA,114.txt,"Terminar tu me has pedido
 yo te lo he concedido
 ahí tienes tu camino
@@ -5066,7 +5126,7 @@ jo jo jo jo que risa que me da
 la pinta que se gasta
 ni bola que le doy
 ni bola que le doy
-ni bola que le doy",3,2,2,4,2,12,2,1,12,2,6pVxLJwcJfyB1hX2ZDxphH,25,Amor Joven,Por Siempre,Los Kory Huayras,track,spotify:track:6pVxLJwcJfyB1hX2ZDxphH,0.637,0.596,0,-10.809,0,0.0819,0.852,0,0.161,0.585,85.75,181027,4
+ni bola que le doy",0,2,0,0,3,2,3,1,1,6,6pVxLJwcJfyB1hX2ZDxphH,25,Amor Joven,Por Siempre,Los Kory Huayras,track,spotify:track:6pVxLJwcJfyB1hX2ZDxphH,0.637,0.596,0,-10.809,0,0.0819,0.852,0,0.161,0.585,85.75,181027,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 115,Ríe Corazón,Proyección,Raúl Shaw Moreno,NA,1984,Kaluyo,Spotify,115.txt,Edu,TRUE,NA,NA,NA,115.txt,"Ríe, ríe corazón
 Ríe, ríe corazón
 El mundo es un desengaño
@@ -5097,7 +5157,7 @@ Llora, llora corazón
 Las penas me han traicionado
 Más vale ser desgraciado 
 Llora, llora corazón
-",2,4,2,2,5,4,2,2,5,6,3ckAubJskHI6p08LPPcMvI,29,Ríe Corazón,"No Vuelvo a Amar (feat. Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel) [Bolivia y Su Folklore]","Proyección, Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel",track,spotify:track:3ckAubJskHI6p08LPPcMvI,0.549,0.464,7,-7.956,1,0.0419,0.221,2.37e-4,0.105,0.39,73.593,197451,3
+",3,2,2,4,2,12,2,1,12,2,3ckAubJskHI6p08LPPcMvI,29,Ríe Corazón,"No Vuelvo a Amar (feat. Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel) [Bolivia y Su Folklore]","Proyección, Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel",track,spotify:track:3ckAubJskHI6p08LPPcMvI,0.549,0.464,7,-7.956,1,0.0419,0.221,2.37e-4,0.105,0.39,73.593,197451,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 116,El Ritmo Negro,Los Kjarkas,"Fernando Torrico, Edwin Castellanos",NA,NA,Caporal,Spotify,116.txt,Edu,TRUE,NA,NA,NA,116.txt,"El ritmo negro del corazón
 El ritmo negro
 Saya boliviana, saya
@@ -5173,7 +5233,7 @@ Vamos a bailar la saya boliviana
 Vamos a bailar la saya boliviana
 
 El ritmo negro del corazón
-El ritmo negro",0,2,1,2,6,8,1,1,9,7,1CbZrBfwZvxgicpOYLllv7,12,El Ritmo Negro,A los 500 Años,Los Kjarkas,track,spotify:track:1CbZrBfwZvxgicpOYLllv7,0.754,0.667,0,-13.107,1,0.166,0.326,0,0.369,0.87,134.24,249992,3
+El ritmo negro",2,4,2,2,5,4,2,2,5,6,1CbZrBfwZvxgicpOYLllv7,12,El Ritmo Negro,A los 500 Años,Los Kjarkas,track,spotify:track:1CbZrBfwZvxgicpOYLllv7,0.754,0.667,0,-13.107,1,0.166,0.326,0,0.369,0.87,134.24,249992,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 117,A Qué Volviste,Proyección,"Raul Muriel Hinojosa, Yuri Ortuño León",NA,1989,Caporal,Spotify,117.txt,Edu,TRUE,NA,NA,NA,117.txt,"¿A qué volviste mujer?
 Si todo ya está perdido
 ¿A qué volviste a buscar
@@ -5212,7 +5272,7 @@ Mataron mis ilusiones
 ¿Qué más podía yo hacer?
 Irme de ti, sintiendo un gran dolor
 Si ya murió aquel amor
-La luz del sol alumbra más sin ti",2,1,2,2,0,3,0,0,3,3,4BUt0aHjDqR0mz9mLs0r98,51,A Qué Volviste,Secreto Amor (Bolivia y Su Folklore),Proyección,track,spotify:track:4BUt0aHjDqR0mz9mLs0r98,0.612,0.598,9,-11.089,0,0.0578,0.233,0,0.182,0.692,91.86,246267,4
+La luz del sol alumbra más sin ti",0,2,1,2,6,8,1,1,9,7,4BUt0aHjDqR0mz9mLs0r98,51,A Qué Volviste,Secreto Amor (Bolivia y Su Folklore),Proyección,track,spotify:track:4BUt0aHjDqR0mz9mLs0r98,0.612,0.598,9,-11.089,0,0.0578,0.233,0,0.182,0.692,91.86,246267,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 118,Mi Golondrina,Dúo Sentimiento,Willy Alfaro,NA,NA,Cueca,Spotify,118.txt,Edu,TRUE,Si,falta sincronizar,NA,118.txt,"Ya se fue mi golondrina 
 mi pasión mi alma querida, 
 y mi corazón herido 
@@ -5245,7 +5305,7 @@ para no abrir los ojos
 y no verte nunca más
 
 Al corazón no se puede
-atarlo donde no quiere",1,1,0,1,3,0,0,3,1,3,2tuOypFhIVJXRACmoBug6l,5,Mi Golondrina,Diez Años... Con Más Sentimiento,Dúo Sentimiento,track,spotify:track:2tuOypFhIVJXRACmoBug6l,0.792,0.285,5,-13.609,1,0.0386,0.801,0.00258,0.122,0.563,125.564,259806,3
+atarlo donde no quiere",2,1,2,2,0,3,0,0,3,3,2tuOypFhIVJXRACmoBug6l,5,Mi Golondrina,Diez Años... Con Más Sentimiento,Dúo Sentimiento,track,spotify:track:2tuOypFhIVJXRACmoBug6l,0.792,0.285,5,-13.609,1,0.0386,0.801,0.00258,0.122,0.563,125.564,259806,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 119,Caminito Amigo,Amaru,Jaime Medinacelli,NA,NA,Cueca,Spotify,119.txt,Edu,TRUE,Si,NA,NA,119.txt,"De aquel camino que tantas veces
 pasé junto a ella
 nadie se acuerda, solo yo
@@ -5292,7 +5352,7 @@ nunca le digas que lloré
 recordando su amor
 
 Nunca le digas que lloré
-recordando su amor",0,4,0,0,3,1,1,2,3,5,2RoBWdp3mteLpqj0KvJPkH,0,Caminito Amigo,"""No Esperaré...""",Amaru,track,spotify:track:2RoBWdp3mteLpqj0KvJPkH,0.68,0.674,10,-9.362,1,0.0361,0.78,0.00401,0.287,0.632,124.406,188646,3
+recordando su amor",1,1,0,1,3,0,0,3,1,3,2RoBWdp3mteLpqj0KvJPkH,0,Caminito Amigo,"""No Esperaré...""",Amaru,track,spotify:track:2RoBWdp3mteLpqj0KvJPkH,0.68,0.674,10,-9.362,1,0.0361,0.78,0.00401,0.287,0.632,124.406,188646,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 120,Idilio,María Juana,Marco Veizaga,NA,NA,Morenada,Spotify,120.txt,Edu,TRUE,NA,NA,NA,120.txt,"Al año que viene volveré a bailar por ti
 Al año que viene volveré a soñar por ti
 Suenan las matracas de este pobre corazón
@@ -5338,7 +5398,7 @@ Te esperaré, tesorito de mi amor
 Regresarás, morenita bella flor
 Te esperaré, tesorito de mi amor
 
-¡Bailando, María Juanas!",1,1,0,2,4,3,2,3,5,5,6X2IRg1dpnTi7L8etACSvq,48,Idilio,Servidor a la Patria,María Juana,track,spotify:track:6X2IRg1dpnTi7L8etACSvq,0.662,0.852,0,-4.696,1,0.0579,0.627,0,0.106,0.371,100.041,314693,4
+¡Bailando, María Juanas!",0,4,0,0,3,1,1,2,3,5,6X2IRg1dpnTi7L8etACSvq,48,Idilio,Servidor a la Patria,María Juana,track,spotify:track:6X2IRg1dpnTi7L8etACSvq,0.662,0.852,0,-4.696,1,0.0579,0.627,0,0.106,0.371,100.041,314693,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 121,Rompemonteras,María Juana,Marco Veizaga,NA,NA,Tinku,Spotify,121.txt,Edu,TRUE,NA,NA,NA,121.txt,"No estás conmigo y me siento perdido
 Y el corazón ya no tiene latidos
 
@@ -5385,7 +5445,7 @@ Rompe monteras de corazón
 Cuando yo bailo es por devoción
 
 Voy a cumplir mi promesa
-Aunque duela tan fuerte el corazón",1,0,1,3,1,10,0,0,11,2,4tKoSEYIu94FxIhZq2wYh7,42,Rompemonteras,Servidor a la Patria,María Juana,track,spotify:track:4tKoSEYIu94FxIhZq2wYh7,0.656,0.922,4,-3.964,0,0.086,0.342,0,0.247,0.971,154.015,245627,4
+Aunque duela tan fuerte el corazón",1,1,0,2,4,3,2,3,5,5,4tKoSEYIu94FxIhZq2wYh7,42,Rompemonteras,Servidor a la Patria,María Juana,track,spotify:track:4tKoSEYIu94FxIhZq2wYh7,0.656,0.922,4,-3.964,0,0.086,0.342,0,0.247,0.971,154.015,245627,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 122,Corazoncito,Sumaya Andina,Juan Carlos Soria Coca,NA,NA,Salay,Spotify,122.txt,Edu,TRUE,NA,NA,NA,122.txt,"Para ti, mi corazoncito
 
 Corazoncito no sufras más
@@ -5449,7 +5509,7 @@ Aquí estoy sin tu perdón
 ¿Por qué te gusta verme llorar?
 Corazón mío, sin un adiós
 Aquí estoy sin tu perdón
-",0,1,1,1,4,1,1,1,1,4,7BNwB899c9zNcwsUa3Q35z,37,Corazoncito,Corazoncito,SUMAYA ANDINA,track,spotify:track:7BNwB899c9zNcwsUa3Q35z,0.758,0.63,10,-8.185,1,0.0479,0.4,0,0.11,0.85,87.023,249986,4
+",1,0,1,3,1,10,0,0,11,2,7BNwB899c9zNcwsUa3Q35z,37,Corazoncito,Corazoncito,SUMAYA ANDINA,track,spotify:track:7BNwB899c9zNcwsUa3Q35z,0.758,0.63,10,-8.185,1,0.0479,0.4,0,0.11,0.85,87.023,249986,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 123,Cecilia,Jach'a Mallku,Alejandro Arias,NA,NA,Morenada,Spotify,123.txt,Edu,TRUE,NA,NA,NA,123.txt,"Por mi morenada central la mejor del mundo
 Jach'a Mallku lo mejor
 
@@ -5503,7 +5563,7 @@ Morenita de la central
 En el carnaval de Oruro
 Ay Cecilia te voy a encontrar
 Carnaval, para amarte
-Morenita de la central",1,1,1,1,1,2,1,1,2,2,3T0MpkTcr9LUCryLhzd3Dw,29,Cecilia,"Antología de La Morenada, Vol.2",Jach'a Mallku,track,spotify:track:3T0MpkTcr9LUCryLhzd3Dw,0.699,0.775,7,-5.774,0,0.05,0.493,0,0.275,0.893,105.632,289776,4
+Morenita de la central",0,1,1,1,4,1,1,1,1,4,3T0MpkTcr9LUCryLhzd3Dw,29,Cecilia,"Antología de La Morenada, Vol.2",Jach'a Mallku,track,spotify:track:3T0MpkTcr9LUCryLhzd3Dw,0.699,0.775,7,-5.774,0,0.05,0.493,0,0.275,0.893,105.632,289776,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 124,Hasta El Día De Mi Muerte,Siempre Mayas,Alfonso Zabala,NA,2006,Morenada,Spotify,124.txt,Edu,TRUE,NA,NA,NA,124.txt,"Quisiera decirte, amor
 Lo mucho que te quiero
 Quisiera besarte y abrazarte
@@ -5568,7 +5628,7 @@ Te quiero y te he de querer
 Te amo y te amaré
 Hasta el día en que la muerte me aleje de ti
 
-Amor mío ni la muerte me alejará de ti, te amo",3,2,2,2,3,6,2,2,5,4,2TrY1v66tJOTgoUBMYlwYg,28,Hasta El Día De Mi Muerte,El Camino Continúa... El Sueño no Termina,Siempre Mayas,track,spotify:track:2TrY1v66tJOTgoUBMYlwYg,0.754,0.804,0,-1.453,0,0.053900000000000003,0.438,0,0.0811,0.717,98.833,274813,4
+Amor mío ni la muerte me alejará de ti, te amo",1,1,1,1,1,2,1,1,2,2,2TrY1v66tJOTgoUBMYlwYg,28,Hasta El Día De Mi Muerte,El Camino Continúa... El Sueño no Termina,Siempre Mayas,track,spotify:track:2TrY1v66tJOTgoUBMYlwYg,0.754,0.804,0,-1.453,0,0.053900000000000003,0.438,0,0.0811,0.717,98.833,274813,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 125,La Ovejerita,Guisela Santa Cruz,Juan Osinaga,Vallegrande,NA,Carnavalito,Spotify,125.txt,Javi,TRUE,NA,NA,NA,125.txt,"Cuándo salí de casa
 En busca de un querer
 Me encontré una ovejera
@@ -5604,7 +5664,7 @@ Unos ojitos verdes que me roba el corazón
 Esa ovejerita no sabía bailar
 No sabía cantar tampoco enamorar
 Ahora me la llevo por qué es mi querer
-Con esa ovejera me voy a perder",2,4,2,2,11,5,1,6,8,15,0AkpLAfc9cQuqhikM9BxTZ,18,La Ovejerita,De Colección,Guisela Santa Cruz,track,spotify:track:0AkpLAfc9cQuqhikM9BxTZ,0.704,0.816,5,-3.346,1,0.0583,0.342,0,0.0522,0.964,170.251,144200,3
+Con esa ovejera me voy a perder",3,2,2,2,3,6,2,2,5,4,0AkpLAfc9cQuqhikM9BxTZ,18,La Ovejerita,De Colección,Guisela Santa Cruz,track,spotify:track:0AkpLAfc9cQuqhikM9BxTZ,0.704,0.816,5,-3.346,1,0.0583,0.342,0,0.0522,0.964,170.251,144200,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 126,Brujita,Llajtaymanta,Alberto Luis Aguilar,NA,2003,Morenada,Spotify,126.txt,Javi,TRUE,NA,NA,NA,126.txt,"Hace mucho tiempo yo, me enamoré de ti
 cuando bailabas bella, en el carnaval
 Quién hubiera imaginado besar tus labios
@@ -5672,7 +5732,7 @@ Pisa pisa negro viejo, ojos de diamante fino
 Pisa pisa negro viejo, ojos de diamante fino
 Pisa pisa negro viejo, nariz de ternero viejo 
 Pisa pisa negro viejo, nariz de ternero viejo 
-",2,3,1,2,4,6,2,3,6,9,5Oe7iQhUFXsktP78UsWDtY,35,Brujita,Sin Llorar,Llajtaymanta,track,spotify:track:5Oe7iQhUFXsktP78UsWDtY,0.497,0.773,7,-5.525,1,0.0507,0.219,1.19e-5,0.244,0.835,102.569,498960,4
+",2,4,2,2,11,5,1,6,8,15,5Oe7iQhUFXsktP78UsWDtY,35,Brujita,Sin Llorar,Llajtaymanta,track,spotify:track:5Oe7iQhUFXsktP78UsWDtY,0.497,0.773,7,-5.525,1,0.0507,0.219,1.19e-5,0.244,0.835,102.569,498960,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 127,Aromeñita | La Mariposa | Morenos Alegres,Jach'a Mallku,Manuel Solíz Flores | Gumercindo Licidio | Andrés Rojas Quisbert,NA,2001,Morenada,Spotify,127.txt,Javi,TRUE,NA,NA,NA,127.txt,"Para Bolivia y el mundo
 Este es el arte musical de Jach'a Mallku
 
@@ -5731,7 +5791,7 @@ Ja-ja-ja-ja-ja-ja
 Los morenos se alegrarán
 Los morenos festejarán
 Al cantar y bailar la morenada
-¡Jach'a!",0,5,0,1,8,1,2,5,0,11,4D9e7qq2yBJi9BZMHgF0U5,33,Aromeñita | la Mariposa | Morenos Alegres,Antología de la Morenada,Jach'a Mallku,track,spotify:track:4D9e7qq2yBJi9BZMHgF0U5,0.731,0.597,4,-8.316,0,0.0684,0.706,3.96e-6,0.435,0.78,103.697,292680,4
+¡Jach'a!",2,3,1,2,4,6,2,3,6,9,4D9e7qq2yBJi9BZMHgF0U5,33,Aromeñita | la Mariposa | Morenos Alegres,Antología de la Morenada,Jach'a Mallku,track,spotify:track:4D9e7qq2yBJi9BZMHgF0U5,0.731,0.597,4,-8.316,0,0.0684,0.706,3.96e-6,0.435,0.78,103.697,292680,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 128,Boquita de Miel,Chila Jatun,Gonzalo Hermosa Camacho Jr,NA,2013,Huayño phuna,Spotify,128.txt,Javi,TRUE,NA,NA,NA,128.txt,"Boquita de miel
 Hermosa mujer
 Solo tú me haces sentir
@@ -5759,7 +5819,7 @@ Pies descalzos correrán
 En la tierra en que nacimos
 Boquita de miel
 Cantaré, bailaré, porque tú eres mi dulce amor
-Cantaré, bailaré, porque tú eres mi eterno amor...",1,0,0,1,2,3,0,2,4,5,5PXu6QrH8cDHmdZr215ddm,40,Boquita de Miel,Lo Mejor,Chila Jatun,track,spotify:track:5PXu6QrH8cDHmdZr215ddm,0.626,0.539,7,-7.892,1,0.0374,0.684,0.00328,0.168,0.55,93.018,207438,4
+Cantaré, bailaré, porque tú eres mi eterno amor...",0,5,0,1,8,1,2,5,0,11,5PXu6QrH8cDHmdZr215ddm,40,Boquita de Miel,Lo Mejor,Chila Jatun,track,spotify:track:5PXu6QrH8cDHmdZr215ddm,0.626,0.539,7,-7.892,1,0.0374,0.684,0.00328,0.168,0.55,93.018,207438,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 129,Yo No Te Olvido,Pasión Andina,Nelzon Gutierrez,NA,2008,Chuntunqui,Spotify,129.txt,Javi,TRUE,NA,NA,NA,129.txt,"'Fue lo mejor'
 Me dije así
 Cuando yo te perdí
@@ -5803,7 +5863,7 @@ No te puede mentir mi corazón
 Yo no te olvido, amor
 No, yo no te olvido
 Cuánto he sufrido
-Lejos de ti lloró mi corazón",1,2,3,4,5,12,2,4,12,5,7lS1cWbxxzD5lQAjhfYMum,34,Yo No Te Olvido,La Razón de Mi Vida,Pasión Andina,track,spotify:track:7lS1cWbxxzD5lQAjhfYMum,0.542,0.835,2,-3.632,1,0.0402,0.634,0,0.206,0.692,76.955,263107,4
+Lejos de ti lloró mi corazón",1,0,0,1,2,3,0,2,4,5,7lS1cWbxxzD5lQAjhfYMum,34,Yo No Te Olvido,La Razón de Mi Vida,Pasión Andina,track,spotify:track:7lS1cWbxxzD5lQAjhfYMum,0.542,0.835,2,-3.632,1,0.0402,0.634,0,0.206,0.692,76.955,263107,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 130,No Te Dejes Corazón,Bonanza,Edgar Rojas Casazola,NA,2005,Tinku,Spotify,130.txt,Javi,TRUE,NA,NA,NA,130.txt,"¡So!
 ¡Jina!
 
@@ -5845,7 +5905,7 @@ Siempre fuiste vencedor
 No te dejes corazón
 Si eres grande en el amor
 No te dejes corazón
-Siempre fuiste vencedor",4,7,4,1,5,7,3,6,17,7,7KRrVEe2YFmZKdqvEc68tv,41,No Te Dejes Corazón,Mis 15 Años,Bonanza,track,spotify:track:7KRrVEe2YFmZKdqvEc68tv,0.696,0.814,2,-2.83,0,0.194,0.289,0,0.195,0.733,149.821,223007,4
+Siempre fuiste vencedor",1,2,3,4,5,12,2,4,12,5,7KRrVEe2YFmZKdqvEc68tv,41,No Te Dejes Corazón,Mis 15 Años,Bonanza,track,spotify:track:7KRrVEe2YFmZKdqvEc68tv,0.696,0.814,2,-2.83,0,0.194,0.289,0,0.195,0.733,149.821,223007,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 131,"Selección de Cullaguadas: No Quiero Que Llores Negrita, Si de Mi Lado Te Vas, Por Que Soy Pobre",Jach'a Mallku,"A.A.D.D. SOBODAYCOM, Ernesto Zapata, Jose Zapata",NA,2003,Cullaguada,Spotify,131.txt,Javi,TRUE,Si,NA,NA,131.txt,"No quiero que llores negrita recordando mi amor
 En brazos de otro te he visto por eso me amargo
 No quiero que llores negrita recordando mi amor
@@ -5897,7 +5957,7 @@ Algún día pagarás todo lo que has hecho con mi pobre corazón
 Tú también vas a sufrir tú también vas a llorar
 Algún día pagarás todo lo que has hecho con mi pobre corazón
 Tú también vas a sufrir tú también vas a llorar
-Algún día pagarás todo lo que has hecho con mi pobre corazón ",1,3,2,3,5,4,2,1,3,8,6CUbCpJrbl80VDfBpKy7t8,27,"Selección de Cullaguadas: No Quiero Que Llores Negrita, Si de Mi Lado Te Vas, Por Que Soy Pobre",Soberano por Siempre,Jach'a Mallku,track,spotify:track:6CUbCpJrbl80VDfBpKy7t8,0.625,0.685,4,-6.354,0,0.074,0.51,0,0.0428,0.812,87.818,407000,4
+Algún día pagarás todo lo que has hecho con mi pobre corazón ",4,7,4,1,5,7,3,6,17,7,6CUbCpJrbl80VDfBpKy7t8,27,"Selección de Cullaguadas: No Quiero Que Llores Negrita, Si de Mi Lado Te Vas, Por Que Soy Pobre",Soberano por Siempre,Jach'a Mallku,track,spotify:track:6CUbCpJrbl80VDfBpKy7t8,0.625,0.685,4,-6.354,0,0.074,0.51,0,0.0428,0.812,87.818,407000,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 132,Mi Corazón Es Cochabamba,Tupay,Percy Ávila,Cochabamba,1998,Cueca,Spotify,132.txt,Javi,TRUE,NA,NA,NA,132.txt,"Adentro
 
 Palomitay, mi corazón es Cochabamba
@@ -5928,7 +5988,7 @@ Me lleva en remolinos
 Mi corazón se queda aquí en tus caminos
 Semilla soy y fruto soy cochabambino
 
-Palomitay, mi corazón es Cochabamba",0,0,0,0,0,0,0,0,0,2,3qq0VC9zpRch90QekRJtek,22,Mi Corazón Es Cochabamba,Folklore,Tupay,track,spotify:track:3qq0VC9zpRch90QekRJtek,0.779,0.527,4,-10.898,0,0.0353,0.731,0,0.124,0.688,118.039,184000,4
+Palomitay, mi corazón es Cochabamba",1,3,2,3,5,4,2,1,3,8,3qq0VC9zpRch90QekRJtek,22,Mi Corazón Es Cochabamba,Folklore,Tupay,track,spotify:track:3qq0VC9zpRch90QekRJtek,0.779,0.527,4,-10.898,0,0.0353,0.731,0,0.124,0.688,118.039,184000,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 133,Severina,Yara,"R. Alcócer, J. Cárdenas, M. Pedraza",NA,2004,Salaque Jalk´a,Spotify,133.txt,Javi,TRUE,NA,NA,NA,133.txt,"Severina del mañana se va al campo...
 A sembra la semilla para cosechar...
 Severina del mañana se va al campo...
@@ -5954,7 +6014,7 @@ Takina, tusuna sumaj puqunanpaq (Cantemos, bailemos para que produzca bien)
 Chay′ jallp'a tarpusqaykita Severina (esa tierra que sembraste, Severina)
 
 
-",0,5,0,0,4,1,3,4,0,6,7t95hobZkckpENgS9uobED,0,Severina,...Música en Proyección,Yara,track,spotify:track:7t95hobZkckpENgS9uobED,0.709,0.869,0,-4.617,1,0.0301,0.231,0,0.296,0.964,133.414,241813,3
+",0,0,0,0,0,0,0,0,0,2,7t95hobZkckpENgS9uobED,0,Severina,...Música en Proyección,Yara,track,spotify:track:7t95hobZkckpENgS9uobED,0.709,0.869,0,-4.617,1,0.0301,0.231,0,0.296,0.964,133.414,241813,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 134,Mi Sueño Mejor,Los Kjarkas,Gaston Guardia,NA,1998,Tinku,Spotify,134.txt,Javi,TRUE,NA,NA,NA,134.txt,"Quiero olvidar los recuerdos de ayer
 Y volver a empezar
 Encontrar mi razón de vivir
@@ -5988,7 +6048,7 @@ Como el agua que calma mi sed
 Te amo yo a ti
 
 Te amo a ti
-",1,6,0,2,8,1,4,5,1,12,1nkcVPq30d3dZEvuCOJHbY,25,Mi Sueño Mejor,El Lider de los Humildes,Los Kjarkas,track,spotify:track:1nkcVPq30d3dZEvuCOJHbY,0.684,0.822,9,-4.64,0,0.0645,0.416,0,0.0505,0.657,151.952,200001,4
+",0,5,0,0,4,1,3,4,0,6,1nkcVPq30d3dZEvuCOJHbY,25,Mi Sueño Mejor,El Lider de los Humildes,Los Kjarkas,track,spotify:track:1nkcVPq30d3dZEvuCOJHbY,0.684,0.822,9,-4.64,0,0.0645,0.416,0,0.0505,0.657,151.952,200001,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 135,Mi Socio,Gerardo Arias,Alberto Villalpando,NA,1981,Taquirari,Spotify,135.txt,Javi,TRUE,NA,NA,NA,135.txt,"Como quisiera vivir feliz
 Como quisiera viajar sin fin
 Quiero tener un amigo leal
@@ -6030,7 +6090,7 @@ Nuestro destino siempre partir
 Y en el camino vivir
 
 Quiero, quiero, quiero que tú
-Me digas hoy quien nos podrá separar",1,1,0,0,2,0,1,0,0,2,6S6dYf4pb3HaAf64rZgCxA,24,Mi Socio,Mi Socio,Gerardo Arias,track,spotify:track:6S6dYf4pb3HaAf64rZgCxA,0.646,0.474,4,-6.748,0,0.044,0.888,6.63e-5,0.172,0.548,74.206,140760,4
+Me digas hoy quien nos podrá separar",1,6,0,2,8,1,4,5,1,12,6S6dYf4pb3HaAf64rZgCxA,24,Mi Socio,Mi Socio,Gerardo Arias,track,spotify:track:6S6dYf4pb3HaAf64rZgCxA,0.646,0.474,4,-6.748,0,0.044,0.888,6.63e-5,0.172,0.548,74.206,140760,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 136,Viva Mi Patria Bolivia,"Luis Rico, Pepe Murillo, José Zapata, Orlando Rojas y Ernesto Cavour",Apolinar Camacho Orellana,NA,NA,Cueca,Spotify,136.txt,Javi,TRUE,NA,NA,NA,136.txt,"Viva mi Patria Bolivia
 Una gran nación
 Por ella doy mi vida
@@ -6077,7 +6137,7 @@ Quiere a mi Patria Bolivia
 Como la quiero yo
 
 Quiere a mi Patria Bolivia
-Como la quiero yo",2,1,2,4,3,3,0,3,4,4,7CW4Knu8oC0qhZhLQLlyFW,29,Viva Mi Patria Bolivia,El Sentimiento Que Une a los Bolivianos... El Mar,"Luis Rico, Jose Zapata, Pepe Murillo, Victor Hugo Leaño, Ernesto Cavour, Lucho Cavour",track,spotify:track:7CW4Knu8oC0qhZhLQLlyFW,0.659,0.61,5,-8.618,1,0.0323,0.723,0,0.31,0.88,126.733,168027,3
+Como la quiero yo",1,1,0,0,2,0,1,0,0,2,7CW4Knu8oC0qhZhLQLlyFW,29,Viva Mi Patria Bolivia,El Sentimiento Que Une a los Bolivianos... El Mar,"Luis Rico, Jose Zapata, Pepe Murillo, Victor Hugo Leaño, Ernesto Cavour, Lucho Cavour",track,spotify:track:7CW4Knu8oC0qhZhLQLlyFW,0.659,0.61,5,-8.618,1,0.0323,0.723,0,0.31,0.88,126.733,168027,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 137,La Promesa,Grupo Bonanza Bolivia,Edgar Rojas Casazola,NA,2009,Morenada,Spotify,137.txt,Javi,TRUE,NA,NA,NA,137.txt,"Nuestra promesa de amor
 No morirá jamás
 Vivirá en mi piel, en tu piel
@@ -6148,7 +6208,7 @@ Que hicimos los dos
 Promesa de amor
 ¡Wa, ay, ay, wa, ay, ay!
 Que hicimos los dos
-",1,3,0,3,2,2,1,3,5,7,1EbkaMmlSGMF53lZ0iXEv7,0,La Promesa,Promesa de Amor,Grupo Bonanza Bolivia,track,spotify:track:1EbkaMmlSGMF53lZ0iXEv7,0.489,0.517,9,-7.463,0,0.196,0.424,0,0.393,0.687,203.304,343014,4
+",2,1,2,4,3,3,0,3,4,4,1EbkaMmlSGMF53lZ0iXEv7,0,La Promesa,Promesa de Amor,Grupo Bonanza Bolivia,track,spotify:track:1EbkaMmlSGMF53lZ0iXEv7,0.489,0.517,9,-7.463,0,0.196,0.424,0,0.393,0.687,203.304,343014,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 138,Cholero,Tupay,Edwin Castellanos,NA,2000,Tinku,Spotify,138.txt,Javi,TRUE,NA,NA,NA,138.txt,"¡Woh!
 ¡Woh!
 ¡Woh!
@@ -6228,7 +6288,7 @@ Déjenme vivir la vida
 ¡Woh!
 
 ¡Woh!
-",0,3,0,0,5,0,1,4,0,8,6359r5xPyHT7oP3f7aunFl,0,Cholero,Folklore con Vida,Tupay,track,spotify:track:6359r5xPyHT7oP3f7aunFl,0.91,0.613,7,-5.429,1,0.0746,0.268,0,0.18,0.838,141.988,253582,4
+",1,3,0,3,2,2,1,3,5,7,6359r5xPyHT7oP3f7aunFl,0,Cholero,Folklore con Vida,Tupay,track,spotify:track:6359r5xPyHT7oP3f7aunFl,0.91,0.613,7,-5.429,1,0.0746,0.268,0,0.18,0.838,141.988,253582,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 139,Mi Viejo Santa Cruz,Arminda Alba,José René Moreno,Santa Cruz,NA,Taquirari,Spotify,139.txt,Javi,TRUE,NA,NA,NA,139.txt,"Momentos del ayer
 Hoy quiero recordar
 Mi viejo Santa Cruz
@@ -6276,7 +6336,7 @@ Tierra de sol, tierra de amor
 En el ayer mi sueño se perdió
 De otro tiempo que fue y que no ha de volver
 Tu carnaval no olvidaré
-Mi viejo Santa Cruz, mi viejo Santa Cruz",0,0,0,0,3,0,0,1,0,6,0XZkv7BwSJd8wDHl4VKK4L,18,Mi Viejo Santa Cruz,Lo Mejor,Arminda Alba,track,spotify:track:0XZkv7BwSJd8wDHl4VKK4L,0.663,0.31,7,-11.739,1,0.139,0.918,2.46e-6,0.0938,0.72,69.375,185453,4
+Mi viejo Santa Cruz, mi viejo Santa Cruz",0,3,0,0,5,0,1,4,0,8,0XZkv7BwSJd8wDHl4VKK4L,18,Mi Viejo Santa Cruz,Lo Mejor,Arminda Alba,track,spotify:track:0XZkv7BwSJd8wDHl4VKK4L,0.663,0.31,7,-11.739,1,0.139,0.918,2.46e-6,0.0938,0.72,69.375,185453,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 140,Paica en Carnaval,Arminda Alba,"Arturo Pinckert, Jose Rene Moreno",Santa Cruz,NA,Chovena,Spotify,140.txt,Javi,TRUE,NA,NA,NA,140.txt,"Oí cambinga aguililla
 Coqueta y traviesa
 Que te has pensau'
@@ -6333,7 +6393,7 @@ Pa' darte todo mi amor
 En mi tierra bien cerca del guapomó
 
 Cuando pase el carnaval
-Cuando pase el carnaval",1,0,0,2,0,4,0,0,6,0,3cqRQ9WDGeQrpWQnysMwB3,16,Paica en Carnaval,Lo Mejor,Arminda Alba,track,spotify:track:3cqRQ9WDGeQrpWQnysMwB3,0.787,0.184,7,-13.907,1,0.0835,0.764,0,0.113,0.842,81.909,196227,4
+Cuando pase el carnaval",0,0,0,0,3,0,0,1,0,6,3cqRQ9WDGeQrpWQnysMwB3,16,Paica en Carnaval,Lo Mejor,Arminda Alba,track,spotify:track:3cqRQ9WDGeQrpWQnysMwB3,0.787,0.184,7,-13.907,1,0.0835,0.764,0,0.113,0.842,81.909,196227,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 141,He Venido No He Venido,Zulma Yugar,-,NA,1995,Huayño kalampeado,Spotify,141.txt,Javi,TRUE,Si,NA,NA,141.txt,"Esta calle voy pasando
 He venido, no he venido
 Escribí en las paredes
@@ -6372,7 +6432,7 @@ Solo por verme has venido
 He venido, no he venido
 He venido, no he venido
 Hasta tu poncho has perdido
-Solo por verme has venido",1,2,1,1,4,2,1,3,4,6,4yzjbZu0JKVMSosg4CvN2w,19,He Venido No He Venido,Sembradores de Esperanzas,Zulma Yugar,track,spotify:track:4yzjbZu0JKVMSosg4CvN2w,0.656,0.648,5,-11.159,1,0.0518,0.759,0.00143,0.0605,0.951,146.357,178467,3
+Solo por verme has venido",1,0,0,2,0,4,0,0,6,0,4yzjbZu0JKVMSosg4CvN2w,19,He Venido No He Venido,Sembradores de Esperanzas,Zulma Yugar,track,spotify:track:4yzjbZu0JKVMSosg4CvN2w,0.656,0.648,5,-11.159,1,0.0518,0.759,0.00143,0.0605,0.951,146.357,178467,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 142,"Selección de Sicureadas: Flor de K'actus, Caramba Chiquita, Un Corazón Como el Mío",Markasata,A.A.D.D. SOBODAYCOM,NA,1998,Sicuri,Spotify,142.txt,Javi,TRUE,NA,NA,NA,142.txt,"Muchachita flor de cactus
 Pedacito de mi corazón
 Muchachita flor de cactus
@@ -6425,7 +6485,7 @@ Acaso porque te quiero
 Me pagas tan mal
 Tesoro, tesorito
 Acaso porque te quiero
-Me pagas tan mal",1,1,3,5,3,4,0,2,6,4,1eiACqCTaNs5d3iQ67S1Zr,18,"Selección de Sicureadas: Flor de K'actus, Caramba Chiquita, Un Corazón Como el Mío",De Nuestro Pueblo,Markasata,track,spotify:track:1eiACqCTaNs5d3iQ67S1Zr,0.425,0.823,9,-6.346,1,0.141,0.143,0,0.279,0.759,154.323,492467,4
+Me pagas tan mal",1,2,1,1,4,2,1,3,4,6,1eiACqCTaNs5d3iQ67S1Zr,18,"Selección de Sicureadas: Flor de K'actus, Caramba Chiquita, Un Corazón Como el Mío",De Nuestro Pueblo,Markasata,track,spotify:track:1eiACqCTaNs5d3iQ67S1Zr,0.425,0.823,9,-6.346,1,0.141,0.143,0,0.279,0.759,154.323,492467,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 143,Selección de Bailecitos,Bonanza,-,Chuquisaca,NA,Bailecito,Spotify,143.txt,Javi,TRUE,Si,NA,NA,143.txt,"Muchos agravios me has hecho
 Ya no quiero tu amistad
 Has quebrado el derecho de mi fina voluntad
@@ -6468,7 +6528,7 @@ Ingrata falsa mujer
 Ni a tus puertas, ni a tus brazos
 Mucho menos a tu poder
 
-Adiós, me voy quizá ya no me has de ver",0,1,1,1,4,1,1,4,2,9,0sdwbQnbnx8N3lJWrY2apK,3,Selección de Bailecitos,Tradiciones Chuquisaqueñas (Vol.1),Bonanza,track,spotify:track:0sdwbQnbnx8N3lJWrY2apK,0.513,0.63,7,-9.954,1,0.0582,0.604,0,0.246,0.94,157.155,189205,3
+Adiós, me voy quizá ya no me has de ver",1,1,3,5,3,4,0,2,6,4,0sdwbQnbnx8N3lJWrY2apK,3,Selección de Bailecitos,Tradiciones Chuquisaqueñas (Vol.1),Bonanza,track,spotify:track:0sdwbQnbnx8N3lJWrY2apK,0.513,0.63,7,-9.954,1,0.0582,0.604,0,0.246,0.94,157.155,189205,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 144,Flor Aiquileña,"Orlando Pozo, Dulia Panozo",Walter Camacho,Cochabamba,NA,Kaluyo,Spotify,144.txt,Javi,TRUE,Si,NA,NA,144.txt,"Toma esta flor aiquileña, conserva la prenda mía
 Como un recuerdo sincero de tu dueño más querido
 
@@ -6495,7 +6555,7 @@ Llorando me dejas, sin saber a quién quejarme
 
 Ay aiquileñita, vida mía
 Piensas olvidarme
-Llorando me dejas, sin saber a quién quejarme",2,0,1,2,1,2,0,0,5,1,51MpFAJmBjP09vrualyEwo,3,Flor Aiquileña,Preservando La Música Romántica de Bolivia (Gilberto Patino Jalisco),"Orlando Pozo, Dulia Panozo",track,spotify:track:51MpFAJmBjP09vrualyEwo,0.356,0.489,2,-7.405,1,0.0696,0.661,0,0.215,0.952,78.211,207099,4
+Llorando me dejas, sin saber a quién quejarme",0,1,1,1,4,1,1,4,2,9,51MpFAJmBjP09vrualyEwo,3,Flor Aiquileña,Preservando La Música Romántica de Bolivia (Gilberto Patino Jalisco),"Orlando Pozo, Dulia Panozo",track,spotify:track:51MpFAJmBjP09vrualyEwo,0.356,0.489,2,-7.405,1,0.0696,0.661,0,0.215,0.952,78.211,207099,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 145,Labios Mentirosos,Nuevas Raíces,Javier Mantilla Vera,NA,NA,Pasacalle,Spotify,145.txt,Javi,TRUE,Si,NA,NA,145.txt,"Ambos tenemos labios mentirosos
 ambos hicimos falsos juramentos
 Ambos tenemos labios mentirosos
@@ -6524,7 +6584,7 @@ Ambos hicimos falsos juramentos
 Corazón de piedra, amor despiadado
 Tú no comprendes lo que es el cariño
 Corazón de piedra, amor despiadado
-Tú no comprendes lo que es el cariño",3,4,3,6,7,17,3,3,17,9,194mWRxPQoooqhmawHiPpP,3,Labios Mentirosos,Para Darte Amor...,Nuevas Raíces,track,spotify:track:194mWRxPQoooqhmawHiPpP,0.613,0.692,5,-7.389,1,0.0429,0.474,3.13e-6,0.116,0.845,80.91,225267,3
+Tú no comprendes lo que es el cariño",2,0,1,2,1,2,0,0,5,1,194mWRxPQoooqhmawHiPpP,3,Labios Mentirosos,Para Darte Amor...,Nuevas Raíces,track,spotify:track:194mWRxPQoooqhmawHiPpP,0.613,0.692,5,-7.389,1,0.0429,0.474,3.13e-6,0.116,0.845,80.91,225267,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 146,Tu Partida,Proyección,Rómulo Flores,NA,1987,Huayño cacharpaya,Spotify,146.txt,Javi,TRUE,Si,NA,NA,146.txt,"Triste llorando me dejas
 sabiendo que te amo con gran pasión
 Presiento que tu partida
@@ -6559,7 +6619,7 @@ qué triste es decir adiós
 cuando existe amor 
 tú te vas y con tu adiós 
 toda mi ilusión
-",0,4,0,0,1,3,2,2,5,2,0WmP5XU3Hn2euHKxXjXReb,43,Tu Partida,Sólo por Tu Amor,Proyección,track,spotify:track:0WmP5XU3Hn2euHKxXjXReb,0.598,0.638,0,-6.599,1,0.0368,0.0575,3.12e-6,0.117,0.411,81.572,206951,4
+",3,4,3,6,7,17,3,3,17,9,0WmP5XU3Hn2euHKxXjXReb,43,Tu Partida,Sólo por Tu Amor,Proyección,track,spotify:track:0WmP5XU3Hn2euHKxXjXReb,0.598,0.638,0,-6.599,1,0.0368,0.0575,3.12e-6,0.117,0.411,81.572,206951,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 147,Te Arrepentirás,Los Chaskas,Ernesto Zapata,NA,1974,Cullaguada,Spotify,147.txt,Javi,TRUE,Si,NA,NA,147.txt,"Si de mi lado te vas
 Te arrepentirás, te arrepentirás
 Si de mi lado te vas
@@ -6593,7 +6653,7 @@ en tu pobre corazón
 Aunque digas que me quieres,
 Aunque digas que me adoras
 He perdido la esperanza 
-en tu pobre corazón",0,1,1,2,1,1,0,1,1,2,2lCbynexArqGgxGUzufJfr,5,Te Arrepentirás,Los Chaskas,Los Chaskas,track,spotify:track:2lCbynexArqGgxGUzufJfr,0.632,0.638,0,-8.58,0,0.0908,0.766,4.08e-5,0.118,0.537,83.542,208944,4
+en tu pobre corazón",0,4,0,0,1,3,2,2,5,2,2lCbynexArqGgxGUzufJfr,5,Te Arrepentirás,Los Chaskas,Los Chaskas,track,spotify:track:2lCbynexArqGgxGUzufJfr,0.632,0.638,0,-8.58,0,0.0908,0.766,4.08e-5,0.118,0.537,83.542,208944,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 148,Desde la Rotonda,Dúo Sentimiento,Alberto Ruiz Lavadenz,NA,NA,Huayño,Spotify,148.txt,Javi,TRUE,Si,NA,NA,148.txt,"Desde la rotonda vengo palomitay
 Desde la rotonda vengo palomitay
 Solamente por quererte, elay tú vidita
@@ -6620,7 +6680,7 @@ Se va y se va
 Ay, sabe Dios si volverá
 
 
-",0,2,0,0,2,1,2,0,4,5,73dkzeiuYaCJAPzx6DcHH4,10,Desde la Rotonda (En Vivo),En Vivo,Dúo Sentimiento,track,spotify:track:73dkzeiuYaCJAPzx6DcHH4,0.511,0.357,4,-10.571,0,0.0393,0.854,8.09e-4,0.162,0.607,113.955,180927,3
+",0,1,1,2,1,1,0,1,1,2,73dkzeiuYaCJAPzx6DcHH4,10,Desde la Rotonda (En Vivo),En Vivo,Dúo Sentimiento,track,spotify:track:73dkzeiuYaCJAPzx6DcHH4,0.511,0.357,4,-10.571,0,0.0393,0.854,8.09e-4,0.162,0.607,113.955,180927,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 149,El Rayolero,Proyección,"Ariel Villazón, Miguel Mengoa",NA,1996,Huayño,Spotify,149.txt,Javi,TRUE,Si,NA,NA,149.txt,"Todas las personas tienen
 Un vicio muy peculiar
 Todas las personas tienen
@@ -6675,7 +6735,7 @@ Que el juego va ha comenzar
 Rayuela, rayuelita,
 De mis juegos la más bonita
 Rayuela, rayuelita,
-De mis juegos la más bonita.",0,2,1,2,1,1,1,1,2,3,7m8hs7uEq1tou0thElAaid,22,El Rayolero,La Nueva Expresión del Folklore de Bolivia,Proyección,track,spotify:track:7m8hs7uEq1tou0thElAaid,0.456,0.524,0,-9.719,1,0.127,0.181,8.06e-6,0.0832,0.754,137.614,260573,3
+De mis juegos la más bonita.",0,2,0,0,2,1,2,0,4,5,7m8hs7uEq1tou0thElAaid,22,El Rayolero,La Nueva Expresión del Folklore de Bolivia,Proyección,track,spotify:track:7m8hs7uEq1tou0thElAaid,0.456,0.524,0,-9.719,1,0.127,0.181,8.06e-6,0.0832,0.754,137.614,260573,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 150,El Famoso Richy,Proyección,Juan Carlos Rodríguez Clavijo,NA,2003,Huayño kalampeado,Spotify,150.txt,Javi,TRUE,Si,NA,NA,150.txt,"Yo soy el famoso Richy
 Encanto de las mujeres
 El dulce de las solteras
@@ -6734,7 +6794,7 @@ Vas a jugar a traiciones
 Morenita morenita
 No juegues con mis amores
 No por ser alta y bonita
-Vas a jugar a traiciones",0,4,0,1,4,3,1,3,3,4,27AzMkOdJxJXna90QfTs0n,15,El Famoso Richy,De Corazón a Corazón,Proyección,track,spotify:track:27AzMkOdJxJXna90QfTs0n,0.393,0.82,5,-4.729,1,0.173,0.353,0,0.125,0.689,85.271,294047,4
+Vas a jugar a traiciones",0,2,1,2,1,1,1,1,2,3,27AzMkOdJxJXna90QfTs0n,15,El Famoso Richy,De Corazón a Corazón,Proyección,track,spotify:track:27AzMkOdJxJXna90QfTs0n,0.393,0.82,5,-4.729,1,0.173,0.353,0,0.125,0.689,85.271,294047,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 151,El Carretero,Savia Andina,José René Moreno,Santa Cruz,NA,Taquirari,Spotify,151.txt,Javi,TRUE,NA,NA,NA,151.txt,"Va sin descansar
 Un carretero con su carga a la ciudad
 Y en su cantar pregona dicha
@@ -6771,7 +6831,7 @@ Que gime el eje al traquetear
 A su querer, de vuelta ya
 Donde su amada, lo espera con rico somó
 Su corazón, contento está
-Y en su guitarra, cantando, da gracias a Dios",1,1,1,1,3,5,0,4,8,3,7s1UC5i5tQkvZGkyfiWKIG,21,El Carretero,Lo Mejor de Savia Andina (Música Boliviana),Savia Andina,track,spotify:track:7s1UC5i5tQkvZGkyfiWKIG,0.498,0.304,5,-12.287,0,0.0728,0.903,0.0152,0.102,0.522,83.542,235307,4
+Y en su guitarra, cantando, da gracias a Dios",0,4,0,1,4,3,1,3,3,4,7s1UC5i5tQkvZGkyfiWKIG,21,El Carretero,Lo Mejor de Savia Andina (Música Boliviana),Savia Andina,track,spotify:track:7s1UC5i5tQkvZGkyfiWKIG,0.498,0.304,5,-12.287,0,0.0728,0.903,0.0152,0.102,0.522,83.542,235307,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 152,Cuanto Cuestas Cuanto Vales I Mi Vida No Vale Nada I Hay Que Bailar Moreno,Jach'a Mallku,Eloy Apaza |  A.A.D.D. SOBODAYCOM | Ricardo Carvajal,NA,NA,Morenada,Spotify,152.txt,Javi,TRUE,NA,NA,NA,152.txt,"Cuanto cuestas cuanto vales
 Amor mío
 Si tú quieres yo te pago
@@ -6827,7 +6887,7 @@ Cholita paceña
 
 
 
-",2,1,1,3,1,1,0,1,6,4,7xjfrCSk9rynrhtD0E3LW7,37,Cuanto Cuestas Cuanto Vales | Mi Vida No Vale Nada | Hay Que Bailar Moreno,Antología de la Morenada,Jach'a Mallku,track,spotify:track:7xjfrCSk9rynrhtD0E3LW7,0.535,0.585,0,-7.877,1,0.0705,0.632,0,0.105,0.865,208.525,283320,4
+",1,1,1,1,3,5,0,4,8,3,7xjfrCSk9rynrhtD0E3LW7,37,Cuanto Cuestas Cuanto Vales | Mi Vida No Vale Nada | Hay Que Bailar Moreno,Antología de la Morenada,Jach'a Mallku,track,spotify:track:7xjfrCSk9rynrhtD0E3LW7,0.535,0.585,0,-7.877,1,0.0705,0.632,0,0.105,0.865,208.525,283320,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 153,Pecho de Cristal,Taricanto,Gonzalo Riera Castellón,Tarija,1998,"Contrapunto, Tonada, Cacharpaya",Spotify,153.txt,Javi,TRUE,NA,NA,NA,153.txt,"Yo nací para querer aunque tenga que sufrir
 Yo nací para querer aunque tenga que sufrir
 Sufrir por una mujer es la dicha del vivir
@@ -6880,7 +6940,7 @@ No hubieran falsas caricias, ni se usarán las traiciones
 
 Pa mi, pa vos, pa lo dos, pa los dos, pa los dos
 Pa mi, pa vos, pa lo dos, pa los dos, pa los dos
-Pa mi, pa vos, pa lo dos, pa los dos, pa los dos",6,3,2,6,2,12,3,1,15,2,5A8QOoHlGfjK7U1efsr80b,31,Pecho de Cristal,Tierra Amada,Taricanto,track,spotify:track:5A8QOoHlGfjK7U1efsr80b,0.547,0.406,4,-10.161,1,0.0591,0.246,0,0.207,0.669,163.53,291773,4
+Pa mi, pa vos, pa lo dos, pa los dos, pa los dos",2,1,1,3,1,1,0,1,6,4,5A8QOoHlGfjK7U1efsr80b,31,Pecho de Cristal,Tierra Amada,Taricanto,track,spotify:track:5A8QOoHlGfjK7U1efsr80b,0.547,0.406,4,-10.161,1,0.0591,0.246,0,0.207,0.669,163.53,291773,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 154,Morir Cantando,Esther Marisol,Hugo Monzón,Tarija,1992,Cueca,Spotify,154.txt,Javi,TRUE,NA,NA,NA,154.txt,"Quiero morir cantando al amanecer 
 Que mi copla se va acabando 
 me voy muy lejos pa' no volver
@@ -6925,7 +6985,7 @@ Que no lloren mi despedida
 les pido a todos resignación
 
 Ya no lloren mi despedida 
-les pido a todos resignación.",0,0,0,0,0,0,0,0,0,0,6KgRMiLAVyB2b07CNHlQxq,16,Morir Cantando,Piel Chaqueña,Esther Marisol,track,spotify:track:6KgRMiLAVyB2b07CNHlQxq,0.265,0.697,9,-6.919,1,0.0663,0.374,5.88e-4,0.336,0.589,83.09,177935,4
+les pido a todos resignación.",6,3,2,6,2,12,3,1,15,2,6KgRMiLAVyB2b07CNHlQxq,16,Morir Cantando,Piel Chaqueña,Esther Marisol,track,spotify:track:6KgRMiLAVyB2b07CNHlQxq,0.265,0.697,9,-6.919,1,0.0663,0.374,5.88e-4,0.336,0.589,83.09,177935,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 155,Tres Rosas,Alaxpacha,"Ramiro Aguirre, Comunidad Niño Corin Charazani",La Paz,1993,Huayño,Spotify,155.txt,Javi,TRUE,NA,NA,NA,155.txt,"'Jaramillo'
 'De Charazani'
 'Con amor'
@@ -6977,7 +7037,7 @@ Y la más roja pa' tus ojos negros
 Pa' tus ojos negros
 Pa' tus ojos negros
 
-'Más alegría más alegría'",2,4,1,1,4,5,2,2,6,7,6eZP8d64heL0bzz98n5Ypl,31,Tres Rosas,Jichapuniwa,Alaxpacha,track,spotify:track:6eZP8d64heL0bzz98n5Ypl,0.41,0.756,4,-6.425,0,0.0476,0.628,3.44e-5,0.32,0.824,154.904,268920,4
+'Más alegría más alegría'",0,0,0,0,0,0,0,0,0,0,6eZP8d64heL0bzz98n5Ypl,31,Tres Rosas,Jichapuniwa,Alaxpacha,track,spotify:track:6eZP8d64heL0bzz98n5Ypl,0.41,0.756,4,-6.425,0,0.0476,0.628,3.44e-5,0.32,0.824,154.904,268920,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 156,Sed de Amor,Gladys Moreno,"Miguel Angel Valda, Rafael Garcia",NA,1979,Cueca,Spotify,156.txt,Javi,TRUE,Si,NA,NA,156.txt,"La vida me duele sin vos,
 Preciosa emisaria de amor,
 Linda flor de arrebol
@@ -7022,7 +7082,7 @@ Es más preciso andar
 Nuevamente el tiempo,
 Nuevamente se va, para no volver
 
-Duramente me castigas porque tengo sed",0,3,0,0,5,0,2,1,1,5,0nWtOv8rf8J0BDZlNb11p3,8,Sed de amor,Embajadora de la Canción,Gladys Moreno,track,spotify:track:0nWtOv8rf8J0BDZlNb11p3,0.722,0.28,4,-16.08,0,0.0484,0.596,0,0.327,0.774,117.691,204960,3
+Duramente me castigas porque tengo sed",2,4,1,1,4,5,2,2,6,7,0nWtOv8rf8J0BDZlNb11p3,8,Sed de amor,Embajadora de la Canción,Gladys Moreno,track,spotify:track:0nWtOv8rf8J0BDZlNb11p3,0.722,0.28,4,-16.08,0,0.0484,0.596,0,0.327,0.774,117.691,204960,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 157,Pasito de Lujo,Minero Poopo Grupo Folklórico,Banda Intercontinental Poopó(AGAPITO QUISPE AYALA),NA,1988,Morenada,Spotify,157.txt,Javi,TRUE,Si,NA,NA,157.txt,"Vamos a bailar, la morenada
 En esta fiesta
 Vamos a bailar, la morenada
@@ -7042,7 +7102,7 @@ Un pasito de mucho lujo
 Con tu grupo Minero Poopó
 Un pasito de mucho lujo
 Con tu grupo Minero Poopó
-",0,2,1,1,3,5,0,2,5,5,52z668g69KrJHEBh7SQvKw,2,Pasito de Lujo,Pasito de Lujo,Minero Poopo Grupo Folklorico,track,spotify:track:52z668g69KrJHEBh7SQvKw,0.717,0.874,4,-3.687,0,0.053,0.303,0,0.233,0.88,98.018,230204,4
+",0,3,0,0,5,0,2,1,1,5,52z668g69KrJHEBh7SQvKw,2,Pasito de Lujo,Pasito de Lujo,Minero Poopo Grupo Folklorico,track,spotify:track:52z668g69KrJHEBh7SQvKw,0.717,0.874,4,-3.687,0,0.053,0.303,0,0.233,0.88,98.018,230204,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 158,Collita,Wara,Fernando Roman Saavedra,NA,1982,Taquirari,Spotify,158.txt,Javi,TRUE,NA,NA,NA,158.txt,"Lindas montañas te vieron nacer
 El Illimani tu cuna meció
 Y la kantuta su alma te dio
@@ -7101,7 +7161,7 @@ Cuando no estás junto a mí
 No puedo seguir viviendo así
 Pensando solo en tu amor
 Tú me haces reír, tú me haces llorar
-Cuando no estás junto a mí",0,0,0,0,0,0,0,0,0,0,6wc9NQ7Bx1GEnlGRAoieHk,27,Collita,Discolandia 50 Años Vol. 3,"Wara, Arminda Alba, Zulma Yugar, Los Canarios del Chaco, Grupo Khanata, Enriqueta Ulloa, Los Taitas, Familia Valdivia, Grupo Bolivia, Los Cambitas, Los Kjarkas, Rumillajta, Savia Andina, Luis Rico, Kollamarka, Esther Marisol, Manuel Monroy Ch.",track,spotify:track:6wc9NQ7Bx1GEnlGRAoieHk,0.54,0.804,4,-3.553,0,0.04,0.606,0,0.0825,0.81,82.103,283707,4
+Cuando no estás junto a mí",0,2,1,1,3,5,0,2,5,5,6wc9NQ7Bx1GEnlGRAoieHk,27,Collita,Discolandia 50 Años Vol. 3,"Wara, Arminda Alba, Zulma Yugar, Los Canarios del Chaco, Grupo Khanata, Enriqueta Ulloa, Los Taitas, Familia Valdivia, Grupo Bolivia, Los Cambitas, Los Kjarkas, Rumillajta, Savia Andina, Luis Rico, Kollamarka, Esther Marisol, Manuel Monroy Ch.",track,spotify:track:6wc9NQ7Bx1GEnlGRAoieHk,0.54,0.804,4,-3.553,0,0.04,0.606,0,0.0825,0.81,82.103,283707,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 159,Kullakita,Awatiñas,Miguel Conde Valdez,NA,1990,Huayño,Spotify,159.txt,Javi,TRUE,NA,NA,NA,159.txt,"Kullakitanaka jilatanak, (Hermanas y hermanos míos,)
 tajpachan sartasińani. (levantémonos todos.)
 Kullakitanaka jilatanak, (Hermanas y hermanos míos,)
@@ -7126,7 +7186,7 @@ Janarunakasat armasimti, (No te olvides de tu voz,)
 jiwas aymar markasata. (por la causa de nuestro pueblo.)
 
 Mapita sartasińani (Levantémonos de una vez)
-masuma jach'a urutaki (para ese gran día que nos espera)",2,1,3,3,1,6,0,0,10,1,7E7F5gmnB80zeVdbw7rl9y,1,Kullakita,Discolandia 50 Años Vol. 4,Awatiñas,track,spotify:track:7E7F5gmnB80zeVdbw7rl9y,0.664,0.938,4,-4.702,0,0.19,0.342,1.05e-4,0.314,0.818,78.916,206973,4
+masuma jach'a urutaki (para ese gran día que nos espera)",0,0,0,0,0,0,0,0,0,0,7E7F5gmnB80zeVdbw7rl9y,1,Kullakita,Discolandia 50 Años Vol. 4,Awatiñas,track,spotify:track:7E7F5gmnB80zeVdbw7rl9y,0.664,0.938,4,-4.702,0,0.19,0.342,1.05e-4,0.314,0.818,78.916,206973,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 160,Cañita Cañaveral,Luisa Molina,-,NA,1990,Huayño,Spotify,160.txt,Javi,TRUE,NA,NA,NA,160.txt,"Quien te ha dicho que me quieras
 Siendo wawa todavía
 Quien te ha dicho que me quieras
@@ -7166,7 +7226,7 @@ Cañita cañaveral
 Por tu culpa voy a llorar
 Cañita cañaveral
 Por tu culpa pago mi mal
-",2,1,2,2,1,4,1,1,7,3,1yeCMkw8RgwqhpTppdnSc1,27,Cañita Cañaveral,Mi Vida Hecha Canción,Luisa Molina,track,spotify:track:1yeCMkw8RgwqhpTppdnSc1,0.531,0.558,0,-5.914,1,0.0442,0.798,0,0.0823,0.664,84.414,192813,4
+",2,1,3,3,1,6,0,0,10,1,1yeCMkw8RgwqhpTppdnSc1,27,Cañita Cañaveral,Mi Vida Hecha Canción,Luisa Molina,track,spotify:track:1yeCMkw8RgwqhpTppdnSc1,0.531,0.558,0,-5.914,1,0.0442,0.798,0,0.0823,0.664,84.414,192813,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 161,Hoy Me Iré,Dalmiro Cuellar,Huascar Gustavo Aparicio,NA,NA,Huayño,Spotify,161.txt,Javi,TRUE,NA,NA,NA,161.txt,"¡Ese huayñito!
 
 Mi pobre corazón
@@ -7229,7 +7289,7 @@ Mi corazón está herido
 No quiere saber
 Ni un poquito de ti
 Ni un poquito de ti
-Ni un poquito de ti",0,2,0,0,5,0,1,2,0,9,1bjKWtPYWHigSaLJ3mVsG4,40,Hoy Me Iré,El Criollo,Dalmiro Cuellar,track,spotify:track:1bjKWtPYWHigSaLJ3mVsG4,0.63,0.476,10,-7.56,1,0.0323,0.535,0,0.114,0.75,93.504,234516,4
+Ni un poquito de ti",2,1,2,2,1,4,1,1,7,3,1bjKWtPYWHigSaLJ3mVsG4,40,Hoy Me Iré,El Criollo,Dalmiro Cuellar,track,spotify:track:1bjKWtPYWHigSaLJ3mVsG4,0.63,0.476,10,-7.56,1,0.0323,0.535,0,0.114,0.75,93.504,234516,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 162,Mamita,Kala Marka,"Hugo Gutiérrez, Rodolfo Choque",NA,1992,Huayño,Spotify,162.txt,Abi,TRUE,NA,https://musicaandina2011.blogspot.com/search?q=mamita,NA,162.txt,"El sol se levanta en el campo helado
 Con tu pollera usada por los años
 Que baile del viento del altiplano
@@ -7268,7 +7328,7 @@ Tejidos con hilos de plata
 Te vas bailando en tu altiplano
 Como una estrella wara warita
 La luna refleja tus trenzas negras
-Tejidos con hilos de plata",0,2,0,0,5,2,3,3,1,6,3Vs6HBYUlFzo9gzvH5v7Vg,31,Mamita,Lo Mejor,Kala Marka,track,spotify:track:3Vs6HBYUlFzo9gzvH5v7Vg,0.701,0.321,4,-17.467,0,0.318,0.166,0,0.115,0.661,143.827,296600,3
+Tejidos con hilos de plata",0,2,0,0,5,0,1,2,0,9,3Vs6HBYUlFzo9gzvH5v7Vg,31,Mamita,Lo Mejor,Kala Marka,track,spotify:track:3Vs6HBYUlFzo9gzvH5v7Vg,0.701,0.321,4,-17.467,0,0.318,0.166,0,0.115,0.661,143.827,296600,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 163,Leydi,Pasión Andina,Luis Aguilar,NA,2005,Tinku,Spotify,163.txt,Abi,TRUE,NA,NA,NA,163.txt,"Al fin te encontré
 Mi amada, Leydi
 Por siempre
@@ -7299,7 +7359,7 @@ Tus ojos, tu sonrisa, me enseñaron a querer
 Leydi, mi amor
 Leydi, mi amor
 Leydi, mi amor
-Leydi, mi amor",4,5,2,7,7,3,3,6,6,13,1BCIbOyN2phkNBhOrKXrNw,37,Leydi,Perdóname,Pasión Andina,track,spotify:track:1BCIbOyN2phkNBhOrKXrNw,0.526,0.937,7,-4.211,0,0.0469,0.536,1.79e-5,0.182,0.8,162.957,248747,4
+Leydi, mi amor",0,2,0,0,5,2,3,3,1,6,1BCIbOyN2phkNBhOrKXrNw,37,Leydi,Perdóname,Pasión Andina,track,spotify:track:1BCIbOyN2phkNBhOrKXrNw,0.526,0.937,7,-4.211,0,0.0469,0.536,1.79e-5,0.182,0.8,162.957,248747,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 164,Chacarera Enamorada,Juan Enrique Jurado,Juan Enrique Jurado,Tarija,2001,Chacarera,Spotify,164.txt,Javi,TRUE,Si,NA,NA,164.txt,"Vení Enrique cantemos esta chacarera enamorada para nuestras amadas
 Vamos chaqueño cantémosle con ganas
 
@@ -7324,7 +7384,7 @@ El amor que tú me has dado es valiente y decidido
 Yo te la entrego a mi vida y pongo a Dios de testigo
 Chacarera enamorada que me sale desde adentro
 Para cantarle a mi amada dueña de mis sentimientos
-",0,0,0,0,0,0,0,0,0,0,2ryVjvswQCkliW73EXjD5h,17,Chacarera Enamorada,Corazón de Sud América,Juan Enrique Jurado,track,spotify:track:2ryVjvswQCkliW73EXjD5h,0.517,0.723,6,-3.703,0,0.215,0.515,0,0.106,0.859,80.533,138467,3
+",4,5,2,7,7,3,3,6,6,13,2ryVjvswQCkliW73EXjD5h,17,Chacarera Enamorada,Corazón de Sud América,Juan Enrique Jurado,track,spotify:track:2ryVjvswQCkliW73EXjD5h,0.517,0.723,6,-3.703,0,0.215,0.515,0,0.106,0.859,80.533,138467,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 165,A Bailar el Brincao,Aldo Peña,"Aldo Peña, Julio Kempff S.",NA,NA,Brincao,Spotify,165.txt,Javi,TRUE,NA,NA,NA,165.txt,"A bailar el brincao
 
 A mí me gusta bailar, cuando quiero divertirme
@@ -7376,7 +7436,7 @@ Por eso bailo brincao, brincao, brincao hasta calentarme
 Mejor si estoy bien chupao’, chupao’, chupao’ para enamorarme
 Por eso bailo brincao, brincao, brincao hasta calentarme
 Mejor si estoy bien chupao’, chupao’, chupao’ para enamorarme
-",8,6,1,7,14,4,6,8,12,22,2fZWoFZxRgCnuEJPr70f3p,12,A Bailar el Brincao,Con la Magia Del Brincao,Aldo Peña,track,spotify:track:2fZWoFZxRgCnuEJPr70f3p,0.89,0.644,9,-8.224,1,0.133,0.617,0,0.0957,0.788,124.869,218880,4
+",0,0,0,0,0,0,0,0,0,0,2fZWoFZxRgCnuEJPr70f3p,12,A Bailar el Brincao,Con la Magia Del Brincao,Aldo Peña,track,spotify:track:2fZWoFZxRgCnuEJPr70f3p,0.89,0.644,9,-8.224,1,0.133,0.617,0,0.0957,0.788,124.869,218880,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 166,La danza del Triunfo,Trio Oriental,"Eduardo Velasco Rivero, Cirilo Yaca Emata",Beni,NA,Macheteros,Spotify,166.txt,Javi,TRUE,Si,NA,NA,166.txt,"Mi San Ignacio querido 
 Pueblo valiente del Paitití 
 Mi San Ignacio querido 
@@ -7439,7 +7499,7 @@ Que es tradicional, que es tradicional
 Machetero loco, machetero loco
 Baila tu ritmo, baila tu danza
 Que es tradicional, que es tradicional
-",0,1,0,0,1,1,0,2,1,2,2KSXxAdRrAJQVvqm8vQEyZ,0,La danza del Triunfo,Nuestro Santa Cruz,Trio Oriental,track,spotify:track:2KSXxAdRrAJQVvqm8vQEyZ,0.642,0.872,0,-7.043,1,0.22,0.552,0,0.0675,0.924,176.13,241307,4
+",8,6,1,7,14,4,6,8,12,22,2KSXxAdRrAJQVvqm8vQEyZ,0,La danza del Triunfo,Nuestro Santa Cruz,Trio Oriental,track,spotify:track:2KSXxAdRrAJQVvqm8vQEyZ,0.642,0.872,0,-7.043,1,0.22,0.552,0,0.0675,0.924,176.13,241307,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 167,Piama,Trio Oriental,Recopilación Roger Becerra,Beni,1991,Chovena mojeña,Spotify,167.txt,Javi,TRUE,NA,NA,NA,167.txt,"Piama, piama etaneridad (Dame, dame esa tutuma)
 Nicuti chayaré chucuraté, (Que es para medir el chocolate,)
 Piama, piama etaneridad (Dame, dame esa tutuma)
@@ -7478,7 +7538,7 @@ Que es para medir el chocolate,
 Como soy pobre no tengo plata
 Nadie, nadie, nadie me quiere así.
 Como soy pobre no tengo plata
-Nadie, nadie, nadie me quiere así.",1,1,1,3,2,9,2,3,12,4,72MtV7yadSOn56BVw8U6ua,1,Piama,Santa Cruz de Antaño,Trio Oriental,track,spotify:track:72MtV7yadSOn56BVw8U6ua,0.758,0.587,7,-7.681,1,0.0574,0.628,0,0.0689,0.931,91.999,199867,4
+Nadie, nadie, nadie me quiere así.",0,1,0,0,1,1,0,2,1,2,72MtV7yadSOn56BVw8U6ua,1,Piama,Santa Cruz de Antaño,Trio Oriental,track,spotify:track:72MtV7yadSOn56BVw8U6ua,0.758,0.587,7,-7.681,1,0.0574,0.628,0,0.0689,0.931,91.999,199867,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 168,El Trasnochador,"Camba ""Sota"" Pedro Flores",Nicolás Menacho / Raúl Otero Reiche,NA,NA,Taquirari,Spotify,168.txt,Javi,TRUE,Si,falta sincronizar,NA,168.txt,"Yo soy el trasnochador
 Tunando en la oscuridad
 Y en estas noches de amor
@@ -7521,7 +7581,7 @@ Perdido el placer, perdido el amor
 Por eso sigo mi bien
 Tunante y trasnochador
 Huyéndole a mi dolor
-Perdido el placer, perdido el amor",3,4,0,3,7,2,2,8,3,16,1xXwvkTPRm0UFk5ppNprzh,4,El Trasnochador,Magia del Sentimiento Camba,"Camba ""Sota"" Pedro Flores",track,spotify:track:1xXwvkTPRm0UFk5ppNprzh,0.411,0.399,8,-14.76,0,0.0419,0.812,0.182,0.0887,0.818,164.684,167158,4
+Perdido el placer, perdido el amor",1,1,1,3,2,9,2,3,12,4,1xXwvkTPRm0UFk5ppNprzh,4,El Trasnochador,Magia del Sentimiento Camba,"Camba ""Sota"" Pedro Flores",track,spotify:track:1xXwvkTPRm0UFk5ppNprzh,0.411,0.399,8,-14.76,0,0.0419,0.812,0.182,0.0887,0.818,164.684,167158,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 169,Viva Trinidad,Embajadores del Beni,"Roger Becerra, Hormando Ortiz",Beni,NA,Taquirari,Spotify,169.txt,Javi,TRUE,NA,NA,NA,169.txt,"Mi tierra es la gran tierra de los Moxos
 Esforzados y valientes por la patria y el hogar
 Que llevan en su pecho toda el fuego
@@ -7560,7 +7620,7 @@ Que mese la flor
 Viva, viva nuestro sol
 La laguna y el jaral
 Viva el torno trinador
-Viva Trinidad",1,2,0,1,5,0,1,2,1,9,1DJmx5ZCr0Qkgyi0v6ikvp,14,Viva Trinidad,El Mejor Joyero Musical del Oriente Boliviano Vol. 5,Embajadores del Beni,track,spotify:track:1DJmx5ZCr0Qkgyi0v6ikvp,0.657,0.589,10,-8.508,0,0.0498,0.324,0,0.0522,0.966,84.513,141227,4
+Viva Trinidad",3,4,0,3,7,2,2,8,3,16,1DJmx5ZCr0Qkgyi0v6ikvp,14,Viva Trinidad,El Mejor Joyero Musical del Oriente Boliviano Vol. 5,Embajadores del Beni,track,spotify:track:1DJmx5ZCr0Qkgyi0v6ikvp,0.657,0.589,10,-8.508,0,0.0498,0.324,0,0.0522,0.966,84.513,141227,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 170,Rosita Pochi - Arete Guasu,Thola Claudio,Tradicional Ava Guaraní,NA,NA,Atico,Spotify,170.txt,Javi,TRUE,Si,falta sincronizar,NA,170.txt,"Rosita, Rosita pochi (Rosita, Rosita mala)
 emecheve amor emecheve demederete (dame tu alma, dame tu amor)
 demahepora baepota (dame tu cuerpo, hermosa flor)
@@ -7623,7 +7683,7 @@ Con las tamboras y las flautitas
 Quiero yo disfrutar
 En las rueditas con las cuñitas
 Bailando sin parar
-Bailando sin parar",1,0,1,2,0,3,0,1,5,2,1nFBFRaiQOQee5GLIy4xJC,21,Rosita Pochi,Rosita Pochi,Thola Claudio,track,spotify:track:1nFBFRaiQOQee5GLIy4xJC,0.685,0.787,10,-6.638,0,0.035,0.343,1.68e-4,0.049,0.913,96.883,348500,4
+Bailando sin parar",1,2,0,1,5,0,1,2,1,9,1nFBFRaiQOQee5GLIy4xJC,21,Rosita Pochi,Rosita Pochi,Thola Claudio,track,spotify:track:1nFBFRaiQOQee5GLIy4xJC,0.685,0.787,10,-6.638,0,0.035,0.343,1.68e-4,0.049,0.913,96.883,348500,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 171,Cara de Ovejas,Los Llajuas,A.A.D.D. SOBODAYCOM,NA,NA,Caporal,Spotify,171.txt,Javi,TRUE,NA,NA,NA,171.txt,"Negro alicate (negro alicate)
 Anda por agua (anda por agua)
 Vuelve con Wawa (vuelve con Wawa)
@@ -7674,7 +7734,7 @@ Con su cara de conejo
 
 Maldita sea ese viejo
 Con su cara de conejo
-Con su cara de conejo",1,0,2,2,1,4,0,0,4,2,3akem0u1qZVl8OaB5gGSUJ,26,Cara de Ovejas,Para Que Les Pique...,Los Llajuas,track,spotify:track:3akem0u1qZVl8OaB5gGSUJ,0.725,0.518,0,-8.135,1,0.26,0.623,0,0.097,0.583,139.577,213304,3
+Con su cara de conejo",1,0,1,2,0,3,0,1,5,2,3akem0u1qZVl8OaB5gGSUJ,26,Cara de Ovejas,Para Que Les Pique...,Los Llajuas,track,spotify:track:3akem0u1qZVl8OaB5gGSUJ,0.725,0.518,0,-8.135,1,0.26,0.623,0,0.097,0.583,139.577,213304,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 172,Acaso Porque Te Quiero,Yara,-,NA,NA,Llamerada,Spotify,172.txt,Javi,TRUE,Si,NA,NA,172.txt,"¿Acaso para que me quieras
 Te puse puñal en el pecho?
 ¿Acaso para que me quieras
@@ -7710,7 +7770,7 @@ con la llamerada San Andrés
 Así se baila llamero,
 con la llamerada San Andrés
 
-",4,1,2,5,2,4,2,0,7,2,1g8Ikt0VWXhRENNZqtj0nE,22,Acaso Porque Te Quiero,30 Años un Proyecto de Vida,Yara,track,spotify:track:1g8Ikt0VWXhRENNZqtj0nE,0.628,0.654,0,-4.064,1,0.0955,0.0463,0,0.0957,0.702,81.983,236760,4
+",1,0,2,2,1,4,0,0,4,2,1g8Ikt0VWXhRENNZqtj0nE,22,Acaso Porque Te Quiero,30 Años un Proyecto de Vida,Yara,track,spotify:track:1g8Ikt0VWXhRENNZqtj0nE,0.628,0.654,0,-4.064,1,0.0955,0.0463,0,0.0957,0.702,81.983,236760,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 173,Loco De Amor,Amaru,Rolando Siles Coca,NA,2005,Caporal,Spotify,173.txt,Javi,TRUE,NA,NA,NA,173.txt,"Otra más que se me va
 ¡Ay! Mi negra, mi negra suerte
 Otra más que se me va
@@ -7761,7 +7821,7 @@ Solo cambiar esta suerte
 Bailando Saya, bailando Saya por ti
 
 Bailando Saya, bailando Saya por ti (¡Hey-hey-hey!)
-Bailando Saya, bailando Saya por ti (¡Hey!)",2,0,1,2,2,2,0,0,2,2,2v902YTEPqjkTayQDzuJkO,44,Loco de Amor - 2005 Remastered,30 Años (2005 Remastered),Amaru,track,spotify:track:2v902YTEPqjkTayQDzuJkO,0.786,0.776,2,-4.704,0,0.0355,0.697,0,0.109,0.965,136.436,248852,3
+Bailando Saya, bailando Saya por ti (¡Hey!)",4,1,2,5,2,4,2,0,7,2,2v902YTEPqjkTayQDzuJkO,44,Loco de Amor - 2005 Remastered,30 Años (2005 Remastered),Amaru,track,spotify:track:2v902YTEPqjkTayQDzuJkO,0.786,0.776,2,-4.704,0,0.0355,0.697,0,0.109,0.965,136.436,248852,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 174,Flor de Lirio,Pusisuyu Sikuthalas,-,Potosí,NA,Huayño,Spotify,174.txt,Javi,TRUE,Si,NA,NA,174.txt,"Aguilita voladora, reina de las aves
 Aguilita voladora, reina de las aves
 
@@ -7808,7 +7868,7 @@ Si amor me tienes
 
 Será pues porque te quiero, flor de lirio
 Tu has de ser mi dueña 
-Si amor me tienes",1,0,0,1,0,0,0,1,1,4,66tOVG09c9Lx2JyfyroW4E,1,Flor de Lirio,Memoria y Verso,Pusisuyu Sikuthalas,track,spotify:track:66tOVG09c9Lx2JyfyroW4E,0.671,0.749,3,-5.31,1,0.0453,0.242,0,0.101,0.91,121.215,182400,4
+Si amor me tienes",2,0,1,2,2,2,0,0,2,2,66tOVG09c9Lx2JyfyroW4E,1,Flor de Lirio,Memoria y Verso,Pusisuyu Sikuthalas,track,spotify:track:66tOVG09c9Lx2JyfyroW4E,0.671,0.749,3,-5.31,1,0.0453,0.242,0,0.101,0.91,121.215,182400,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 175,Yerbas del Olvido,Alberto Arteaga,-,Potosí,NA,Huayño,Spotify,175.txt,Javi,TRUE,Si,NA,NA,175.txt,"Que valor tienes para dejarme llorando
 Que valor tienes para dejarme llorando 
 
@@ -7844,7 +7904,7 @@ Hierbas del olvido has tomado
 Porque sin motivo, te estás yendo
 Hierbas del olvido has tomado
 Porque sin motivo, te estás yendo
-",3,1,3,3,3,6,1,3,7,7,1s0MSuzEJNPF2DlI1teZIT,10,Yerbas del Olvido,Lo Mejor de Alberto Arteaga,Alberto Arteaga,track,spotify:track:1s0MSuzEJNPF2DlI1teZIT,0.652,0.499,5,-9.051,1,0.0402,0.798,7.25e-6,0.0542,0.861,90.389,179800,4
+",1,0,0,1,0,0,0,1,1,4,1s0MSuzEJNPF2DlI1teZIT,10,Yerbas del Olvido,Lo Mejor de Alberto Arteaga,Alberto Arteaga,track,spotify:track:1s0MSuzEJNPF2DlI1teZIT,0.652,0.499,5,-9.051,1,0.0402,0.798,7.25e-6,0.0542,0.861,90.389,179800,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 176,Tradiciones cochabambinas : todos santos / Santa Vera Cruz / Taquipayanacu,Ana Cristina Céspedes,-,Cochabamba,NA,Coplas,Spotify,176.txt,Javi,FALSE,NO,quechua,https://open.spotify.com/intl-es/track/1qpUapEcPRNZIBF8ZIpuWA?si=5cfc798b8afc41b1,176.txt,"Todos Santosmanta, (Todos Santos) 
 Ay palomitay
 San Andrésman quilla (A un mes para San Andrés)
@@ -7983,7 +8043,7 @@ no me vas a olvidar, siempre
 
 
 
-",0,0,0,0,1,0,0,0,0,1,1qpUapEcPRNZIBF8ZIpuWA,4,Tradiciones Cochabambinas: Todos Santos / Santa Veracruz / Taquipayanacu,Tradiciones Cochabambinas (Mis 25 Años de Canto),Ana Cristina Céspedes,track,spotify:track:1qpUapEcPRNZIBF8ZIpuWA,0.452,0.734,2,-6.761,1,0.173,0.188,0,0.101,0.7,85.408,550272,4
+",3,1,3,3,3,6,1,3,7,7,1qpUapEcPRNZIBF8ZIpuWA,4,Tradiciones Cochabambinas: Todos Santos / Santa Veracruz / Taquipayanacu,Tradiciones Cochabambinas (Mis 25 Años de Canto),Ana Cristina Céspedes,track,spotify:track:1qpUapEcPRNZIBF8ZIpuWA,0.452,0.734,2,-6.761,1,0.173,0.188,0,0.101,0.7,85.408,550272,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 177,Palomita y Cueca,Encarna Lazarte,Encarnación Lazarte,Cochabamba,1969,Cueca,Spotify,177.txt,Javi,TRUE,Si,quechua,NA,177.txt,"Palomita maykunata purisqanki, (Palomita, por donde estas caminando)
 Mana cháy purisqaykipi (No será que en tus andares)
 munasqaywan tinkukunki, (te hubieses encontrado con mi amor)
@@ -8015,7 +8075,7 @@ Mana chay sonqoyki nanan (No te duele tu corazón)
 Chhika munasqaykimanta! (tanto que te quería)
 
 Mana chay sonqoyki nanan (No te duele tu corazón)
-Chhika munasqaykimanta! (tanto que te quería)",0,1,0,0,1,0,0,2,0,1,5CDj4IAUx4dWTvl8cWz1k2,1,Palomita y Cueca,Palomita y Cueca,Encarna Lazarte,track,spotify:track:5CDj4IAUx4dWTvl8cWz1k2,0.761,0.403,9,-4.349,0,0.0384,0.755,0.204,0.323,0.96,129.105,175596,3
+Chhika munasqaykimanta! (tanto que te quería)",0,0,0,0,1,0,0,0,0,1,5CDj4IAUx4dWTvl8cWz1k2,1,Palomita y Cueca,Palomita y Cueca,Encarna Lazarte,track,spotify:track:5CDj4IAUx4dWTvl8cWz1k2,0.761,0.403,9,-4.349,0,0.0384,0.755,0.204,0.323,0.96,129.105,175596,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 178,La Sobra Que He Dejado,Valeno,Pastor Cámara,NA,2017,Morenada,Spotify,178.txt,Javi,TRUE,Si,NA,NA,178.txt,"La sobra que he dejado
 Ya, acaso
 Sa, sa, Valeno
@@ -8067,7 +8127,7 @@ Después de mí quién sea
 Cómo dice aquel dicho
 Después de mí cualquiera (si)
 Después de mí cualquiera
-Después de mí quien sea",1,1,2,3,0,8,1,1,8,1,6lwt3JpbnIg8hWAkTlzDdO,39,LA Sobra Que He Dejado,Valeno,"Valeno, Pastor Cámara, soria records",track,spotify:track:6lwt3JpbnIg8hWAkTlzDdO,0.751,0.826,7,-3.213,0,0.139,0.497,0,0.36,0.755,96.986,271342,4
+Después de mí quien sea",0,1,0,0,1,0,0,2,0,1,6lwt3JpbnIg8hWAkTlzDdO,39,LA Sobra Que He Dejado,Valeno,"Valeno, Pastor Cámara, soria records",track,spotify:track:6lwt3JpbnIg8hWAkTlzDdO,0.751,0.826,7,-3.213,0,0.139,0.497,0,0.36,0.755,96.986,271342,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 179,Lágrimas de Dolor,Semilla,Alfonso Zabala,NA,2012,Morenada,Spotify,179.txt,Javi,TRUE,NA,NA,NA,179.txt,"Son lágrimas de dolor brotan por tus mejillas, no llores más.
 Suspira tu corazón 
 Amorcito te amo, no sufras más
@@ -8109,7 +8169,7 @@ que te vas conmigo
 Que nos importa, que hable la gente
 anda diles, no vas a volver
 A tu padre y a tu familia 
-que te vas conmigo",1,4,1,1,4,1,2,4,1,11,2xsTsUKFD0me6qpMRF4ubj,36,Lágrimas de Dolor,Lágrimas de Dolor,Semilla,track,spotify:track:2xsTsUKFD0me6qpMRF4ubj,0.809,0.788,10,-4.938,1,0.0809,0.412,0,0.0831,0.854,95.047,297587,4
+que te vas conmigo",1,1,2,3,0,8,1,1,8,1,2xsTsUKFD0me6qpMRF4ubj,36,Lágrimas de Dolor,Lágrimas de Dolor,Semilla,track,spotify:track:2xsTsUKFD0me6qpMRF4ubj,0.809,0.788,10,-4.938,1,0.0809,0.412,0,0.0831,0.854,95.047,297587,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 180,Sé Feliz,Grupo Bolivia,Edgar Delgado F.,NA,1988,Taquirari,Spotify,180.txt,Javi,TRUE,NA,NA,NA,180.txt,"Para que vivir de esperanzas y sueños
 Para que vivir esperando el mañana
 Para que vivir viviendo de recuerdos
@@ -8149,7 +8209,7 @@ Sé feliz aunque no a mi lado
 Sé feliz que también trataré
 Ya que lo nuestro no fue adelante
 Ya mañana días mejores vendrán
-",0,1,0,0,1,0,0,2,0,4,0ODvZIPoiIXu7SOelZRpaV,32,Sé Feliz,Lo Mejor del Grupo Femenino Bolivia,Grupo Bolivia,track,spotify:track:0ODvZIPoiIXu7SOelZRpaV,0.699,0.452,7,-13.684,1,0.0619,0.303,0,0.111,0.819,83.845,169667,4
+",1,4,1,1,4,1,2,4,1,11,0ODvZIPoiIXu7SOelZRpaV,32,Sé Feliz,Lo Mejor del Grupo Femenino Bolivia,Grupo Bolivia,track,spotify:track:0ODvZIPoiIXu7SOelZRpaV,0.699,0.452,7,-13.684,1,0.0619,0.303,0,0.111,0.819,83.845,169667,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 181,Imillitay,Los Kjarkas,Ulises Hermosa,NA,1983,Tinku,Spotify,181.txt,Javi,TRUE,NA,NA,NA,181.txt,"Dijiste que me querías
 pero no es verdad
 siempre jugaste conmigo
@@ -8182,7 +8242,7 @@ q'ory q'enti jina (igual que el colibrí)
 Muyuspa muyuspa imillitay (muchachita que da vueltas)
 saqer pari huanki (me has dejado)
 imillitay saqer pari huanquipuni (muchachita me has dejado)
-imillitay saqer pari huanquipuni (muchachita me has dejado)",0,4,1,0,7,2,2,3,0,10,6A4zk4Jp4VzhVtm73JWqgX,52,Imillitay,Génesis Aymara,Los Kjarkas,track,spotify:track:6A4zk4Jp4VzhVtm73JWqgX,0.62,0.72,1,-9.888,0,0.0412,0.368,4.32e-6,0.106,0.963,154.619,215954,4
+imillitay saqer pari huanquipuni (muchachita me has dejado)",0,1,0,0,1,0,0,2,0,4,6A4zk4Jp4VzhVtm73JWqgX,52,Imillitay,Génesis Aymara,Los Kjarkas,track,spotify:track:6A4zk4Jp4VzhVtm73JWqgX,0.62,0.72,1,-9.888,0,0.0412,0.368,4.32e-6,0.106,0.963,154.619,215954,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 182,Cholita,Tupay,Edwin Castellanos,NA,2006,Caporal,Spotify,182.txt,Javi,TRUE,NA,NA,NA,182.txt,"¡Esa cholita!
 
 Tu piel morena, sabor a tierra mojada
@@ -8231,7 +8291,7 @@ Quiero ser el jardinero de tu rosal
 
 Cholita, déjame entrar en tu alma
 Cholita, déjate amar
-Cholita, déjame ser tu felicidad",1,2,1,2,2,8,4,0,9,7,0PzLKroUWYklWUqeJfqlQp,42,Cholita,Tupay Con Corazon,Tupay Bolivia,track,spotify:track:0PzLKroUWYklWUqeJfqlQp,0.88,0.844,4,-4.825,0,0.0824,0.727,6.39e-5,0.225,0.947,129.032,228373,3
+Cholita, déjame ser tu felicidad",0,4,1,0,7,2,2,3,0,10,0PzLKroUWYklWUqeJfqlQp,42,Cholita,Tupay Con Corazon,Tupay Bolivia,track,spotify:track:0PzLKroUWYklWUqeJfqlQp,0.88,0.844,4,-4.825,0,0.0824,0.727,6.39e-5,0.225,0.947,129.032,228373,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 183,Cantarina,"Willy Claure, Milton Cortez","Milton Cortez, Willy Claure",NA,2014,Cueca,Spotify,183.txt,Javi,TRUE,NA,NA,NA,183.txt,"Desde que me vi en tus ojos
 Voy de desvelo en desvelo
 Con la ilusión de que un día
@@ -8296,7 +8356,7 @@ Ven a calmar mi dolor
 Por besar tus labios rojos
 Por ser parte de tu aliento
 Dejaría todo, todo
-Porque vengas a mi encuentro",4,0,2,4,0,5,4,1,8,3,2EV6xaMX1fphnGOkQEI6wg,33,Cantarina,Cuecas para No Bailar,"Willy Claure, Milton Cortez",track,spotify:track:2EV6xaMX1fphnGOkQEI6wg,0.624,0.456,4,-6.349,0,0.0265,0.701,0,0.0934,0.475,99.999,246480,3
+Porque vengas a mi encuentro",1,2,1,2,2,8,4,0,9,7,2EV6xaMX1fphnGOkQEI6wg,33,Cantarina,Cuecas para No Bailar,"Willy Claure, Milton Cortez",track,spotify:track:2EV6xaMX1fphnGOkQEI6wg,0.624,0.456,4,-6.349,0,0.0265,0.701,0,0.0934,0.475,99.999,246480,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 184,Jumechi,Las Hermanas Saldaña,Godofredo Nuñez,Santa Cruz,NA,Carnavalito,Spotify,184.txt,Javi,TRUE,NA,NA,NA,184.txt,"Otra vez viene el borracho
 Gritando con hipo
 Y el tufo a jumechi
@@ -8359,7 +8419,7 @@ Con la banda de Saavedra
 Pues ya no hay valor Señor
 Todas las noches llega mojau'
 Patea las sillas, rompe las ollas
-Y a mí me hace escapar",2,1,1,3,2,2,1,3,4,5,1oCbtkRVSKJulE0JYDrQln,15,Jumechi,Colección,Las Hermanas Saldaña,track,spotify:track:1oCbtkRVSKJulE0JYDrQln,0.61,0.504,7,-9.81,1,0.0326,0.544,0,0.178,0.961,89.188,127467,1
+Y a mí me hace escapar",4,0,2,4,0,5,4,1,8,3,1oCbtkRVSKJulE0JYDrQln,15,Jumechi,Colección,Las Hermanas Saldaña,track,spotify:track:1oCbtkRVSKJulE0JYDrQln,0.61,0.504,7,-9.81,1,0.0326,0.544,0,0.178,0.961,89.188,127467,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 185,Vos Sos Mi Dulzor,Arturo Sobenes,Percy Ávila,Santa Cruz,NA,Taquirari,Spotify,185.txt,Javi,TRUE,NA,NA,NA,185.txt,"Fuerza cambita
 Así mi cumpa
 
@@ -8417,7 +8477,7 @@ Te acuerdes de mi
 Te voy hacer tu casita
 Debajo de un totaí
 Y te daré un tejoncito pa que cuando viajes
-Te acuerdes de mi",0,1,1,1,0,2,0,0,1,1,3AX7SNujrCjv49OUffySy2,4,Vos Sos Mi Dulzor,Cantares de Bolivia Vol. 2,Arturo Sobenes,track,spotify:track:3AX7SNujrCjv49OUffySy2,0.633,0.598,4,-8.084,0,0.045,0.371,0,0.123,0.961,83.602,190773,4
+Te acuerdes de mi",2,1,1,3,2,2,1,3,4,5,3AX7SNujrCjv49OUffySy2,4,Vos Sos Mi Dulzor,Cantares de Bolivia Vol. 2,Arturo Sobenes,track,spotify:track:3AX7SNujrCjv49OUffySy2,0.633,0.598,4,-8.084,0,0.045,0.371,0,0.123,0.961,83.602,190773,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 186,Matecito de Toronjil,Trío de Antaño,A.A.D.D. SOBODAYCOM,NA,NA,Cueca,Spotify,186.txt,Javi,FALSE,Si,NA,NA,186.txt,"Quisiera ser matecito 
 Matecito de toronjil 
 Para entrarme, a tu pecho 
@@ -8464,7 +8524,7 @@ La dulzura, de tus labios
 Yo me los llevaré
     
 La dulzura, de tus labios 
-Yo me los llevaré",1,0,2,2,1,0,0,0,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Yo me los llevaré",0,1,1,1,0,2,0,0,1,1,4P0SQ35cJhMiiJeO8y0Cda,11,Matecito de Toronjil,Con Sabor Chuquisaqueño Vol. 1,Trío de Antaño,track,spotify:track:4P0SQ35cJhMiiJeO8y0Cda,0.7,0.49,4,-10.91,0,0.04,0.73,0,0.32,0.66,115,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1
 187,Tantas Idas y Venidas,Montoneros de Mendez,Nilo Soruco,Tarija,NA,Cueca,Spotify,187.txt,Javi,TRUE,NA,NA,NA,187.txt,"Tantas idas y venidas
 Tanto pasar por aquí
 Se han de acabar tus zapatos
@@ -8511,7 +8571,7 @@ No lo mires con desprecio
 Ni lo trates con rigor
 
 No lo mires con desprecio
-Ni lo trates con rigor",1,1,0,1,1,1,0,0,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ni lo trates con rigor",1,0,2,2,1,0,0,0,2,2,7DWIHebjSWmXxAe2FzLqQW,11,Tantas Idas y Venidas,Lo Mejor de Tarija,Montoneros de Mendez,track,spotify:track:7DWIHebjSWmXxAe2FzLqQW,0.72,0.7,2,-10.17,1,0.29,0.55,0,0.34,0.82,130,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2
 188,Recuerdos Muertos,Luisa Molina,Jesús Jordan,NA,NA,Kaluyo,Spotify,188.txt,Javi,FALSE,Si,NA,NA,188.txt,"Pobre recuerdos muertos
 Sepultado en el sepulcro
 Del olvido
@@ -8549,7 +8609,7 @@ Eran dulces alegrías
 Amar sufrir recordar el ayer 
 Esas son las penas mías
 Amar sufrir recordar el ayer 
-Esas son las penas mías",8,2,10,5,0,7,2,3,21,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Esas son las penas mías",1,1,0,1,1,1,0,0,3,2,0pZI4YCtPrqG2I8FoBDWKU,9,Recuerdos Muertos,Mi Vida Hecha Canción,Luisa Molina,track,spotify:track:0pZI4YCtPrqG2I8FoBDWKU,0.59,0.1,3,-21.96,1,0.06,0.83,0,0.1,0.78,78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2
 189,Los Refranes,Los Jairas,Edgar Yayo Joffré,NA,NA,Taquirari,Spotify,189.txt,Javi,TRUE,NA,NA,NA,189.txt,"En el país de los ciegos 
 El tuerto es el que manda
 Pueblo chico, infierno grande 
@@ -8595,7 +8655,7 @@ Arbol chueco no endereza
 Quien mal anda mal acaba 
 Mejor siempre es estar solo 
 A estar mal acompañado
-",1,4,2,4,6,4,3,5,6,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+",8,2,10,5,0,7,2,3,21,2,7yVMRZOBUelP3dhpqsbrY5,8,Los Refranes,De Colección,Los Jairas,track,spotify:track:7yVMRZOBUelP3dhpqsbrY5,0.64,0.42,8,-13.12,0,0.14,0.78,0,0.47,0.71,83,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,2
 190,Ch'uwa Yaku Kawasaypuni,Luzmila Carpio,Luzmila Carpio,Potosí,NA,Huayño,Spotify,190.txt,Javi,TRUE,NA,NA,NA,190.txt,"Zorzal, zorzalito mío
 ve a pedir el agua de lluvia
 Zorzal, zorzalito mío
@@ -8635,4 +8695,4 @@ Nuestros ríos y nuestras lagunas)
 para que siempre estén limpios)
 Nuestros ríos y nuestras lagunas)
 para que siempre estén limpios)
-",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+",1,4,2,4,6,4,3,5,6,7,2zUsuqkFVAF6yJ5Rq0WTVT,16,Ch'uwa Yaku Kawasaypuni,Yuyay Jap'ina Tapes,Luzmila Carpio,track,spotify:track:2zUsuqkFVAF6yJ5Rq0WTVT,0.69,0.68,0,-4.88,0,0.07,0.45,0,0.35,0.62,87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,7

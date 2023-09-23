@@ -32,8 +32,10 @@ letras <- letras %>%
   relocate(id, .before = everything()) %>%
   arrange(id)
 data <- metadata %>%
-  left_join(letras, by = join_by(N == id)) %>%
-  filter(N != 18)
+  left_join(letras, by = join_by(N == id)) 
+# 
+# %>%
+#   filter(N != 18) 
 
 ```
 
@@ -84,7 +86,6 @@ data_palabras_ritmo <- data_palabras %>%
   count(palabra, sort = T) %>%
   slice_head(n = 10)
 
-
 crear_wordcloud <- function(data, ritmo) {
   data %>%
     filter(Ritmo == ritmo) %>%
@@ -111,6 +112,9 @@ write_csv(data_palabras_ritmo, "output/palabras_top10_por_ritmo.csv")
 
 ```{r}
 sentimientos_contenido <- get_nrc_sentiment(data$contenido, language = "spanish")
+
+# Corrigiendo los que no evaluó por alguna razón
+# sentimientos_contenido[164, ] <- get_nrc_sentiment(data$contenido[163], language = "spanish"))
 write_csv(sentimientos_contenido, "output/sentimientos_contenido.csv")
 
 sentimientos_traduccion <- c("Ira" = "anger", "Anticipacion" = "anticipation", "Asco" = "disgust", "Miedo" = "fear", "Alegria" = "joy", "Tristeza" = "sadness", "Sorpresa" = "surprise", "Confianza" = "trust", "Negativo" = "negative", "Positivo" = "positive")
@@ -160,7 +164,7 @@ write_csv(suma_general_sentimientos_2, "output/suma_general_sentimientos_2.csv")
 ```{r}
 suma_sentimientos_ritmos <- data %>%
   group_by(Ritmo) %>%
-  summarize(across(Ira:Positivo, sum)) %>%
+  summarize(across(Ira:Positivo, sum, na.rm = T)) %>%
   pivot_longer(-Ritmo, names_to = "sentimiento", values_to = "valor") 
   
 ```
@@ -242,13 +246,20 @@ Visualización alternativa reescalando
 ```{r}
 library(scales)
 valencia_vs_ritmo <- valencia_vs_ritmo %>%
-  mutate(valencia_2 = rescale(valencia, to = c(-1, 1)))
+  mutate(valencia_2 = scales::rescale(valencia, to = c(-1, 1)))
 
 valencia_vs_ritmo %>%
-  ggplot() +
-  geom_col(aes(reorder(Ritmo, valencia_2), valencia_2, fill = valencia_2 > 0), show.legend = F) +
+  ggplot(aes(reorder(Ritmo, valencia_2), valencia_2, color = valencia_2 > 0)) +
+  geom_segment(aes(x = reorder(Ritmo, valencia_2), xend = reorder(Ritmo, valencia_2), y = 0, yend = valencia_2), show.legend = F) +
+  geom_point(size=2, alpha=0.6) +
   coord_flip() +
-  labs(x = "Ritmo")
+  labs(x = "Ritmo") +
+  theme(
+    legend.position = "none",
+    panel.grid.major.y = element_blank(),
+    panel.border = element_blank(),
+    axis.ticks.y = element_blank()
+  )
 
 write_csv(valencia_vs_ritmo, "output/valencia_vs_ritmo.csv")
 
@@ -264,10 +275,17 @@ sentimientoletra_vs_ritmo <- data %>%
   summarize(sentimiento_score = mean(sentimiento, na.rm = T))
 
 sentimientoletra_vs_ritmo %>%
-  ggplot() +
-  geom_col(aes(reorder(Ritmo, sentimiento_score), sentimiento_score, fill = sentimiento_score > 0), show.legend = F) +
+ggplot(aes(reorder(Ritmo, sentimiento_score), sentimiento_score, color = sentimiento_score > 0)) +
+  geom_segment(aes(x = reorder(Ritmo, sentimiento_score), xend = reorder(Ritmo, sentimiento_score), y = 0, yend = sentimiento_score), show.legend = F) +
+  geom_point(size=2, alpha=0.6) +
   coord_flip() +
-  labs(x = "Ritmo")
+  labs(x = "Ritmo") +
+  theme(
+    legend.position = "none",
+    panel.grid.major.y = element_blank(),
+    panel.border = element_blank(),
+    axis.ticks.y = element_blank()
+  )
 
 write_csv(sentimientoletra_vs_ritmo, "output/sentimientoletra_vs_ritmo.csv")
   
@@ -277,9 +295,19 @@ Cruce
 ```{r}
 valencia_sentimiento_ritmo <- valencia_vs_ritmo %>%
   left_join(sentimientoletra_vs_ritmo) %>%
-  select(-valencia) %>%
-  pivot_longer(-Ritmo, names_to = "tipo_score", values_to = "valor")
+  select(-valencia) 
 
+# %>%
+#   pivot_longer(-Ritmo, names_to = "tipo_score", values_to = "valor")
+
+valencia_sentimiento_ritmo %>%
+  ggplot(aes(sentimiento_score, valencia_2)) +
+  geom_point() +
+  geom_smooth(method = lm)
+
+```
+```{r}
+cor.test(valencia_sentimiento_ritmo$sentimiento_score, valencia_sentimiento_ritmo$valencia_2)
 ```
 
 
