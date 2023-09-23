@@ -129,7 +129,8 @@ data <- data %>%
 TODO: general de sentimientos
 ```{r}
 suma_general_sentimientos <- data %>%
-  summarize(across(Ira:Positivo, sum)) %>%
+  select(Ira:Positivo) %>%
+  summarize(across(everything(), sum, na.rm = T)) %>%
   pivot_longer(everything(), names_to = "sentimiento", values_to = "valor")
 
 suma_general_sentimientos_6 <- suma_general_sentimientos %>%

@@ -213,7 +213,6 @@ sabe,18
 consuelo,17
 dices,17
 lástima,17
-mana,17
 mirar,17
 muchacha,17
 plata,17
@@ -257,6 +256,7 @@ cruel,15
 dicho,15
 fatal,15
 hierba,15
+mana,15
 muere,15
 pandinita,15
 perder,15
@@ -719,7 +719,6 @@ inmortal,6
 inocencia,6
 inspiración,6
 juré,6
-kananpaq,6
 lararaylara,6
 laylaray,6
 lejano,6
@@ -741,7 +740,6 @@ miles,6
 minuto,6
 mires,6
 moreno,6
-nispa,6
 nuevamente,6
 ocupar,6
 oiga,6
@@ -928,7 +926,6 @@ alegres,4
 alegrías,4
 alguna,4
 aliento,4
-allinta,4
 allí,4
 altar,4
 altiplano,4
@@ -983,7 +980,6 @@ chico,4
 chicote,4
 china,4
 chucuraté,4
-chulluchiy,4
 cháy,4
 clara,4
 cochabamba,4
@@ -1095,7 +1091,6 @@ jumechi,4
 juramentos,4
 kanki,4
 kapuay,4
-kawsaypuni,4
 kullakitanaka,4
 lao,4
 layalala,4
@@ -1125,8 +1120,6 @@ markasata,4
 mata,4
 matarlo,4
 matará,4
-may,4
-mañamuy,4
 mejores,4
 melodía,4
 mentirosos,4
@@ -1256,7 +1249,6 @@ sirvo,4
 sonsa,4
 suele,4
 sufrido,4
-sumaq,4
 sunquyuq,4
 suplico,4
 suspirar,4
@@ -1309,8 +1301,6 @@ wawa,4
 wayay,4
 wayayayay,4
 wipalas,4
-yaku,4
-yakuta,4
 yayay,4
 zampoñas,4
 ñuqanwan,4
@@ -1522,6 +1512,7 @@ alguien,2
 alicate,2
 alivio,2
 allin,2
+allinta,2
 almas,2
 altipampa,2
 alumbró,2
@@ -1639,15 +1630,12 @@ chichita,2
 chiquitana,2
 chit'i,2
 chiti,2
-chiwankituy,2
-chiwanku,2
 choca,2
 choclo,2
 cholero,2
 chovena,2
 chu,2
 chuspa,2
-chuwa,2
 cierto,2
 cigarrito,2
 cintura,2
@@ -1966,11 +1954,8 @@ kapuwanchu,2
 kawsakuni,2
 kawsakusaq,2
 kawsaspari,2
-kawsay,2
-kawsaywan,2
 kayari,2
 kaymanta,2
-khuyay,2
 kusirikunachis,2
 kuña,2
 kuñatai,2
@@ -2002,14 +1987,12 @@ llakisqata,2
 llamaba,2
 llamen,2
 llamo,2
-llank'ayninchiswan,2
 llanos,2
 llego,2
 llegue,2
 llevarme,2
 llevarán,2
 lleven,2
-llinphuyllapuni,2
 lloraría,2
 lloras,2
 lloviéndome,2
@@ -2046,7 +2029,6 @@ mataron,2
 mates,2
 matinal,2
 maykunata,2
-mayukunanchis,2
 mañanita,2
 mañudo,2
 meció,2
@@ -2067,7 +2049,6 @@ miradas,2
 mirao,2
 mire,2
 miserable,2
-misk'ipuni,2
 miski,2
 mismas,2
 mismito,2
@@ -2107,6 +2088,7 @@ negrero,2
 nengarajchu,2
 nidito,2
 niego,2
+nispa,2
 niwanqachari,2
 niyki,2
 nombra,2
@@ -2127,7 +2109,6 @@ olviden,2
 olvidé,2
 olvídate,2
 ondas,2
-onqoy,2
 opuestas,2
 orden,2
 orgullosa,2
@@ -2236,7 +2217,6 @@ protesté,2
 pudo,2
 puedas,2
 pujllay,2
-pukyu,2
 pulso,2
 puntería,2
 puqunanpaq,2
@@ -2248,8 +2228,6 @@ q,2
 q'enti,2
 q'omer,2
 q'ory,2
-qhawasun,2
-qochakunachis,2
 qolqellojra,2
 quedamos,2
 quedo,2
@@ -2328,7 +2306,6 @@ santosmanta,2
 sapo,2
 saqewanki,2
 saqisqayki,2
-saqra,2
 saquen,2
 savia,2
 sazonando,2
@@ -2382,11 +2359,9 @@ surco,2
 suspira,2
 t,2
 t'ikas,2
-t'inpusqatapuni,2
 tacho,2
 takikuq,2
 takina,2
-takirikuspa,2
 takirikuy,2
 takispa,2
 tambora,2
@@ -2413,7 +2388,6 @@ tian,2
 tipoi,2
 tirante,2
 titanes,2
-tiyanña,2
 tobita,2
 tocar,2
 toditas,2
@@ -2450,7 +2424,6 @@ tutumitay,2
 tí,2
 ubiquen,2
 uksituta,2
-ukyasunpuni,2
 ulalitay,2
 umsa,2
 urutaki,2
@@ -2507,9 +2480,6 @@ waqharikuspa,2
 wara,2
 warita,2
 wawitay,2
-yakitu,2
-yakitunchispis,2
-yakutaqa,2
 yapa,2
 yara,2
 yayere,2

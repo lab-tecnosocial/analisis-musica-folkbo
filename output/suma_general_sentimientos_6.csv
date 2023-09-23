@@ -1,9 +1,9 @@
 sentimiento,valor,porcentaje
-Ira,NA,NA
-Anticipacion,NA,NA
-Asco,NA,NA
-Miedo,NA,NA
-Alegria,NA,NA
-Tristeza,NA,NA
-Sorpresa,NA,NA
-Confianza,NA,NA
+Ira,255,8.426966292134832
+Anticipacion,353,11.665565102445473
+Asco,235,7.766027759418375
+Miedo,385,12.723066754791803
+Alegria,550,18.17580964970258
+Tristeza,680,22.47191011235955
+Sorpresa,209,6.90680766688698
+Confianza,359,11.863846662260409
