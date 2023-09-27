@@ -310,5 +310,21 @@ valencia_sentimiento_ritmo %>%
 cor.test(valencia_sentimiento_ritmo$sentimiento_score, valencia_sentimiento_ritmo$valencia_2)
 ```
 
+sentimiento y danzabilidad
 
+```{r}
+sentimiento_danzabilidad <- valencia_sentimiento_ritmo %>%
+  left_join(danzabilidad_vs_ritmo)
+
+write_csv(sentimiento_danzabilidad, "output/sentimiento_danzabilidad.csv")
+
+sentimiento_danzabilidad %>%
+  ggplot(aes(sentimiento_score, danzabilidad)) +
+  geom_point() +
+  geom_smooth(method = lm)
+```
+```{r}
+cor.test(sentimiento_danzabilidad$sentimiento_score, sentimiento_danzabilidad$danzabilidad)
+
+```
 
